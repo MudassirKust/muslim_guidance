@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "224556843140",
+    "project_id": "muslimguidance-b8fe9",
+    "storage_bucket": "muslimguidance-b8fe9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224556843140:android:49481503440c20f77202d1",
+        "android_client_info": {
+          "package_name": "com.muslimguidance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224556843140-g8j871qq2crlsef79f151v01m3p96k19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muslimguidance",
+            "certificate_hash": "efc31cd81f2d3f83a89330e4a9726685b6e3da38"
+          }
+        },
+        {
+          "client_id": "224556843140-tl7dbjtcf5dl7mgd66t1vddhjtil7pu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjUM5avjhvBXCa8huQ-Y6bG4ZgYCfyhAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224556843140-tl7dbjtcf5dl7mgd66t1vddhjtil7pu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224556843140-sj58102cssjonajbf7h7s0hqks9eu1ka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muslimguidance",
+                "app_store_id": "6758307130"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

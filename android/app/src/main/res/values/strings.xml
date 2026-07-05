@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace these placeholders with values from Meta for Developers dashboard -->
+    <!-- developers.facebook.com → your app → Settings → Basic → App ID -->
+    <string name="facebook_app_id">1487283206526670</string>
+    <!-- developers.facebook.com → your app → Settings → Advanced → Client Token -->
+    <string name="facebook_client_token">7087f09784b3f1dc58ee14220a67ccb4</string>
+</resources>

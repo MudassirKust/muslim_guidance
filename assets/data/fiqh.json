@@ -1,0 +1,292 @@
+{
+  "Fiqh": {
+    "title": {
+      "English": "The Heart of Islamic Practice",
+      "Arabic": "قلب الممارسة الإسلامية",
+      "Urdu": "اسلامی عمل کا دل",
+      "French": "Le cœur de la pratique islamique",
+      "Dutch": "Het hart van de islamitische praktijk",
+      "Spanish": "El corazón de la práctica islámica",
+      "Swedish": "Hjärtat av islamisk praxis",
+      "Norwegian": "Hjertet av islamsk praksis",
+      "Finnish": "Islamilaisen käytännön sydän",
+      "Pashto": "د اسلامي عمل زړه",
+      "Indonesian": "Inti Praktik Islam",
+      "Turkish": "İslami Uygulamanın Kalbi",
+      "German": "Das Herz der islamischen Praxis"
+    },
+    "introduction": {
+      "English": "Islamic law, known as Fiqh, plays a central role in the daily lives of Muslims...",
+      "Arabic": "يُعد الفقه، المعروف باسم الفقه، دورًا مركزيًا في الحياة اليومية للمسلمين...",
+      "Urdu": "اسلامی قانون، جسے فقہ کہا جاتا ہے، مسلمانوں کی روزمرہ زندگی میں مرکزی کردار ادا کرتا ہے...",
+      "French": "La loi islamique, connue sous le nom de Fiqh, joue un rôle central dans la vie quotidienne des musulmans...",
+      "Dutch": "De islamitische wet, bekend als Fiqh, speelt een centrale rol in het dagelijks leven van moslims...",
+      "Spanish": "La ley islámica, conocida como Fiqh, juega un papel central en la vida diaria de los musulmanes...",
+      "Swedish": "Den islamiska lagen, känd som Fiqh, spelar en central roll i muslimers vardag...",
+      "Norwegian": "Den islamske loven, kjent som Fiqh, spiller en sentral rolle i muslimers dagligliv...",
+      "Finnish": "Islamilainen laki, joka tunnetaan nimellä Fiqh, on keskeisessä asemassa muslimien jokapäiväisessä elämässä...",
+      "Pashto": "اسلامي قانون، چې د فقې په نوم یادیږي، د مسلمانانو په ورځنیو ژوند کې مرکزي رول لوبوي...",
+      "Indonesian": "Hukum Islam, yang dikenal sebagai Fiqh, memainkan peran sentral dalam kehidupan sehari-hari umat Islam...",
+      "Turkish": "İslam hukuku, Fıkıh olarak bilinir ve Müslümanların günlük yaşamında merkezi bir rol oynar...",
+      "German": "Das islamische Recht, bekannt als Fiqh, spielt eine zentrale Rolle im täglichen Leben der Muslime..."
+    },
+    "foundations": {
+      "title": {
+        "English": "The Foundations of Fiqh",
+        "Arabic": "أساسيات الفقه",
+        "Urdu": "فقہ کی بنیادیں",
+        "French": "Les fondements du Fiqh",
+        "Dutch": "De grondslagen van Fiqh",
+        "Spanish": "Los fundamentos del Fiqh",
+        "Swedish": "Grunderna för Fiqh",
+        "Norwegian": "Grunnlaget for Fiqh",
+        "Finnish": "Fiqh perusteet",
+        "Pashto": "د فقې بنسټونه",
+        "Indonesian": "Dasar-dasar Fiqh",
+        "Turkish": "Fıkhın Temelleri",
+        "German": "Die Grundlagen des Fiqh"
+      },
+      "description": {
+        "English": "The term Fiqh literally means 'deep understanding'...",
+        "Arabic": "يعني مصطلح الفقه حرفيًا 'الفهم العميق'...",
+        "Urdu": "لفظ فقہ کا لغوی معنی 'گہری سمجھ' ہے...",
+        "French": "Le terme Fiqh signifie littéralement 'compréhension profonde'...",
+        "Dutch": "De term Fiqh betekent letterlijk 'diep begrip'...",
+        "Spanish": "El término Fiqh significa literalmente 'comprensión profunda'...",
+        "Swedish": "Termen Fiqh betyder bokstavligen 'djup förståelse'...",
+        "Norwegian": "Begrepet Fiqh betyr bokstavelig talt 'dyp forståelse'...",
+        "Finnish": "Termi Fiqh tarkoittaa kirjaimellisesti 'syvää ymmärrystä'...",
+        "Pashto": "د فقې اصطلاح په لغوي توګه 'ژوره پوهه' معنی لري...",
+        "Indonesian": "Istilah Fiqh secara harfiah berarti 'pemahaman mendalam'...",
+        "Turkish": "Fıkıh terimi kelimenin tam anlamıyla 'derin anlayış' anlamına gelir...",
+        "German": "Der Begriff Fiqh bedeutet wörtlich 'tiefes Verständnis'..."
+      },
+      "domains": {
+        "ibadat": {
+          "English": "'Ibadat (Acts of Worship) -- This includes rulings on prayer...",
+          "Arabic": "العبادات (أعمال العبادة) -- تشمل هذه الأحكام المتعلقة بالصلاة...",
+          "Urdu": "عبادات (عبادت کے اعمال) -- اس میں نماز کے احکام شامل ہیں...",
+          "French": "'Ibadat (Actes d'adoration) -- Cela inclut les règles relatives à la prière...",
+          "Dutch": "'Ibadat (daden van aanbidding) -- Dit omvat regels over gebed...",
+          "Spanish": "'Ibadat (Actos de adoración) -- Esto incluye reglas sobre la oración...",
+          "Swedish": "'Ibadat (akter av dyrkan) -- Detta inkluderar regler om bön...",
+          "Norwegian": "'Ibadat (tilbedelseshandlinger) -- Dette inkluderer regler om bønn...",
+          "Finnish": "'Ibadat (palvontateot) -- Tämä sisältää säännöt rukouksesta...",
+          "Pashto": "عبادات (د عبادت عملونه) -- دا د لمونځ په اړه احکام شاملوي...",
+          "Indonesian": "'Ibadat (Tindakan Ibadah) -- Ini mencakup aturan tentang shalat...",
+          "Turkish": "'İbadat (İbadet Eylemleri) -- Bu, namazla ilgili kuralları içerir...",
+          "German": "'Ibadat (Akte der Anbetung) -- Dazu gehören Regeln für Gebet..."
+        },
+        "muamalat": {
+          "English": "Mu'amalat (Human Interactions) -- These include civil law...",
+          "Arabic": "المعاملات (التفاعلات البشرية) -- تشمل هذه القانون المدني...",
+          "Urdu": "معاملات (انسانی تعاملات) -- ان میں شہری قانون شامل ہیں...",
+          "French": "Mu'amalat (Interactions humaines) -- Celles-ci incluent le droit civil...",
+          "Dutch": "Mu'amalat (menselijke interacties) -- Deze omvatten burgerlijk recht...",
+          "Spanish": "Mu'amalat (Interacciones humanas) -- Estos incluyen derecho civil...",
+          "Swedish": "Mu'amalat (mänskliga interaktioner) -- Dessa inkluderar civilrätt...",
+          "Norwegian": "Mu'amalat (menneskelige interaksjoner) -- Disse inkluderer sivillov...",
+          "Finnish": "Mu'amalat (ihmisten väliset vuorovaikutukset) -- Näihin kuuluvat siviilioikeus...",
+          "Pashto": "معاملات (انساني اړیکې) -- دا مدني قانون شاملوي...",
+          "Indonesian": "Mu'amalat (Interaksi Manusia) -- Ini mencakup hukum perdata...",
+          "Turkish": "Mu'amalat (İnsan Etkileşimleri) -- Bunlar medeni hukuku içerir...",
+          "German": "Mu'amalat (menschliche Interaktionen) -- Dazu gehören Zivilrecht..."
+        }
+      }
+    },
+    "sources": {
+      "title": {
+        "English": "Sources of Islamic Law",
+        "Arabic": "مصادر الشريعة الإسلامية",
+        "Urdu": "اسلامی قانون کے مصادر",
+        "French": "Sources du droit islamique",
+        "Dutch": "Bronnen van islamitisch recht",
+        "Spanish": "Fuentes del derecho islámico",
+        "Swedish": "Källor till islamisk lag",
+        "Norwegian": "Kilder til islamsk lov",
+        "Finnish": "Islamilaisen lain lähteet",
+        "Pashto": "د اسلامي قانون سرچینې",
+        "Indonesian": "Sumber-sumber Hukum Islam",
+        "Turkish": "İslam Hukukunun Kaynakları",
+        "German": "Quellen des islamischen Rechts"
+      },
+      "primary": [
+        {
+          "name": {
+            "English": "The Qur'an",
+            "Arabic": "القرآن",
+            "Urdu": "قرآن",
+            "French": "Le Coran",
+            "Dutch": "De Koran",
+            "Spanish": "El Corán",
+            "Swedish": "Koranen",
+            "Norwegian": "Koranen",
+            "Finnish": "Koraani",
+            "Pashto": "قرآن",
+            "Indonesian": "Al-Qur'an",
+            "Turkish": "Kuran",
+            "German": "Der Koran"
+          },
+          "description": {
+            "English": "As the final and unaltered revelation of Allah...",
+            "Arabic": "كأخر وحي من الله غير المعدل...",
+            "Urdu": "اللہ کے آخری اور غیر تبدیل شدہ وحی کے طور پر...",
+            "French": "En tant que révélation finale et inchangée d'Allah...",
+            "Dutch": "Als de laatste en onveranderde openbaring van Allah...",
+            "Spanish": "Como la revelación final e inalterada de Alá...",
+            "Swedish": "Som Allahs sista och oförändrade uppenbarelse...",
+            "Norwegian": "Som Allahs endelige og uendrede åpenbaring...",
+            "Finnish": "Allahin viimeisenä ja muuttumattomana ilmestyksenä...",
+            "Pashto": "د الله د وروستي او نا تغیر منونکي وحی په توګه...",
+            "Indonesian": "Sebagai wahyu terakhir dan tidak diubah dari Allah...",
+            "Turkish": "Allah'ın son ve değiştirilmemiş vahyi olarak...",
+            "German": "Als die letzte und unveränderte Offenbarung Allahs..."
+          }
+        },
+        {
+          "name": {
+            "English": "The Sunnah",
+            "Arabic": "السنة",
+            "Urdu": "سنت",
+            "French": "La Sunnah",
+            "Dutch": "De Soennah",
+            "Spanish": "La Sunnah",
+            "Swedish": "Sunnah",
+            "Norwegian": "Sunnah",
+            "Finnish": "Sunna",
+            "Pashto": "سنت",
+            "Indonesian": "Sunnah",
+            "Turkish": "Sünnet",
+            "German": "Die Sunna"
+          },
+          "description": {
+            "English": "The Sunnah encompasses the sayings, actions...",
+            "Arabic": "تشمل السنة أقوال وأفعال...",
+            "Urdu": "سنت میں اقوال، افعال...",
+            "French": "La Sunnah comprend les paroles, les actions...",
+            "Dutch": "De Soennah omvat de uitspraken, handelingen...",
+            "Spanish": "La Sunnah abarca los dichos, acciones...",
+            "Swedish": "Sunnah omfattar uttalanden, handlingar...",
+            "Norwegian": "Sunnah omfatter uttalelser, handlinger...",
+            "Finnish": "Sunna käsittää sanat, teot...",
+            "Pashto": "سنت د وینو، عملونو...",
+            "Indonesian": "Sunnah mencakup perkataan, perbuatan...",
+            "Turkish": "Sünnet sözleri, eylemleri...",
+            "German": "Die Sunna umfasst die Aussagen, Handlungen..."
+          }
+        }
+      ],
+      "secondary": {
+        "English": "Secondary sources include Istihsan, Maslahah...",
+        "Arabic": "تشمل المصادر الثانوية الاستحسان، المصلحة...",
+        "Urdu": "ثانوی ذرائع میں استحسان، مصلحت...",
+        "French": "Les sources secondaires incluent Istihsan, Maslahah...",
+        "Dutch": "Secundaire bronnen omvatten Istihsan, Maslahah...",
+        "Spanish": "Las fuentes secundarias incluyen Istihsan, Maslahah...",
+        "Swedish": "Sekundära källor inkluderar Istihsan, Maslahah...",
+        "Norwegian": "Sekundære kilder inkluderer Istihsan, Maslahah...",
+        "Finnish": "Toissijaisia lähteitä ovat Istihsan, Maslahah...",
+        "Pashto": "ثانوي سرچینې استحسان، مصلحت...",
+        "Indonesian": "Sumber sekunder termasuk Istihsan, Maslahah...",
+        "Turkish": "İkincil kaynaklar Istihsan, Maslahah...",
+        "German": "Sekundäre Quellen umfassen Istihsan, Maslahah..."
+      }
+    },
+    "modern_relevance": {
+      "English": "The enduring relevance of Fiqh lies in its adaptability...",
+      "Arabic": "تكمن الأهمية الدائمة للفقه في قدرته على التكيف...",
+      "Urdu": "فقہ کی پائیدار اہمیت اس کی مطابقت پذیری میں پوشیدہ ہے...",
+      "French": "La pertinence durable du Fiqh réside dans son adaptabilité...",
+      "Dutch": "De blijvende relevantie van Fiqh ligt in zijn aanpassingsvermogen...",
+      "Spanish": "La relevancia perdurable del Fiqh radica en su adaptabilidad...",
+      "Swedish": "Fiqhs bestående relevans ligger i dess anpassningsförmåga...",
+      "Norwegian": "Fiqhs varige relevans ligger i dens tilpasningsevne...",
+      "Finnish": "Fiqhin kestävä relevanssi piilee sen sopeutumiskyvyssä...",
+      "Pashto": "د فقې د تلپاتې اړوندتیا په هغه د تطابق وړتیا کې ده...",
+      "Indonesian": "Relevansi abadi Fiqh terletak pada kemampuannya untuk beradaptasi...",
+      "Turkish": "Fıkhın kalıcı önemi, uyum sağlama yeteneğinde yatar...",
+      "German": "Die anhaltende Relevanz des Fiqh liegt in seiner Anpassungsfähigkeit..."
+    },
+    "schools": {
+      "title": {
+        "English": "Major Schools of Thought",
+        "Arabic": "المذاهب الرئيسية",
+        "Urdu": "اہم مکاتب فکر",
+        "French": "Principales écoles de pensée",
+        "Dutch": "Belangrijke scholen van denken",
+        "Spanish": "Principales escuelas de pensamiento",
+        "Swedish": "Stora tankeskolor",
+        "Norwegian": "Store tenkeretninger",
+        "Finnish": "Suuret koulukunnat",
+        "Pashto": "لوی فکري مکاتب",
+        "Indonesian": "Mazhab-mazhab Utama",
+        "Turkish": "Büyük Düşünce Okulları",
+        "German": "Hauptschulen des Denkens"
+      },
+      "list": [
+        {
+          "name": {
+            "English": "Hanafi School",
+            "Arabic": "المذهب الحنفي",
+            "Urdu": "حنفی مکتب فکر",
+            "French": "École hanafite",
+            "Dutch": "Hanafi-school",
+            "Spanish": "Escuela hanafí",
+            "Swedish": "Hanafi-skola",
+            "Norwegian": "Hanafi-skolen",
+            "Finnish": "Hanafi-koulukunta",
+            "Pashto": "حنفي مکتب",
+            "Indonesian": "Mazhab Hanafi",
+            "Turkish": "Hanefi Mezhebi",
+            "German": "Hanafi-Schule"
+          },
+          "founder": {
+            "English": "Imam Abu Hanifah",
+            "Arabic": "الإمام أبو حنيفة",
+            "Urdu": "امام ابو حنیفہ",
+            "French": "Imam Abu Hanifah",
+            "Dutch": "Imam Abu Hanifah",
+            "Spanish": "Imam Abu Hanifah",
+            "Swedish": "Imam Abu Hanifah",
+            "Norwegian": "Imam Abu Hanifah",
+            "Finnish": "Imam Abu Hanifah",
+            "Pashto": "امام ابو حنیفه",
+            "Indonesian": "Imam Abu Hanifah",
+            "Turkish": "İmam Ebu Hanife",
+            "German": "Imam Abu Hanifa"
+          },
+          "feature": {
+            "English": "Uses logic & analogy",
+            "Arabic": "يستخدم المنطق والقياس",
+            "Urdu": "منطق اور قیاس استعمال کرتا ہے",
+            "French": "Utilise la logique et l'analogie",
+            "Dutch": "Gebruikt logica & analogie",
+            "Spanish": "Usa lógica y analogía",
+            "Swedish": "Använder logik & analogi",
+            "Norwegian": "Bruker logikk & analogi",
+            "Finnish": "Käyttää logiikkaa & analogiaa",
+            "Pashto": "د منطق او قیاس کاروي",
+            "Indonesian": "Menggunakan logika & analogi",
+            "Turkish": "Mantık ve kıyas kullanır",
+            "German": "Verwendet Logik & Analogie"
+          }
+        }
+      ]
+    },
+    "conclusion": {
+      "English": "Fiqh is the 'understanding' of how to live Islam in daily life...",
+      "Arabic": "الفقه هو 'الفهم' لكيفية عيش الإسلام في الحياة اليومية...",
+      "Urdu": "فقہ یہ 'سمجھ' ہے کہ روزمرہ زندگی میں اسلام کیسے گزارا جائے...",
+      "French": "Le Fiqh est la 'compréhension' de comment vivre l'islam au quotidien...",
+      "Dutch": "Fiqh is het 'begrip' van hoe de islam in het dagelijks leven te leven...",
+      "Spanish": "Fiqh es la 'comprensión' de cómo vivir el islam en la vida diaria...",
+      "Swedish": "Fiqh är 'förståelsen' för hur man lever islam i vardagen...",
+      "Norwegian": "Fiqh er 'forståelsen' av hvordan man lever islam i hverdagen...",
+      "Finnish": "Fiqh on 'ymmärrys' siitä, miten islamia elää päivittäisessä elämässä...",
+      "Pashto": "فقې 'پوهه' ده چې څنګه په ورځنیو ژوند کې اسلام ژوند کړو...",
+      "Indonesian": "Fiqh adalah 'pemahaman' tentang bagaimana menjalankan Islam dalam kehidupan sehari-hari...",
+      "Turkish": "Fıkıh, günlük yaşamda İslam'ın nasıl yaşanacağının 'anlayışı'dır...",
+      "German": "Fiqh ist das 'Verständnis' davon, wie man den Islam im täglichen Leben lebt..."
+    }
+  }
+}

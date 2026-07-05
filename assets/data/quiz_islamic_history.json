@@ -1,0 +1,2714 @@
+[
+  {
+    "question": {
+      "en": "The early Muslims who faced severe persecution migrated twice to which Christian kingdom, seeking refuge?",
+      "ar": "هاجر المسلمون الأوائل الذين تعرضوا لاضطهاد شديد مرتين إلى أي مملكة مسيحية طلبًا للجوء؟",
+      "ur": "جن ابتدائی مسلمانوں کو شدید ظلم و ستم کا سامنا کرنا پڑا، انہوں نے پناہ کی تلاش میں دو بار کس مسیحی سلطنت کی طرف ہجرت کی؟",
+      "fr": "Les premiers musulmans qui ont subi de graves persécutions ont émigré deux fois vers quel royaume chrétien pour chercher refuge ?",
+      "nl": "De vroege moslims die zware vervolging ondervonden, migreerden tweemaal naar welk christelijk koninkrijk op zoek naar toevlucht?",
+      "es": "Los primeros musulmanes que sufrieron una severa persecución emigraron dos veces a qué reino cristiano en busca de refugio?",
+      "sv": "De tidiga muslimer som utsattes för svår förföljelse migrerade två gånger till vilket kristet kungarike för att söka skydd?",
+      "no": "De tidlige muslimene som opplevde alvorlig forfølgelse migrerte to ganger til hvilket kristent kongerike for å søke tilflukt?",
+      "fi": "Varhaiset muslimit, jotka kohtasivat ankaraa vainoa, pakenivat kahdesti mihin kristilliseen valtakuntaan etsiessään turvapaikkaa?",
+      "ps": "هغه لومړني مسلمانان چې له سختو ظلمونو سره مخ شول، د پناه غوښتلو لپاره دوه ځله کوم عیسوي سلطنت ته هجرت وکړ؟",
+      "id": "Kaum muslimin awal yang menghadapi penganiayaan berat berhijrah dua kali ke kerajaan Kristen mana untuk mencari perlindungan?",
+      "tr": "Şiddetli zulme uğrayan ilk Müslümanlar, sığınmak için iki kez hangi Hıristiyan krallığına göç ettiler?",
+      "de": "Die frühen Muslime, die schwerer Verfolgung ausgesetzt waren, wanderten zweimal in welches christliche Königreich aus, um Zuflucht zu suchen?",
+      "bn": "প্রাথমিক মুসলিমরা যারা তীব্র নির্যাতনের সম্মুখীন হয়েছিল, তারা আশ্রয়ের জন্য দু'বার কোন খ্রিস্টান রাজ্যে হিজরত করেছিল?",
+      "so": "Muslimiintii hore ee la soo food saartay cadaadis daran, laba jeer u haajireen boqortooyo Masiixi ah oo ay magangalyo ka doonayeen?"
+    },
+    "options": {
+      "en": [
+        "Persia",
+        "Rome",
+        "Abyssinia (Ethiopia)",
+        "Egypt"
+      ],
+      "ar": [
+        "فارس",
+        "روما",
+        "الحبشة (إثيوبيا)",
+        "مصر"
+      ],
+      "ur": [
+        "فارس",
+        "روم",
+        "حبشہ (ایتھوپیا)",
+        "مصر"
+      ],
+      "fr": [
+        "Perse",
+        "Rome",
+        "Abyssinie (Éthiopie)",
+        "Égypte"
+      ],
+      "nl": [
+        "Perzië",
+        "Rome",
+        "Abessinië (Ethiopië)",
+        "Egypte"
+      ],
+      "es": [
+        "Persia",
+        "Roma",
+        "Abisinia (Etiopía)",
+        "Egipto"
+      ],
+      "sv": [
+        "Persien",
+        "Rom",
+        "Abessinien (Etiopien)",
+        "Egypten"
+      ],
+      "no": [
+        "Persia",
+        "Roma",
+        "Abyssinia (Etiopia)",
+        "Egypt"
+      ],
+      "fi": [
+        "Persia",
+        "Rooma",
+        "Abessinia (Etiopia)",
+        "Egypti"
+      ],
+      "ps": [
+        "فارس",
+        "روم",
+        "حبشه (ایتوپیا)",
+        "مصر"
+      ],
+      "id": [
+        "Persia",
+        "Romawi",
+        "Habasyah (Ethiopia)",
+        "Mesir"
+      ],
+      "tr": [
+        "İran",
+        "Roma",
+        "Habeşistan (Etiyopya)",
+        "Mısır"
+      ],
+      "de": [
+        "Persien",
+        "Rom",
+        "Abessinien (Äthiopien)",
+        "Ägypten"
+      ],
+      "bn": [
+        "পারস্য",
+        "রোম",
+        "আবিসিনিয়া (ইথিওপিয়া)",
+        "মিশর"
+      ],
+      "so": [
+        "Faaris",
+        "Rooma",
+        "Habash (Itoobiya)",
+        "Masar"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "What was the name of the powerful ban on social and economic dealings imposed by the Quraysh on the Prophet (ﷺ) and his clan?",
+      "ar": "ما اسم المقاطعة القوية على التعاملات الاجتماعية والاقتصادية التي فرضتها قريش على النبي (ﷺ) وعلى عشيرته؟",
+      "ur": "اس طاقتور سماجی اور اقتصادی پابندی کا کیا نام تھا جو قریش نے نبی (ﷺ) اور ان کے قبیلے پر عائد کی تھی؟",
+      "fr": "Quel était le nom du puissant boycottage des relations sociales et économiques imposé par les Quraysh au Prophète (ﷺ) et à son clan ?",
+      "nl": "Wat was de naam van de krachtige boycot op sociale en economische omgang die de Quraysh oplegden aan de Profeet (ﷺ) en zijn clan?",
+      "es": "¿Cuál era el nombre del poderoso boicot a las relaciones sociales y económicas impuesto por los Quraysh al Profeta (ﷺ) y a su clan?",
+      "sv": "Vad hette den mäktiga bojkotten av sociala och ekonomiska förbindelser som Quraysh införde mot profeten (ﷺ) och hans klan?",
+      "no": "Hva het den mektige boikotten av sosiale og økonomiske forbindelser som Quraysh påla profeten (ﷺ) og hans klan?",
+      "fi": "Mikä oli sen voimakkaan sosiaalisten ja taloudellisten suhteiden boikotin nimi, jonka Quraysh asetti profeetalle (ﷺ) ja hänen klaanilleen?",
+      "ps": "هغه پیاوړی ټولنیز او اقتصادي بایکاټ څه نومېده چې قریشو نبي (ﷺ) او د هغه د قبیلې پر وړاندې نافذ کړی و؟",
+      "id": "Apa nama boikot kuat terhadap hubungan sosial dan ekonomi yang diterapkan Quraisy kepada Nabi (ﷺ) dan klannya?",
+      "tr": "Kureyş'in Peygamber (ﷺ) ve aşiretine uyguladığı güçlü sosyal ve ekonomik boykotun adı neydi?",
+      "de": "Wie hieß der mächtige Boykott der sozialen und wirtschaftlichen Beziehungen, den die Quraisch dem Propheten (ﷺ) und seinem Clan auferlegten?",
+      "bn": "কুরাইশদের দ্বারা নবী (ﷺ) ও তার গোত্রের উপর আরোপিত সামাজিক ও অর্থনৈতিক বয়কটের নাম কী ছিল?",
+      "so": "Waa maxay magaca cunaqabataynta xooggan ee macaamilka bulsho iyo dhaqaale ee ay qurayshiintu saareen Nabiga (ﷺ) iyo qabiilkiisa?"
+    },
+    "options": {
+      "en": [
+        "The Treaty of Hudaybiyyah",
+        "The Boycott of Banu Hashim",
+        "The Pledge of Aqabah",
+        "The Constitution of Madinah"
+      ],
+      "ar": [
+        "صلح الحديبية",
+        "مقاطعة بني هاشم",
+        "بيعة العقبة",
+        "دستور المدينة"
+      ],
+      "ur": [
+        "صلح حدیبیہ",
+        "بنی ہاشم کا بائیکاٹ",
+        "بیعت عقبہ",
+        "میثاق مدینہ"
+      ],
+      "fr": [
+        "Le Traité de Hudaybiyyah",
+        "Le Boycott des Banu Hashim",
+        "Le Serment d'Aqabah",
+        "La Constitution de Médine"
+      ],
+      "nl": [
+        "Het Verdrag van Hudaybiyyah",
+        "De Boycot van Banu Hashim",
+        "De Eed van Aqabah",
+        "De Grondwet van Madinah"
+      ],
+      "es": [
+        "El Tratado de Hudaybiyyah",
+        "El Boicot de Banu Hashim",
+        "El Juramento de Aqabah",
+        "La Constitución de Medina"
+      ],
+      "sv": [
+        "Fördraget i Hudaybiyyah",
+        "Bojkotten mot Banu Hashim",
+        "Löftet vid Aqabah",
+        "Medinas grundlag"
+      ],
+      "no": [
+        "Hudaybiyyah-traktaten",
+        "Boikotten av Banu Hashim",
+        "Aqabah-løftet",
+        "Medina-grunnloven"
+      ],
+      "fi": [
+        "Hudaybiyyahin sopimus",
+        "Banu Hashimin boikotti",
+        "Aqabahin vala",
+        "Medinan perustuslaki"
+      ],
+      "ps": [
+        "د حدیبیه تړون",
+        "د بني هاشم بایکاټ",
+        "د عقبه بیعت",
+        "د مدینه اساسي قانون"
+      ],
+      "id": [
+        "Perjanjian Hudaibiyah",
+        "Boikot Bani Hasyim",
+        "Baiat Aqabah",
+        "Konstitusi Madinah"
+      ],
+      "tr": [
+        "Hudeybiye Antlaşması",
+        "Haşimoğulları Boykotu",
+        "Akabe Biatı",
+        "Medine Sözleşmesi"
+      ],
+      "de": [
+        "Der Vertrag von Hudaibiyya",
+        "Der Boykott der Banu Haschim",
+        "Der Treueid von Aqaba",
+        "Die Verfassung von Medina"
+      ],
+      "bn": [
+        "হুদাইবিয়ার সন্ধি",
+        "বনু হাশিমের বয়কট",
+        "আকাবার শপথ",
+        "মদিনার সনদ"
+      ],
+      "so": [
+        "Heshiiskii Xudaybiya",
+        "Cunaqabatayntii Banuu Haashim",
+        "Ballankii Caqaba",
+        "Dastuurkii Madiina"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "In which year did the Prophet Muhammad (ﷺ) undertake the Night Journey (Isra) and the Ascension (Miraj)?",
+      "ar": "في أي عام قام النبي محمد (ﷺ) برحلة الإسراء والمعراج؟",
+      "ur": "نبی محمد (ﷺ) نے معراج (اسراء و معراج) کا سفر کس سال میں کیا؟",
+      "fr": "En quelle année le Prophète Muhammad (ﷺ) a-t-il entrepris le Voyage Nocturne (Isra) et l'Ascension (Miraj) ?",
+      "nl": "In welk jaar ondernam de Profeet Mohammed (ﷺ) de Nachtelijke Reis (Isra) en de Hemelvaart (Miraj)?",
+      "es": "¿En qué año realizó el Profeta Muhammad (ﷺ) el Viaje Nocturno (Isra) y la Ascensión (Miraj)?",
+      "sv": "Vilket år genomförde profeten Muhammed (ﷺ) nattresan (Isra) och himmelsfärden (Miraj)?",
+      "no": "Hvilket år foretok profeten Muhammed (ﷺ) nattreisen (Isra) og himmelfarten (Miraj)?",
+      "fi": "Minä vuonna profeetta Muhammed (ﷺ) teki yömatkan (Isra) ja taivasmatkan (Miraj)?",
+      "ps": "نبي محمد (ﷺ) د معراج سفر (اسراء او معراج) په کوم کال کې وکړ؟",
+      "id": "Pada tahun berapakah Nabi Muhammad (ﷺ) melakukan Perjalanan Malam (Isra) dan Mi'raj?",
+      "tr": "Peygamber Muhammed (ﷺ) İsra ve Miraç'ı hangi yılda gerçekleştirmiştir?",
+      "de": "In welchem Jahr unternahm der Prophet Muhammad (ﷺ) die Nachtreise (Isra) und die Himmelfahrt (Miraj)?",
+      "bn": "কোন সালে নবী মুহাম্মদ (ﷺ) মেরাজ (ইসরা ও মেরাজ) গমন করেছিলেন?",
+      "so": "Sanadkee ayuu Nabiga Muxamed (ﷺ) safarkii Isrā iyo Miirāc ku tagay?"
+    },
+    "options": {
+      "en": [
+        "The Year of Sorrow ('Aam al-Huzn)",
+        "The Year of the Elephant",
+        "The Year of the Conquest of Makkah",
+        "The 10th year of Prophethood"
+      ],
+      "ar": [
+        "عام الحزن",
+        "عام الفيل",
+        "عام فتح مكة",
+        "العام العاشر من البعثة"
+      ],
+      "ur": [
+        "عام الحزن (غم کا سال)",
+        "عام الفیل",
+        "عام فتح مکہ",
+        "نبوت کا 10واں سال"
+      ],
+      "fr": [
+        "L'Année de la Tristesse ('Aam al-Huzn)",
+        "L'Année de l'Éléphant",
+        "L'Année de la Conquête de La Mecque",
+        "La 10ème année de la Prophétie"
+      ],
+      "nl": [
+        "Het Jaar van Verdriet ('Aam al-Huzn)",
+        "Het Jaar van de Olifant",
+        "Het Jaar van de Verovering van Makkah",
+        "Het 10e jaar van het Profeetschap"
+      ],
+      "es": [
+        "El Año de la Tristeza ('Aam al-Huzn)",
+        "El Año del Elefante",
+        "El Año de la Conquista de La Meca",
+        "El décimo año de la Profecía"
+      ],
+      "sv": [
+        "Sorgens år ('Aam al-Huzn)",
+        "Elefantens år",
+        "Året för erövringen av Mekka",
+        "Det 10:e året av profetskapet"
+      ],
+      "no": [
+        "Sorgens år ('Aam al-Huzn)",
+        "Elefantens år",
+        "Året for erobringen av Mekka",
+        "Det 10. året av profetembetet"
+      ],
+      "fi": [
+        "Surun vuosi ('Aam al-Huzn)",
+        "Norsun vuosi",
+        "Mekan valloituksen vuosi",
+        "Profeuttakauden 10. vuosi"
+      ],
+      "ps": [
+        "د غم کال (عام الحزن)",
+        "د فیل کال",
+        "د مکه د فتح کال",
+        "د نبوت 10م کال"
+      ],
+      "id": [
+        "Tahun Dukacita ('Aam al-Huzn)",
+        "Tahun Gajah",
+        "Tahun Penaklukan Makkah",
+        "Tahun ke-10 Kenabian"
+      ],
+      "tr": [
+        "Hüzün Yılı ('Aam al-Huzn)",
+        "Fil Yılı",
+        "Mekke'nin Fethi Yılı",
+        "Peygamberliğin 10. yılı"
+      ],
+      "de": [
+        "Das Jahr der Trauer ('Aam al-Huzn)",
+        "Das Jahr des Elefanten",
+        "Das Jahr der Eroberung Makkas",
+        "Das 10. Jahr der Prophetenschaft"
+      ],
+      "bn": [
+        "দুঃখের বছর (আমুল হুজন)",
+        "হাতির বছর",
+        "মক্কা বিজয়ের বছর",
+        "নবুওয়াতের ১০ম বছর"
+      ],
+      "so": [
+        "Sannadkii Murugada (Caam al-Xuzn)",
+        "Sannadkii Maroodiga",
+        "Sannadkii Furkii Maka",
+        "Sannadkii 10aad ee Nabinimada"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 0
+  },
+  {
+    "question": {
+      "en": "During the Isra and Miraj, which five-times-daily prayer was made obligatory upon the Muslims?",
+      "ar": "خلال الإسراء والمعراج، ما هي الصلاة التي فُرضت على المسلمين خمس مرات يومياً؟",
+      "ur": "اسراء و معراج کے دوران، کون سی پانچ وقت کی نماز مسلمانوں پر فرض کی گئی؟",
+      "fr": "Durant l'Isra et le Miraj, quelle prière cinq fois par jour a été rendue obligatoire pour les musulmans ?",
+      "nl": "Tijdens de Isra en Miraj, welk vijfmaal daags gebed werd verplicht voor de moslims?",
+      "es": "Durante el Isra y Miraj, ¿qué oración cinco veces al día se hizo obligatoria para los musulmanes?",
+      "sv": "Under Isra och Miraj, vilken fem gånger daglig bön gjordes obligatorisk för muslimerna?",
+      "no": "Under Isra og Miraj, hvilken fem ganger daglig bønn ble gjort obligatorisk for muslimene?",
+      "fi": "Isran ja Mirajin aikana, mikä viisi kertaa päivässä suoritettava rukous tehtiin pakolliseksi muslimeille?",
+      "ps": "د اسراء او معراج په جریان کې، کوم پنځه وخته لمونځ پر مسلمانانو فرض شو؟",
+      "id": "Pada saat Isra dan Mi'raj, shalat lima waktu apa yang diwajibkan atas kaum muslimin?",
+      "tr": "İsra ve Miraç sırasında Müslümanlara farz kılınan beş vakit namaz hangisidir?",
+      "de": "Während Isra und Miraj, welches fünfmal tägliche Gebet wurde den Muslimen zur Pflicht gemacht?",
+      "bn": "ইসরা ও মেরাজের সময়, কোন পাঁচ ওয়াক্ত নামাজ মুসলিমদের উপর ফরজ করা হয়েছিল?",
+      "so": "Intii lagu guda jiray Isrā iyo Miirāc, salaadee 5 jeer ah ayaa laga waajibiyay Muslimiinta?"
+    },
+    "options": {
+      "en": [
+        "The Fajr prayer",
+        "The Friday prayer",
+        "The Salah (the five daily prayers)",
+        "The Tahajjud prayer"
+      ],
+      "ar": [
+        "صلاة الفجر",
+        "صلاة الجمعة",
+        "الصلاة (الصلوات الخمس)",
+        "صلاة التهجد"
+      ],
+      "ur": [
+        "نماز فجر",
+        "نماز جمعہ",
+        "نماز (پانچ وقت کی نماز)",
+        "نماز تہجد"
+      ],
+      "fr": [
+        "La prière de Fajr",
+        "La prière du vendredi",
+        "La Salah (les cinq prières quotidiennes)",
+        "La prière de Tahajjud"
+      ],
+      "nl": [
+        "Het Fajr-gebed",
+        "Het vrijdaggebed",
+        "Het Salah (de vijf dagelijkse gebeden)",
+        "Het Tahajjud-gebed"
+      ],
+      "es": [
+        "La oración del Fajr",
+        "La oración del viernes",
+        "El Salah (las cinco oraciones diarias)",
+        "La oración del Tahajjud"
+      ],
+      "sv": [
+        "Fajr-bönen",
+        "Fredagsbönen",
+        "Salah (de fem dagliga bönerna)",
+        "Tahajjud-bönen"
+      ],
+      "no": [
+        "Fajr-bønnen",
+        "Fredagsbønnen",
+        "Salah (de fem daglige bønnene)",
+        "Tahajjud-bønnen"
+      ],
+      "fi": [
+        "Fajr-rukous",
+        "Perjantairukous",
+        "Salah (viisi päivittäistä rukousta)",
+        "Tahajjud-rukous"
+      ],
+      "ps": [
+        "د فجر لمونځ",
+        "د جمعې لمونځ",
+        "لمونځ (پنځه وخته لمونځ)",
+        "د تہجد لمونځ"
+      ],
+      "id": [
+        "Shalat Fajr",
+        "Shalat Jumat",
+        "Shalat (shalat lima waktu)",
+        "Shalat Tahajjud"
+      ],
+      "tr": [
+        "Sabah namazı",
+        "Cuma namazı",
+        "Namaz (beş vakit namaz)",
+        "Tahaccüd namazı"
+      ],
+      "de": [
+        "Das Fajr-Gebet",
+        "Das Freitagsgebet",
+        "Das Salah (die fünf täglichen Gebete)",
+        "Das Tahajjud-Gebet"
+      ],
+      "bn": [
+        "ফজরের নামাজ",
+        "জুমার নামাজ",
+        "সালাহ (পাঁচ ওয়াক্ত নামাজ)",
+        "তাহাজ্জুদের নামাজ"
+      ],
+      "so": [
+        "Salaadda Fajr",
+        "Salaadda Jimcaha",
+        "Salaadda (shanta salaadood ee maalinlaha ah)",
+        "Salaadda Tahajjud"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "The second major pledge before the Hijrah, which paved the way for migration to Madinah, was:",
+      "ar": "البيعة الكبرى الثانية قبل الهجرة، والتي مهدت الطريق للهجرة إلى المدينة، كانت:",
+      "ur": "ہجرت سے پہلے دوسری بڑی بیعت، جس نے مدینہ کی طرف ہجرت کا راستہ ہموار کیا، کون سی تھی؟",
+      "fr": "Le deuxième grand serment avant la Hijrah, qui a ouvert la voie à la migration vers Médine, était :",
+      "nl": "De tweede grote eed vóór de Hijrah, die de weg vrijmaakte voor migratie naar Madinah, was:",
+      "es": "El segundo gran juramento antes de la Hégira, que allanó el camino para la migración a Medina, fue:",
+      "sv": "Det andra stora löftet före Hijrah, som banade väg för migration till Madinah, var:",
+      "no": "Det andre store løftet før Hijrah, som banet vei for migrasjon til Madinah, var:",
+      "fi": "Toinen suuri vala ennen Hijraa, joka tasoitti tietä muutolle Medinaan, oli:",
+      "ps": "د هجرت څخه مخکې دوهم لوی بیعت، چې مدینې ته د هجرت لاره یې هواره کړه، کوم و؟",
+      "id": "Baiat besar kedua sebelum Hijrah, yang membuka jalan untuk hijrah ke Madinah, adalah:",
+      "tr": "Hicret'ten önce Medine'ye göçün yolunu açan ikinci büyük biat:",
+      "de": "Das zweite große Gelöbnis vor der Hidschra, das den Weg für die Auswanderung nach Medina ebnete, war:",
+      "bn": "হিজরতের আগে দ্বিতীয় বড় বাইআত, যা মদিনায় হিজরতের পথ সুগম করেছিল, তা ছিল:",
+      "so": "Ballankii labaad ee weynaa ee ka hor Hijrada, kaas oo gogol-xaaray waddada hijrada Madiina, waxa uu ahaa:"
+    },
+    "options": {
+      "en": [
+        "The Pledge of Ridwan",
+        "The First Pledge of Aqabah",
+        "The Second Pledge of Aqabah",
+        "The Pledge of the Tree"
+      ],
+      "ar": [
+        "بيعة الرضوان",
+        "بيعة العقبة الأولى",
+        "بيعة العقبة الثانية",
+        "بيعة الشجرة"
+      ],
+      "ur": [
+        "بیعت رضوان",
+        "بیعت عقبہ اولی",
+        "بیعت عقبہ ثانیہ",
+        "بیعت شجرہ"
+      ],
+      "fr": [
+        "Le Serment de Ridwan",
+        "Le Premier Serment d'Aqabah",
+        "Le Second Serment d'Aqabah",
+        "Le Serment de l'Arbre"
+      ],
+      "nl": [
+        "De Eed van Ridwan",
+        "De Eerste Eed van Aqabah",
+        "De Tweede Eed van Aqabah",
+        "De Eed van de Boom"
+      ],
+      "es": [
+        "El Juramento de Ridwan",
+        "El Primer Juramento de Aqabah",
+        "El Segundo Juramento de Aqabah",
+        "El Juramento del Árbol"
+      ],
+      "sv": [
+        "Ridwan-löftet",
+        "Det första Aqabah-löftet",
+        "Det andra Aqabah-löftet",
+        "Trädlöftet"
+      ],
+      "no": [
+        "Ridwan-løftet",
+        "Det første Aqabah-løftet",
+        "Det andre Aqabah-løftet",
+        "Tre-løftet"
+      ],
+      "fi": [
+        "Ridwanin vala",
+        "Ensimmäinen Aqabahin vala",
+        "Toinen Aqabahin vala",
+        "Puun vala"
+      ],
+      "ps": [
+        "بیعت رضوان",
+        "د عقبه لومړنی بیعت",
+        "د عقبه دوهم بیعت",
+        "د ونې بیعت"
+      ],
+      "id": [
+        "Baiat Ridwan",
+        "Baiat Aqabah Pertama",
+        "Baiat Aqabah Kedua",
+        "Baiat Pohon"
+      ],
+      "tr": [
+        "Rıdvan Biatı",
+        "Birinci Akabe Biatı",
+        "İkinci Akabe Biatı",
+        "Ağaç Biatı"
+      ],
+      "de": [
+        "Der Treueid von Ridwan",
+        "Der erste Treueid von Aqaba",
+        "Der zweite Treueid von Aqaba",
+        "Der Treueid unter dem Baum"
+      ],
+      "bn": [
+        "রিদওয়ানের শপথ",
+        "প্রথম আকাবার শপথ",
+        "দ্বিতীয় আকাবার শপথ",
+        "গাছের শপথ"
+      ],
+      "so": [
+        "Ballankii Ridwaan",
+        "Ballankii koowaad ee Caqaba",
+        "Ballankii labaad ee Caqaba",
+        "Ballankii Geedka"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "The document that established the rights and duties of the Muslims, Jews, and other tribes in Madinah is known as:",
+      "ar": "الوثيقة التي أسست لحقوق وواجبات المسلمين واليهود والقبائل الأخرى في المدينة تعرف باسم:",
+      "ur": "دستاویز جس نے مدینہ میں مسلمانوں، یہودیوں اور دیگر قبائل کے حقوق و فرائض قائم کیے، کہلاتی ہے:",
+      "fr": "Le document qui a établi les droits et devoirs des musulmans, des juifs et des autres tribus à Médine est connu sous le nom de :",
+      "nl": "Het document dat de rechten en plichten van de moslims, joden en andere stammen in Madinah vastlegde, staat bekend als:",
+      "es": "El documento que estableció los derechos y deberes de los musulmanes, judíos y otras tribus en Medina se conoce como:",
+      "sv": "Dokumentet som fastställde rättigheterna och skyldigheterna för muslimer, judar och andra stammar i Madinah är känt som:",
+      "no": "Dokumentet som etablerte rettighetene og pliktene til muslimer, jøder og andre stammer i Madinah er kjent som:",
+      "fi": "Asiakirja, joka vahvisti muslimien, juutalaisten ja muiden heimojen oikeudet ja velvollisuudet Medinassa, tunnetaan nimellä:",
+      "ps": "هغه سند چې په مدینه کې یې د مسلمانانو، یهودانو او نورو قبیلو حقونه او فرایض ټاکلي، د څه په نوم یادیږي؟",
+      "id": "Dokumen yang menetapkan hak dan kewajiban kaum muslimin, Yahudi, dan kabilah-kabilah lain di Madinah dikenal dengan sebutan:",
+      "tr": "Medine'de Müslümanların, Yahudilerin ve diğer kabilelerin hak ve görevlerini belirleyen belge şu adla bilinir:",
+      "de": "Das Dokument, das die Rechte und Pflichten der Muslime, Juden und anderer Stämme in Medina festlegte, ist bekannt als:",
+      "bn": "মদিনায় মুসলিম, ইহুদি ও অন্যান্য গোত্রের অধিকার ও কর্তব্য প্রতিষ্ঠিত দলিলটি কী নামে পরিচিত?",
+      "so": "Dukumeentigii aasaasay xuquuqda iyo waajibaadka Muslimiinta, Yuhuuda, iyo qabaa'ilka kale ee Madiina waxaa loo yaqaanaa:"
+    },
+    "options": {
+      "en": [
+        "The Treaty of Hudaybiyyah",
+        "The Charter of Madinah (or Constitution of Madinah)",
+        "The Sermon of Arafat",
+        "The Pledge of War"
+      ],
+      "ar": [
+        "صلح الحديبية",
+        "صحيفة المدينة (أو دستور المدينة)",
+        "خطبة عرفة",
+        "بيعة الحرب"
+      ],
+      "ur": [
+        "صلح حدیبیہ",
+        "میثاق مدینہ (یا دستور مدینہ)",
+        "خطبہ عرفہ",
+        "بیعت جنگ"
+      ],
+      "fr": [
+        "Le Traité de Hudaybiyyah",
+        "La Charte de Médine (ou Constitution de Médine)",
+        "Le Sermon d'Arafat",
+        "Le Serment de Guerre"
+      ],
+      "nl": [
+        "Het Verdrag van Hudaybiyyah",
+        "Het Handvest van Madinah (of Grondwet van Madinah)",
+        "De Preek van Arafat",
+        "De Oorlogseed"
+      ],
+      "es": [
+        "El Tratado de Hudaybiyyah",
+        "La Carta de Medina (o Constitución de Medina)",
+        "El Sermón de Arafat",
+        "El Juramento de Guerra"
+      ],
+      "sv": [
+        "Fördraget i Hudaybiyyah",
+        "Medinastadgan (eller Medinas grundlag)",
+        "Arafat-predikan",
+        "Krigslöftet"
+      ],
+      "no": [
+        "Hudaybiyyah-traktaten",
+        "Medina-pakten (eller Medina-grunnloven)",
+        "Arafat-prekenen",
+        "Krigsløftet"
+      ],
+      "fi": [
+        "Hudaybiyyahin sopimus",
+        "Medinan peruskirja (tai Medinan perustuslaki)",
+        "Arafatin saarna",
+        "Sodan vala"
+      ],
+      "ps": [
+        "د حدیبیه تړون",
+        "د مدینه منشور (یا د مدینه اساسي قانون)",
+        "د عرفہ خطبه",
+        "د جنګ بیعت"
+      ],
+      "id": [
+        "Perjanjian Hudaibiyah",
+        "Piagam Madinah (atau Konstitusi Madinah)",
+        "Khutbah Arafah",
+        "Baiat Perang"
+      ],
+      "tr": [
+        "Hudeybiye Antlaşması",
+        "Medine Sözleşmesi (veya Medine Anayasası)",
+        "Arafat Hutbesi",
+        "Savaş Biatı"
+      ],
+      "de": [
+        "Der Vertrag von Hudaibiyya",
+        "Die Charta von Medina (oder Verfassung von Medina)",
+        "Die Predigt von Arafat",
+        "Das Kriegsgelöbnis"
+      ],
+      "bn": [
+        "হুদাইবিয়ার সন্ধি",
+        "মদিনার সনদ",
+        "আরাফাতের খুতবা",
+        "যুদ্ধের শপথ"
+      ],
+      "so": [
+        "Heshiiskii Xudaybiya",
+        "Axdigii Madiina (ama Dastuurkii Madiina)",
+        "Khudbadii Carafaat",
+        "Ballankii Dagaalka"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "Which major battle was the first fought between the Muslims of Madinah and the Quraysh of Makkah?",
+      "ar": "أي معركة كبرى كانت الأولى بين مسلمي المدينة وقريش مكة؟",
+      "ur": "مدینہ کے مسلمانوں اور قریش مکہ کے درمیان پہلی بڑی جنگ کون سی تھی؟",
+      "fr": "Quelle bataille majeure a été la première livrée entre les musulmans de Médine et les Quraysh de La Mecque ?",
+      "nl": "Welke belangrijke veldslag was de eerste die werd uitgevochten tussen de moslims van Madinah en de Quraysh van Makkah?",
+      "es": "¿Qué batalla importante fue la primera que se libró entre los musulmanes de Medina y los Quraysh de La Meca?",
+      "sv": "Vilket större slag var det första som utkämpades mellan muslimerna i Madinah och Quraysh i Mekka?",
+      "no": "Hvilket stort slag var det første som ble utkjempet mellom muslimene i Madinah og Quraysh i Mekka?",
+      "fi": "Mikä suuri taistelu oli ensimmäinen, joka käytiin Medinan muslimien ja Mekan Qurayshin välillä?",
+      "ps": "د مدینې د مسلمانانو او د مکې د قریشو ترمنځ لومړۍ لویه جګړه کومه وه؟",
+      "id": "Pertempuran besar apa yang pertama kali terjadi antara kaum muslimin Madinah dan Quraisy Makkah?",
+      "tr": "Medine Müslümanları ile Mekke Kureyş'i arasında yapılan ilk büyük savaş hangisidir?",
+      "de": "Welche große Schlacht war die erste, die zwischen den Muslimen in Medina und den Quraisch in Mekka ausgetragen wurde?",
+      "bn": "মদিনার মুসলিম ও মক্কার কুরাইশদের মধ্যে প্রথম বড় যুদ্ধ কোনটি?",
+      "so": "Dagaalkii weynaa ee ugu horreeyay ee dhex maray Muslimiintii Madiina iyo qurayshii Maka?"
+    },
+    "options": {
+      "en": [
+        "Battle of Uhud",
+        "Battle of the Trench (Khandaq)",
+        "Battle of Badr",
+        "Battle of Khaybar"
+      ],
+      "ar": [
+        "غزوة أحد",
+        "غزوة الخندق",
+        "غزوة بدر",
+        "غزوة خيبر"
+      ],
+      "ur": [
+        "غزوہ احد",
+        "غزوہ خندق",
+        "غزوہ بدر",
+        "غزوہ خیبر"
+      ],
+      "fr": [
+        "Bataille d'Uhud",
+        "Bataille du Fossé (Khandaq)",
+        "Bataille de Badr",
+        "Bataille de Khaybar"
+      ],
+      "nl": [
+        "Slag bij Uhud",
+        "Slag bij de Greppel (Khandaq)",
+        "Slag bij Badr",
+        "Slag bij Khaybar"
+      ],
+      "es": [
+        "Batalla de Uhud",
+        "Batalla de la Trinchera (Khandaq)",
+        "Batalla de Badr",
+        "Batalla de Khaybar"
+      ],
+      "sv": [
+        "Slaget vid Uhud",
+        "Slaget vid diket (Khandaq)",
+        "Slaget vid Badr",
+        "Slaget vid Khaybar"
+      ],
+      "no": [
+        "Slaget ved Uhud",
+        "Slaget ved grøften (Khandaq)",
+        "Slaget ved Badr",
+        "Slaget ved Khaybar"
+      ],
+      "fi": [
+        "Uhudin taistelu",
+        "Vallihautataistelu (Khandaq)",
+        "Badrin taistelu",
+        "Khaybarin taistelu"
+      ],
+      "ps": [
+        "د احد جګړه",
+        "د خندق جګړه",
+        "د بدر جګړه",
+        "د خیبر جګړه"
+      ],
+      "id": [
+        "Perang Uhud",
+        "Perang Khandaq",
+        "Perang Badar",
+        "Perang Khaibar"
+      ],
+      "tr": [
+        "Uhud Savaşı",
+        "Hendek Savaşı",
+        "Bedir Savaşı",
+        "Hayber Savaşı"
+      ],
+      "de": [
+        "Schlacht von Uhud",
+        "Schlacht am Graben (Khandaq)",
+        "Schlacht von Badr",
+        "Schlacht von Chaibar"
+      ],
+      "bn": [
+        "উহুদের যুদ্ধ",
+        "খন্দকের যুদ্ধ",
+        "বদরের যুদ্ধ",
+        "খায়বরের যুদ্ধ"
+      ],
+      "so": [
+        "Dagaalkii Uxud",
+        "Dagaalkii Khandaq",
+        "Dagaalkii Badar",
+        "Dagaalkii Khaybar"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "In which battle did the Muslims face a setback due to the archers disobeying the Prophet's (ﷺ) orders?",
+      "ar": "في أي معركة واجه المسلمون نكسة بسبب مخالفة الرماة لأوامر النبي (ﷺ)؟",
+      "ur": "کس غزوے میں مسلمانوں کو تیر اندازوں کے نبی (ﷺ) کے حکم کی خلاف ورزی کرنے کی وجہ سے نقصان اٹھانا پڑا؟",
+      "fr": "Dans quelle bataille les musulmans ont-ils subi un revers en raison de la désobéissance des archers aux ordres du Prophète (ﷺ) ?",
+      "nl": "In welke veldslag leden de moslims een tegenslag doordat de boogschutters de bevelen van de Profeet (ﷺ) negeerden?",
+      "es": "¿En qué batalla los musulmanes sufrieron un revés debido a que los arqueros desobedecieron las órdenes del Profeta (ﷺ)?",
+      "sv": "I vilket slag drabbades muslimerna av ett bakslag på grund av att bågskyttarna inte lydde profetens (ﷺ) order?",
+      "no": "I hvilket slag opplevde muslimene et tilbakeslag på grunn av at bueskytterne ikke adlød profetens (ﷺ) ordre?",
+      "fi": "Missä taistelussa muslimit kohtasivat takaiskun, koska jousimiehet eivät totelleet profeetan (ﷺ) käskyjä?",
+      "ps": "په کومه جګړه کې مسلمانانو ته د غشيو ویشتونکو د نبي (ﷺ) د حکم نه په سرغړونې سره زیان ورسید؟",
+      "id": "Dalam pertempuran apa kaum muslimin mengalami kemunduran karena para pemanah tidak menaati perintah Nabi (ﷺ)?",
+      "tr": "Hangi savaşta okçuların Peygamber'in (ﷺ) emirlerine uymaması nedeniyle Müslümanlar bir gerileme yaşadı?",
+      "de": "In welcher Schlacht erlitten die Muslime einen Rückschlag, weil die Bogenschützen den Befehlen des Propheten (ﷺ) nicht gehorchten?",
+      "bn": "কোন যুদ্ধে তীরন্দাজদের নবী (ﷺ)-এর আদেশ অমান্য করার কারণে মুসলিমরা বিপর্যয়ের সম্মুখীন হয়েছিল?",
+      "so": "Dagaalkee ayay Muslimiinta la kulmeen dib u dhac sababtoo ah kuwa gantaalaha (archers) ayaa ku caasiyeen amarkii Nabiga (ﷺ)?"
+    },
+    "options": {
+      "en": [
+        "Battle of Badr",
+        "Battle of Uhud",
+        "Battle of Mu'tah",
+        "Battle of Hunayn"
+      ],
+      "ar": [
+        "غزوة بدر",
+        "غزوة أحد",
+        "غزوة مؤتة",
+        "غزوة حنين"
+      ],
+      "ur": [
+        "غزوہ بدر",
+        "غزوہ احد",
+        "غزوہ موتہ",
+        "غزوہ حنین"
+      ],
+      "fr": [
+        "Bataille de Badr",
+        "Bataille d'Uhud",
+        "Bataille de Mu'tah",
+        "Bataille de Hunayn"
+      ],
+      "nl": [
+        "Slag bij Badr",
+        "Slag bij Uhud",
+        "Slag bij Mu'tah",
+        "Slag bij Hunayn"
+      ],
+      "es": [
+        "Batalla de Badr",
+        "Batalla de Uhud",
+        "Batalla de Mu'tah",
+        "Batalla de Hunayn"
+      ],
+      "sv": [
+        "Slaget vid Badr",
+        "Slaget vid Uhud",
+        "Slaget vid Mu'tah",
+        "Slaget vid Hunayn"
+      ],
+      "no": [
+        "Slaget ved Badr",
+        "Slaget ved Uhud",
+        "Slaget ved Mu'tah",
+        "Slaget ved Hunayn"
+      ],
+      "fi": [
+        "Badrin taistelu",
+        "Uhudin taistelu",
+        "Mu'tahin taistelu",
+        "Hunaynin taistelu"
+      ],
+      "ps": [
+        "د بدر جګړه",
+        "د احد جګړه",
+        "د مؤتہ جګړه",
+        "د حنین جګړه"
+      ],
+      "id": [
+        "Perang Badar",
+        "Perang Uhud",
+        "Perang Mu'tah",
+        "Perang Hunain"
+      ],
+      "tr": [
+        "Bedir Savaşı",
+        "Uhud Savaşı",
+        "Mute Savaşı",
+        "Huneyn Savaşı"
+      ],
+      "de": [
+        "Schlacht von Badr",
+        "Schlacht von Uhud",
+        "Schlacht von Mu'tah",
+        "Schlacht von Hunain"
+      ],
+      "bn": [
+        "বদরের যুদ্ধ",
+        "উহুদের যুদ্ধ",
+        "মুতার যুদ্ধ",
+        "হুনাইনের যুদ্ধ"
+      ],
+      "so": [
+        "Dagaalkii Badar",
+        "Dagaalkii Uxud",
+        "Dagaalkii Mu'tah",
+        "Dagaalkii Xunayn"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "The Battle of the Trench (Khandaq) is named so because:",
+      "ar": "سميت غزوة الخندق بهذا الاسم لأن:",
+      "ur": "غزوہ خندق کا یہ نام رکھنے کی وجہ یہ ہے کہ:",
+      "fr": "La bataille du Fossé (Khandaq) est ainsi nommée parce que :",
+      "nl": "De Slag bij de Greppel (Khandaq) heet zo omdat:",
+      "es": "La Batalla de la Trinchera (Khandaq) se llama así porque:",
+      "sv": "Slaget vid diket (Khandaq) heter så eftersom:",
+      "no": "Slaget ved grøften (Khandaq) heter det fordi:",
+      "fi": "Vallihautataistelu (Khandaq) on nimetty niin, koska:",
+      "ps": "د خندق جګړه د دې نوم سره بلل کیږي ځکه چې:",
+      "id": "Perang Khandaq (Parit) dinamakan demikian karena:",
+      "tr": "Hendek Savaşı bu adı almıştır çünkü:",
+      "de": "Die Schlacht am Graben (Khandaq) heißt so, weil:",
+      "bn": "খন্দকের যুদ্ধ এমন নামে পরিচিত কারণ:",
+      "so": "Dagaalkii Khandaq waxaa loo baxay magacaas sababtoo ah:"
+    },
+    "options": {
+      "en": [
+        "It was fought in a deep valley",
+        "The Muslims dug a trench around Madinah as a defensive strategy",
+        "It took place near a place called Khandaq",
+        "Many trenches were used for hiding"
+      ],
+      "ar": [
+        "وقعت في واد عميق",
+        "حفر المسلمون خندقًا حول المدينة كاستراتيجية دفاعية",
+        "وقعت بالقرب من مكان يُسمى الخندق",
+        "استخدمت العديد من الخنادق للاختباء"
+      ],
+      "ur": [
+        "یہ ایک گہری وادی میں لڑی گئی",
+        "مسلمانوں نے دفاعی حکمت عملی کے طور پر مدینہ کے گرد ایک خندق کھودی تھی",
+        "یہ خندق نامی جگہ کے قریب ہوئی",
+        "چھپنے کے لیے بہت سی خندقیں استعمال کی گئیں"
+      ],
+      "fr": [
+        "Elle a été livrée dans une vallée profonde",
+        "Les musulmans ont creusé un fossé autour de Médine comme stratégie défensive",
+        "Elle a eu lieu près d'un endroit appelé Khandaq",
+        "De nombreuses tranchées ont été utilisées pour se cacher"
+      ],
+      "nl": [
+        "Het werd gevochten in een diepe vallei",
+        "De moslims groeven een greppel rond Madinah als defensieve strategie",
+        "Het vond plaats nabij een plaats genaamd Khandaq",
+        "Er werden veel loopgraven gebruikt om te schuilen"
+      ],
+      "es": [
+        "Se libró en un valle profundo",
+        "Los musulmanes cavaron una trinchera alrededor de Medina como estrategia defensiva",
+        "Tuvo lugar cerca de un lugar llamado Khandaq",
+        "Se utilizaron muchas trincheras para esconderse"
+      ],
+      "sv": [
+        "Det utkämpades i en djup dal",
+        "Muslimerna grävde en dike runt Madinah som en defensiv strategi",
+        "Det ägde rum nära en plats som heter Khandaq",
+        "Många diken användes för att gömma sig"
+      ],
+      "no": [
+        "Det ble utkjempet i en dyp dal",
+        "Muslimene gravde en grøft rundt Madinah som en defensiv strategi",
+        "Det fant sted nær et sted som heter Khandaq",
+        "Mange skyttergraver ble brukt til å gjemme seg"
+      ],
+      "fi": [
+        "Se taisteltiin syvässä laaksossa",
+        "Muslimit kaivoivat vallihaudan Medinan ympärille puolustusstrategiana",
+        "Se tapahtui lähellä Khandaq-nimistä paikkaa",
+        "Piiloutumiseen käytettiin monia juoksuhautoja"
+      ],
+      "ps": [
+        "دا په یوه ژوره دره کې وشوه",
+        "مسلمانانو د دفاعي چال په توګه د مدینې شاوخوا یو خندق کیندل",
+        "دا د خندق په نوم ځای ته نږدې وشوه",
+        "د پټیدو لپاره ډیر خندقونه کارول شوي وو"
+      ],
+      "id": [
+        "Terjadi di lembah yang dalam",
+        "Kaum muslimin menggali parit di sekitar Madinah sebagai strategi pertahanan",
+        "Terjadi di dekat tempat bernama Khandaq",
+        "Banyak parit digunakan untuk bersembunyi"
+      ],
+      "tr": [
+        "Derin bir vadide savaşılmıştır",
+        "Müslümanlar savunma stratejisi olarak Medine çevresine bir hendek kazdılar",
+        "Khandaq adlı bir yerin yakınında meydana gelmiştir",
+        "Saklanmak için çok sayıda hendek kullanıldı"
+      ],
+      "de": [
+        "Es wurde in einem tiefen Tal gekämpft",
+        "Die Muslime gruben einen Graben um Medina als Verteidigungsstrategie",
+        "Es fand in der Nähe eines Ortes namens Khandaq statt",
+        "Viele Gräben wurden zum Verstecken benutzt"
+      ],
+      "bn": [
+        "এটি একটি গভীর উপত্যকায় সংঘটিত হয়েছিল",
+        "মুসলিমরা প্রতিরক্ষা কৌশল হিসেবে মদিনার চারপাশে একটি খন্দক খনন করেছিল",
+        "এটি খন্দক নামক স্থানের কাছে সংঘটিত হয়েছিল",
+        "লুকানোর জন্য অনেক খন্দক ব্যবহার করা হয়েছিল"
+      ],
+      "so": [
+        "Waxaa lagu dagaalamay dooxo qoto dheer",
+        "Muslimiintu waxay qodeen khandaq (kanaal) hareeraha Madiina sidii istaraatiijiyad difaac",
+        "Waxay ka dhacday meel u dhow meed la dhoho Khandaq",
+        "Khandaqyo badan ayaa loo isticmaalay dhuuman"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "What was the name of the treaty signed between the Muslims and the Quraysh in 6 AH, which was seen as a major diplomatic victory?",
+      "ar": "ما اسم المعاهدة التي تم توقيعها بين المسلمين وقريش في العام السادس للهجرة، والتي اعتُبرت انتصارًا دبلوماسيًا كبيرًا؟",
+      "ur": "اس معاہدے کا کیا نام تھا جو مسلمانوں اور قریش کے درمیان 6 ہجری میں طے پایا، اور جسے ایک بڑی سفارتی فتح قرار دیا گیا؟",
+      "fr": "Quel est le nom du traité signé entre les musulmans et les Quraysh en 6 AH, qui a été considéré comme une grande victoire diplomatique ?",
+      "nl": "Wat was de naam van het verdrag dat in 6 AH werd gesloten tussen de moslims en de Quraysh, dat werd gezien als een grote diplomatieke overwinning?",
+      "es": "¿Cuál era el nombre del tratado firmado entre los musulmanes y los Quraysh en el año 6 AH, que fue visto como una gran victoria diplomática?",
+      "sv": "Vad hette fördraget som undertecknades mellan muslimerna och Quraysh år 6 AH, och som sågs som en stor diplomatisk seger?",
+      "no": "Hva het traktaten som ble signert mellom muslimene og Quraysh i 6 AH, og som ble sett på som en stor diplomatisk seier?",
+      "fi": "Mikä oli muslimien ja Qurayshin välillä vuonna 6 AH allekirjoitetun sopimuksen nimi, jota pidettiin suurena diplomaattisena voittona?",
+      "ps": "هغه تړون څه نومېده چې د 6 هجري کال کې د مسلمانانو او قریشو ترمنځ لاسلیک شو، او یوه لویه دیپلوماتیکه بریا بلل کیده؟",
+      "id": "Apa nama perjanjian yang ditandatangani antara kaum muslimin dan Quraisy pada tahun 6 H, yang dipandang sebagai kemenangan diplomatik besar?",
+      "tr": "6 Hicri yılında Müslümanlar ile Kureyş arasında imzalanan ve büyük bir diplomatik zafer olarak görülen anlaşmanın adı neydi?",
+      "de": "Wie hieß der Vertrag, der zwischen den Muslimen und den Quraisch im Jahr 6 n.H. unterzeichnet wurde und als großer diplomatischer Sieg angesehen wurde?",
+      "bn": "৬ হিজরীতে মুসলিম ও কুরাইশদের মধ্যে স্বাক্ষরিত চুক্তির নাম কী ছিল, যা একটি বড় কূটনৈতিক বিজয় হিসেবে গণ্য হয়েছিল?",
+      "so": "Waa maxay magaca heshiiska lagu saxiixday Muslimiinta iyo Quraysh 6 AH, kaas oo loo arkay inuu yahay guul weyn oo diblomaasiyadeed?"
+    },
+    "options": {
+      "en": [
+        "The Treaty of Hudaibiyyah",
+        "The Treaty of Madinah",
+        "The Peace of Aqabah",
+        "The Truce of Badr"
+      ],
+      "ar": [
+        "صلح الحديبية",
+        "معاهدة المدينة",
+        "صلح العقبة",
+        "هدنة بدر"
+      ],
+      "ur": [
+        "صلح حدیبیہ",
+        "میثاق مدینہ",
+        "صلح عقبہ",
+        "جنگ بدر کی جنگ بندی"
+      ],
+      "fr": [
+        "Le Traité de Hudaibiyyah",
+        "Le Traité de Médine",
+        "La Paix d'Aqabah",
+        "La Trêve de Badr"
+      ],
+      "nl": [
+        "Het Verdrag van Hudaibiyyah",
+        "Het Verdrag van Madinah",
+        "De Vrede van Aqabah",
+        "De Wapenstilstand van Badr"
+      ],
+      "es": [
+        "El Tratado de Hudaibiyyah",
+        "El Tratado de Medina",
+        "La Paz de Aqabah",
+        "La Tregua de Badr"
+      ],
+      "sv": [
+        "Fördraget i Hudaibiyyah",
+        "Fördraget i Madinah",
+        "Freden i Aqabah",
+        "Vapenvilan i Badr"
+      ],
+      "no": [
+        "Hudaibiyyah-traktaten",
+        "Madinah-traktaten",
+        "Aqabah-freden",
+        "Badr-våpenhvilen"
+      ],
+      "fi": [
+        "Hudaibiyyahin sopimus",
+        "Medinan sopimus",
+        "Aqabahin rauha",
+        "Badrin aselepo"
+      ],
+      "ps": [
+        "د حدیبیه تړون",
+        "د مدینې تړون",
+        "د عقبه سوله",
+        "د بدر اوربند"
+      ],
+      "id": [
+        "Perjanjian Hudaibiyah",
+        "Perjanjian Madinah",
+        "Perdamaian Aqabah",
+        "Gencatan Senjata Badar"
+      ],
+      "tr": [
+        "Hudeybiye Antlaşması",
+        "Medine Antlaşması",
+        "Akabe Barışı",
+        "Bedir Mütarekesi"
+      ],
+      "de": [
+        "Der Vertrag von Hudaibiyya",
+        "Der Vertrag von Medina",
+        "Der Frieden von Aqaba",
+        "Der Waffenstillstand von Badr"
+      ],
+      "bn": [
+        "হুদাইবিয়ার সন্ধি",
+        "মদিনার সন্ধি",
+        "আকাবার শান্তি চুক্তি",
+        "বদরের যুদ্ধবিরতি"
+      ],
+      "so": [
+        "Heshiiskii Xudaybiya",
+        "Heshiiskii Madiina",
+        "Nabadgalkii Caqaba",
+        "Heshiiskii Badar"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 0
+  },
+  {
+    "question": {
+      "en": "The Umrah that the Prophet (ﷺ) and his companions performed to make up for being turned back at Hudaybiyyah is known as:",
+      "ar": "العمرة التي أداها النبي (ﷺ) وأصحابه عوضًا عن منعهم في الحديبية تُعرف باسم:",
+      "ur": "وہ عمرہ جو نبی (ﷺ) اور آپ کے صحابہ نے حدیبیہ میں روکے جانے کے بدلے میں ادا کیا، کہلاتا ہے:",
+      "fr": "La Omra que le Prophète (ﷺ) et ses compagnons ont effectuée pour compenser le refus à Hudaybiyyah est connue sous le nom de :",
+      "nl": "De Umrah die de Profeet (ﷺ) en zijn metgezellen verrichtten om te compenseren voor het worden teruggewezen bij Hudaybiyyah staat bekend als:",
+      "es": "La Umrah que el Profeta (ﷺ) y sus compañeros realizaron para compensar el rechazo en Hudaybiyyah se conoce como:",
+      "sv": "Umrah som profeten (ﷺ) och hans följeslagare utförde för att kompensera för att ha blivit avvisade vid Hudaybiyyah är känd som:",
+      "no": "Umrah som profeten (ﷺ) og hans følgesvenner utførte for å kompensere for å ha blitt avvist ved Hudaybiyyah er kjent som:",
+      "fi": "Umrah, jonka profeetta (ﷺ) ja hänen seuralaisensa suorittivat korvatakseen Hudaybiyyahissa tapahtuneen takaisin käännytyksen, tunnetaan nimellä:",
+      "ps": "هغه عمره چې نبي (ﷺ) او د هغه اصحابو د حدیبیه په تړون کې له بندیدو وروسته ادا کړه، د څه په نامه یادیږي؟",
+      "id": "Umrah yang dilakukan Nabi (ﷺ) dan para sahabatnya sebagai ganti karena dihalangi di Hudaibiyah dikenal dengan sebutan:",
+      "tr": "Peygamber (ﷺ) ve ashabının Hudeybiye'de geri çevrilmelerinin ardından kaza olarak yaptıkları Umre şu adla bilinir:",
+      "de": "Die Umrah, die der Prophet (ﷺ) und seine Gefährten durchführten, um für die Zurückweisung in Hudaibiyya zu kompensieren, ist bekannt als:",
+      "bn": "হুদাইবিয়ায় বাধাপ্রাপ্ত হওয়ার পর নবী (ﷺ) ও তাঁর সাহাবাগণ যে উমরা পালন করেন তা কী নামে পরিচিত?",
+      "so": "Cumradii uu Nabigu (ﷺ) iyo asxaabtiisu sameeyeen ee ahayd wax ka beddelkii wixii lagaga celiyey Xudaybiya waxaa loo yaqaanaa:"
+    },
+    "options": {
+      "en": [
+        "Umrat al-Qada (The Fulfilled Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida",
+        "The First Umrah"
+      ],
+      "ar": [
+        "عمرة القضاء",
+        "عمرة التمتع",
+        "حجة الوداع",
+        "العمرة الأولى"
+      ],
+      "ur": [
+        "عمرۃ القضاء",
+        "عمرہ تمتع",
+        "حجة الوداع",
+        "پہلا عمرہ"
+      ],
+      "fr": [
+        "Umrat al-Qada (L'Umrah accomplie)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (Le Pèlerinage d'Adieu)",
+        "La première Omra"
+      ],
+      "nl": [
+        "Umrat al-Qada (De Vervulde Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (De Afscheidsbedevaart)",
+        "De Eerste Umrah"
+      ],
+      "es": [
+        "Umrat al-Qada (La Umrah Cumplida)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (La Peregrinación de Despedida)",
+        "La Primera Umrah"
+      ],
+      "sv": [
+        "Umrat al-Qada (Den uppfyllda Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (Avskedspilgrimsfärden)",
+        "Den första Umrah"
+      ],
+      "no": [
+        "Umrat al-Qada (Den oppfylte Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (Avskjedspilegrimsreisen)",
+        "Den første Umrah"
+      ],
+      "fi": [
+        "Umrat al-Qada (Täytetty Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (Jäähyväispyhiinvaellus)",
+        "Ensimmäinen Umrah"
+      ],
+      "ps": [
+        "عمرة القضاء (پوره شوی عمره)",
+        "عمره تمتع",
+        "حجة الوداع (د خدای پامانې حج)",
+        "لومړی عمره"
+      ],
+      "id": [
+        "Umrat al-Qada (Umrah Pengganti)",
+        "Umrah Tamattu",
+        "Haji Wada (Haji Perpisahan)",
+        "Umrah Pertama"
+      ],
+      "tr": [
+        "Umretü'l-Kaza (Kaza Umresi)",
+        "Umretü't-Temettu",
+        "Haccetü'l-Veda (Veda Haccı)",
+        "İlk Umre"
+      ],
+      "de": [
+        "Umrat al-Qada (Die erfüllte Umrah)",
+        "Umrat al-Tamattu",
+        "Hajjat al-Wida (Die Abschiedswallfahrt)",
+        "Die erste Umrah"
+      ],
+      "bn": [
+        "উমরাতুল ক্বাদা (পূর্ণকৃত উমরা)",
+        "উমরাতুত তামাত্তু",
+        "হিজ্জাতুল বিদা (বিদায় হজ্জ)",
+        "প্রথম উমরা"
+      ],
+      "so": [
+        "Cumradii Qadaa (Cumradii La Xukumay)",
+        "Cumradii Tamattuc",
+        "Xajkatil Widaa (Xajka Nabiga)",
+        "Cumradii ugu horeysay"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 0
+  },
+  {
+    "question": {
+      "en": "In which year did the Conquest of Makkah (Fath Makkah) take place?",
+      "ar": "في أي عام وقع فتح مكة؟",
+      "ur": "فتح مکہ کس سال میں ہوا؟",
+      "fr": "En quelle année a eu lieu la conquête de La Mecque (Fath Makkah) ?",
+      "nl": "In welk jaar vond de Verovering van Makkah (Fath Makkah) plaats?",
+      "es": "¿En qué año tuvo lugar la Conquista de La Meca (Fath Makkah)?",
+      "sv": "Vilket år ägde erövringen av Mekka (Fath Makkah) rum?",
+      "no": "Hvilket år fant erobringen av Mekka (Fath Makkah) sted?",
+      "fi": "Minä vuonna Mekan valloitus (Fath Makkah) tapahtui?",
+      "ps": "د مکې فتح (فتح مکہ) په کوم کال کې وشوه؟",
+      "id": "Pada tahun berapakah Penaklukan Makkah (Fathu Makkah) terjadi?",
+      "tr": "Mekke'nin Fethi (Feth-i Mekke) hangi yılda gerçekleşti?",
+      "de": "In welchem Jahr fand die Eroberung Makkas (Fath Makkah) statt?",
+      "bn": "মক্কা বিজয় (ফাতহে মক্কা) কোন সালে সংঘটিত হয়?",
+      "so": "Sanadkee ayay dhacday Furkii Maka (Fatax Maka)?"
+    },
+    "options": {
+      "en": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "ar": [
+        "2 هـ",
+        "5 هـ",
+        "8 هـ",
+        "10 هـ"
+      ],
+      "ur": [
+        "2 ہجری",
+        "5 ہجری",
+        "8 ہجری",
+        "10 ہجری"
+      ],
+      "fr": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "nl": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "es": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "sv": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "no": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "fi": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ],
+      "ps": [
+        "۲ هجري",
+        "۵ هجري",
+        "۸ هجري",
+        "۱۰ هجري"
+      ],
+      "id": [
+        "2 H",
+        "5 H",
+        "8 H",
+        "10 H"
+      ],
+      "tr": [
+        "2 H",
+        "5 H",
+        "8 H",
+        "10 H"
+      ],
+      "de": [
+        "2 n.H.",
+        "5 n.H.",
+        "8 n.H.",
+        "10 n.H."
+      ],
+      "bn": [
+        "২ হিজরী",
+        "৫ হিজরী",
+        "৮ হিজরী",
+        "১০ হিজরী"
+      ],
+      "so": [
+        "2 AH",
+        "5 AH",
+        "8 AH",
+        "10 AH"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "Which of the following battles did NOT occur during the lifetime of the Prophet Muhammad (ﷺ)?",
+      "ar": "أي من المعارك التالية لم تحدث في حياة النبي محمد (ﷺ)؟",
+      "ur": "درج ذیل میں سے کون سی جنگ نبی محمد (ﷺ) کی زندگی میں نہیں ہوئی؟",
+      "fr": "Laquelle des batailles suivantes n'a PAS eu lieu du vivant du Prophète Muhammad (ﷺ) ?",
+      "nl": "Welke van de volgende veldslagen vond NIET plaats tijdens het leven van de Profeet Mohammed (ﷺ)?",
+      "es": "¿Cuál de las siguientes batallas NO ocurrió durante la vida del Profeta Muhammad (ﷺ)?",
+      "sv": "Vilket av följande slag inträffade INTE under profeten Muhammeds (ﷺ) livstid?",
+      "no": "Hvilket av følgende slag skjedde IKKE i løpet av profeten Muhammeds (ﷺ) levetid?",
+      "fi": "Mikä seuraavista taisteluista EI tapahtunut profeetta Muhammedin (ﷺ) elinaikana?",
+      "ps": "له لاندې جګړو څخه کومه یوه د نبي محمد (ﷺ) په ژوند کې نه ده شوې؟",
+      "id": "Pertempuran manakah di bawah ini yang TIDAK terjadi pada masa hidup Nabi Muhammad (ﷺ)?",
+      "tr": "Aşağıdaki savaşlardan hangisi Peygamber Muhammed (ﷺ) hayattayken gerçekleşmemiştir?",
+      "de": "Welche der folgenden Schlachten fand NICHT zu Lebzeiten des Propheten Muhammad (ﷺ) statt?",
+      "bn": "নিম্নের কোন যুদ্ধটি নবী মুহাম্মদ (ﷺ)-এর জীবদ্দশায় সংঘটিত হয়নি?",
+      "so": "Dagaalladaan soo socda kee ma dhicin intii Nabiga Muxamed (ﷺ) noolaa?"
+    },
+    "options": {
+      "en": [
+        "Battle of Badr",
+        "Battle of Yarmouk",
+        "Battle of Khaybar",
+        "Battle of Hunayn"
+      ],
+      "ar": [
+        "غزوة بدر",
+        "معركة اليرموك",
+        "غزوة خيبر",
+        "غزوة حنين"
+      ],
+      "ur": [
+        "غزوہ بدر",
+        "جنگ یرموک",
+        "غزوہ خیبر",
+        "غزوہ حنین"
+      ],
+      "fr": [
+        "Bataille de Badr",
+        "Bataille du Yarmouk",
+        "Bataille de Khaybar",
+        "Bataille de Hunayn"
+      ],
+      "nl": [
+        "Slag bij Badr",
+        "Slag bij Yarmouk",
+        "Slag bij Khaybar",
+        "Slag bij Hunayn"
+      ],
+      "es": [
+        "Batalla de Badr",
+        "Batalla de Yarmuk",
+        "Batalla de Khaybar",
+        "Batalla de Hunayn"
+      ],
+      "sv": [
+        "Slaget vid Badr",
+        "Slaget vid Yarmouk",
+        "Slaget vid Khaybar",
+        "Slaget vid Hunayn"
+      ],
+      "no": [
+        "Slaget ved Badr",
+        "Slaget ved Yarmouk",
+        "Slaget ved Khaybar",
+        "Slaget ved Hunayn"
+      ],
+      "fi": [
+        "Badrin taistelu",
+        "Yarmoukin taistelu",
+        "Khaybarin taistelu",
+        "Hunaynin taistelu"
+      ],
+      "ps": [
+        "د بدر جګړه",
+        "د یرموک جګړه",
+        "د خیبر جګړه",
+        "د حنین جګړه"
+      ],
+      "id": [
+        "Perang Badar",
+        "Perang Yarmuk",
+        "Perang Khaibar",
+        "Perang Hunain"
+      ],
+      "tr": [
+        "Bedir Savaşı",
+        "Yermük Savaşı",
+        "Hayber Savaşı",
+        "Huneyn Savaşı"
+      ],
+      "de": [
+        "Schlacht von Badr",
+        "Schlacht am Jarmuk",
+        "Schlacht von Chaibar",
+        "Schlacht von Hunain"
+      ],
+      "bn": [
+        "বদরের যুদ্ধ",
+        "ইয়ারমুকের যুদ্ধ",
+        "খায়বরের যুদ্ধ",
+        "হুনাইনের যুদ্ধ"
+      ],
+      "so": [
+        "Dagaalkii Badar",
+        "Dagaalkii Yarmuug",
+        "Dagaalkii Khaybar",
+        "Dagaalkii Xunayn"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "What was the name of the Muslim commander who was martyred during the Battle of Mu'tah in Syria, and was known as the \"Friend of the Messenger\" and the one whose funeral prayer the Prophet (ﷺ) performed in Madinah despite the battle being far away?",
+      "ar": "ما اسم القائد المسلم الذي استشهد في غزوة مؤتة في الشام، وكان يُعرف بلقب \"حبيب الرسول\" والذي صلى عليه النبي (ﷺ) صلاة الغائب في المدينة رغم بُعد مكان المعركة؟",
+      "ur": "اس مسلمان کمانڈر کا نام کیا تھا جو شام میں غزوہ موتہ میں شہید ہوئے، اور \"حبيب رسول\" کے لقب سے مشہور تھے، اور جن کی نماز جنازہ نبی (ﷺ) نے مدینہ میں پڑھی تھی باوجود اس کے کہ جنگ بہت دور تھی؟",
+      "fr": "Quel était le nom du commandant musulman qui a été martyrisé lors de la bataille de Mu'tah en Syrie, et qui était connu comme le \"Bien-aimé du Messager\" et celui dont le Prophète (ﷺ) a fait la prière funéraire à Médine bien que la bataille fût loin ?",
+      "nl": "Wat was de naam van de moslimcommandant die werd gemarteld tijdens de Slag bij Mu'tah in Syrië, en bekend stond als de \"Vriend van de Boodschapper\" en degene voor wie de Profeet (ﷺ) het begrafenisgebed verrichtte in Madinah, ondanks dat de slag ver weg was?",
+      "es": "¿Cuál era el nombre del comandante musulmán que fue martirizado durante la Batalla de Mu'tah en Siria, y era conocido como el \"Amigo del Mensajero\" y aquel por quien el Profeta (ﷺ) realizó la oración fúnebre en Medina a pesar de que la batalla estaba lejos?",
+      "sv": "Vad hette den muslimska befälhavaren som dödades som martyr under slaget vid Mu'tah i Syrien, och var känd som \"Sändebudets vän\" och den för vilken profeten (ﷺ) utförde begravningsbönen i Madinah trots att slaget var långt borta?",
+      "no": "Hva var navnet på den muslimske kommandanten som ble martyrdrept under slaget ved Mu'tah i Syria, og var kjent som \"Sendebudets venn\" og den som profeten (ﷺ) utførte begravelsesbønnen for i Madinah til tross for at slaget var langt unna?",
+      "fi": "Mikä oli sen muslimikomentajan nimi, joka sai marttyyrikuoleman Mu'tahin taistelussa Syyriassa, ja tunnettiin \"Lähettilään ystävänä\" ja jolle profeetta (ﷺ) suoritti hautausrukouksen Medinassa huolimatta siitä, että taistelu oli kaukana?",
+      "ps": "د هغه مسلمان قوماندان نوم څه و چې د شام د مؤتة په جګړه کې شهید شو، او د \"حبيب رسول\" په نامه یادېده او نبي (ﷺ) د هغه جنازه په مدینه کې ولوسته سره له دې چې جګړه ډېره لرې وه؟",
+      "id": "Siapakah nama panglima muslim yang gugur sebagai syahid dalam Perang Mu'tah di Syam, dan dikenal sebagai \"Kekasih Rasul\" serta yang dishalatkan jenazahnya oleh Nabi (ﷺ) di Madinah meskipun peperangan jauh di sana?",
+      "tr": "Suriye'deki Mute Savaşı'nda şehit düşen ve \"Resulullah'ın Sevgilisi\" olarak bilinen, savaş uzakta olmasına rağmen Peygamber'in (ﷺ) Medine'de cenaze namazını kıldığı Müslüman komutanın adı neydi?",
+      "de": "Wie hieß der muslimische Befehlshaber, der in der Schlacht von Mu'tah in Syrien den Märtyrertod starb und als \"Freund des Gesandten\" bekannt war, und für den der Prophet (ﷺ) in Medina das Totengebet verrichtete, obwohl die Schlacht weit entfernt war?",
+      "bn": "সিরিয়ার মুতার যুদ্ধে শহীদ মুসলিম সেনাপতির নাম কী ছিল, যিনি \"হাবিবুর রাসূল\" নামে পরিচিত ছিলেন এবং যুদ্ধ দূরে হওয়া সত্ত্বেও নবী (ﷺ) মদিনায় তার জানাজার নামাজ পড়েছিলেন?",
+      "so": "Waa maxay magaca taliyihii Muslimka ahaa ee lagu shaheeday Dagaalkii Mu'tah ee Suuriya, kana soo baxay \"Saaxiibkii Rasuulka\" kaas oo Nabigu (ﷺ) ku tukanayay salaaddii janazada Madiina inkastoo dagaalku aad uga fogaa?"
+    },
+    "options": {
+      "en": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "ar": [
+        "زيد بن حارثة (رضي الله عنه)",
+        "جعفر بن أبي طالب (رضي الله عنه)",
+        "عبد الله بن رواحة (رضي الله عنه)",
+        "خالد بن الوليد (رضي الله عنه)"
+      ],
+      "ur": [
+        "زید بن حارثہ (رضي الله عنه)",
+        "جعفر بن ابی طالب (رضي الله عنه)",
+        "عبد اللہ بن رواحہ (رضي الله عنه)",
+        "خالد بن ولید (رضي الله عنه)"
+      ],
+      "fr": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "nl": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "es": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "sv": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "no": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "fi": [
+        "Zayd ibn Harithah (RA)",
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawahah (RA)",
+        "Khalid ibn al-Walid (RA)"
+      ],
+      "ps": [
+        "زید بن حارثہ (رضي الله عنه)",
+        "جعفر بن ابی طالب (رضي الله عنه)",
+        "عبد اللہ بن رواحہ (رضي الله عنه)",
+        "خالد بن ولید (رضي الله عنه)"
+      ],
+      "id": [
+        "Zaid bin Haritsah (RA)",
+        "Ja'far bin Abu Thalib (RA)",
+        "Abdullah bin Rawahah (RA)",
+        "Khalid bin al-Walid (RA)"
+      ],
+      "tr": [
+        "Zeyd bin Harise (RA)",
+        "Cafer bin Ebu Talib (RA)",
+        "Abdullah bin Revaha (RA)",
+        "Halid bin Velid (RA)"
+      ],
+      "de": [
+        "Zaid ibn Haritha (RA)",
+        "Dscha'far ibn Abi Talib (RA)",
+        "Abdullah ibn Rawaha (RA)",
+        "Chalid ibn al-Walid (RA)"
+      ],
+      "bn": [
+        "যায়েদ ইবনে হারিছা (রা.)",
+        "জাফর ইবনে আবী তালিব (রা.)",
+        "আব্দুল্লাহ ইবনে রাওয়াহা (রা.)",
+        "খালিদ ইবনে ওয়ালিদ (রা.)"
+      ],
+      "so": [
+        "Zayd bin Xaarithah (RC)",
+        "Jacfar bin Abi Dalib (RC)",
+        "Cabdullaahi bin Rawaaxah (RC)",
+        "Khaalid bin al-Waliid (RC)"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "At the Battle of Mu'tah, after the first three appointed commanders were martyred, who took the banner and successfully withdrew the Muslim army, earning the title \"Sword of Allah\" (Saifullah) from the Prophet (ﷺ)?",
+      "ar": "في غزوة مؤتة، بعد استشهاد القادة الثلاثة الأوائل، من أخذ الراية ونجح في انسحاب الجيش المسلم، ونال لقب \"سيف الله\" من النبي (ﷺ)؟",
+      "ur": "غزوہ موتہ میں، پہلے تین مقرر کردہ کمانڈروں کی شہادت کے بعد، کس نے پرچم سنبھالا اور کامیابی سے مسلمان فوج کو واپس بلا لیا، اور نبی (ﷺ) سے \"سيف الله\" (اللہ کی تلوار) کا لقب پایا؟",
+      "fr": "À la bataille de Mu'tah, après que les trois premiers commandants désignés eurent été martyrisés, qui prit l'étendard et retira avec succès l'armée musulmane, gagnant le titre d'\"Épée d'Allah\" (Saifullah) du Prophète (ﷺ) ?",
+      "nl": "Bij de Slag bij Mu'tah, nadat de eerste drie aangestelde commandanten waren gemarteld, wie nam de vlag over en trok met succes het moslimleger terug, en verdiende de titel \"Zwaard van Allah\" (Saifullah) van de Profeet (ﷺ)?",
+      "es": "En la Batalla de Mu'tah, después de que los primeros tres comandantes designados fueron martirizados, ¿quién tomó el estandarte y retiró con éxito al ejército musulmán, ganándose el título de \"Espada de Allah\" (Saifullah) del Profeta (ﷺ)?",
+      "sv": "Vid slaget vid Mu'tah, efter att de tre första utsedda befälhavarna hade dött som martyrer, vem tog fanan och drog framgångsrikt tillbaka den muslimska armén, och fick titeln \"Allahs svärd\" (Saifullah) av profeten (ﷺ)?",
+      "no": "Ved slaget ved Mu'tah, etter at de tre første utnevnte kommandantene var martyrdøde, hvem tok banneret og trakk med suksess den muslimske hæren tilbake, og fikk tittelen \"Allahs sverd\" (Saifullah) fra profeten (ﷺ)?",
+      "fi": "Mu'tahin taistelussa, sen jälkeen kun kolme ensimmäistä nimitettyä komentajaa olivat kuolleet marttyyreina, kuka otti lipun ja vetäytyi onnistuneesti muslimiarmeijan kanssa ja sai profeetalta (ﷺ) arvonimen \"Allahin miekka\" (Saifullah)?",
+      "ps": "د مؤتة په جګړه کې، د لومړیو دریو ټاکل شویو قوماندانانو له شهادت وروسته، چا بیرغ پورته کړ او په بریالیتوب سره یې مسلمان لښکر وباله، او د نبي (ﷺ) لخوا ورته د \"سيف الله\" لقب ورکړل شو؟",
+      "id": "Pada Perang Mu'tah, setelah tiga panglima yang ditunjuk pertama gugur sebagai syahid, siapakah yang mengambil bendera dan berhasil menarik mundur pasukan muslim, sehingga mendapat gelar \"Pedang Allah\" (Saifullah) dari Nabi (ﷺ)?",
+      "tr": "Mute Savaşı'nda, atanan ilk üç komutan şehit düştükten sonra, sancağı alıp Müslüman ordusunu başarıyla geri çeken ve Peygamber (ﷺ) tarafından \"Allah'ın Kılıcı\" (Seyfullah) unvanını alan kimdir?",
+      "de": "In der Schlacht von Mu'tah, nachdem die ersten drei ernannten Befehlshaber den Märtyrertod erlitten hatten, wer ergriff das Banner und zog die muslimische Armee erfolgreich zurück und erhielt vom Propheten (ﷺ) den Titel „Schwert Allahs“ (Saifullah)?",
+      "bn": "মুতার যুদ্ধে, প্রথম তিন নিযুক্ত সেনাপতি শহীদ হওয়ার পর, কে পতাকা তুলে নেন এবং সফলভাবে মুসলিম বাহিনী প্রত্যাহার করেন এবং নবী (ﷺ)-এর কাছ থেকে \"সাইফুল্লাহ\" (আল্লাহর তরবারি) উপাধি লাভ করেন?",
+      "so": "Dagaalkii Mu'tah, ka dib markii saddexdii taliye ee ugu horreeyay ee la magacaabay ay shahiideen, yuu qaaday calanka oo uu guuleystay inuu la noqdo ciidankii Muslimka, kana kasbaday Nabiga (ﷺ) magaca \"Saifullah\" (Seefta Alle)?"
+    },
+    "options": {
+      "en": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "ar": [
+        "عمرو بن العاص (رضي الله عنه)",
+        "خالد بن الوليد (رضي الله عنه)",
+        "أبو عبيدة بن الجراح (رضي الله عنه)",
+        "شرحبيل بن حسنة (رضي الله عنه)"
+      ],
+      "ur": [
+        "عمرو بن العاص (رضي الله عنه)",
+        "خالد بن ولید (رضي الله عنه)",
+        "ابو عبیدہ بن جراح (رضي الله عنه)",
+        "شرحبیل بن حسنہ (رضي الله عنه)"
+      ],
+      "fr": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abou Oubayda ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "nl": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "es": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "sv": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "no": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "fi": [
+        "Amr ibn al-Aas (RA)",
+        "Khalid ibn al-Walid (RA)",
+        "Abu Ubaidah ibn al-Jarrah (RA)",
+        "Shurahbil ibn Hasanah (RA)"
+      ],
+      "ps": [
+        "عمرو بن العاص (رضي الله عنه)",
+        "خالد بن ولید (رضي الله عنه)",
+        "ابو عبیدہ بن جراح (رضي الله عنه)",
+        "شرحبیل بن حسنہ (رضي الله عنه)"
+      ],
+      "id": [
+        "Amr bin al-Ash (RA)",
+        "Khalid bin al-Walid (RA)",
+        "Abu Ubaidah bin al-Jarrah (RA)",
+        "Syurahbil bin Hasanah (RA)"
+      ],
+      "tr": [
+        "Amr bin el-As (RA)",
+        "Halid bin Velid (RA)",
+        "Ebu Ubeyde bin el-Cerrah (RA)",
+        "Şürahbil bin Hasene (RA)"
+      ],
+      "de": [
+        "Amr ibn al-As (RA)",
+        "Chalid ibn al-Walid (RA)",
+        "Abu Ubaida ibn al-Dscharrah (RA)",
+        "Schurahbil ibn Hasana (RA)"
+      ],
+      "bn": [
+        "আমর ইবনুল আস (রা.)",
+        "খালিদ ইবনে ওয়ালিদ (রা.)",
+        "আবু উবাইদা ইবনুল জাররাহ (রা.)",
+        "শুরাহবিল ইবনে হাসানা (রা.)"
+      ],
+      "so": [
+        "Camar bin al-Caas (RC)",
+        "Khaalid bin al-Waliid (RC)",
+        "Abu Cubaydah bin al-Jaraax (RC)",
+        "Shuraxbill bin Xasanah (RC)"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "After the Conquest of Makkah, the Prophet (ﷺ) destroyed the 360 idols around the Kaaba. Which specific idol was the largest and was destroyed by Ali (RA) standing on the Prophet's shoulders?",
+      "ar": "بعد فتح مكة، قام النبي (ﷺ) بتدمير 360 صنمًا حول الكعبة. أي صنم كان الأكبر وتم تدميره بواسطة علي (رضي الله عنه) وهو واقف على كتفي النبي (ﷺ)؟",
+      "ur": "فتح مکہ کے بعد، نبی (ﷺ) نے کعبہ کے گرد 360 بتوں کو توڑا۔ کون سا خاص بت سب سے بڑا تھا جسے علی (رضي الله عنه) نے نبی (ﷺ) کے کندھوں پر کھڑے ہو کر توڑا تھا؟",
+      "fr": "Après la conquête de La Mecque, le Prophète (ﷺ) a détruit les 360 idoles autour de la Kaaba. Quelle idole spécifique était la plus grande et a été détruite par Ali (RA) debout sur les épaules du Prophète (ﷺ) ?",
+      "nl": "Na de verovering van Makkah vernietigde de Profeet (ﷺ) de 360 afgodsbeelden rond de Kaaba. Welk specifiek afgodsbeeld was het grootst en werd vernietigd door Ali (RA) die op de schouders van de Profeet (ﷺ) stond?",
+      "es": "Después de la Conquista de La Meca, el Profeta (ﷺ) destruyó los 360 ídolos alrededor de la Kaaba. ¿Qué ídolo específico era el más grande y fue destruido por Ali (RA) parado sobre los hombros del Profeta (ﷺ)?",
+      "sv": "Efter erövringen av Mekka förstörde profeten (ﷺ) de 360 idolerna runt Kaba. Vilken specifik idol var störst och förstördes av Ali (RA) som stod på profetens (ﷺ) axlar?",
+      "no": "Etter erobringen av Mekka ødela profeten (ﷺ) de 360 avgudene rundt Kaba. Hvilken spesiell avgud var den største og ble ødelagt av Ali (RA) som sto på profetens (ﷺ) skuldre?",
+      "fi": "Mekan valloituksen jälkeen profeetta (ﷺ) tuhosi 360 epäjumalaa Kaaban ympäriltä. Mikä tietty epäjumala oli suurin ja jonka Ali (RA) tuhosi seisten profeetan (ﷺ) harteilla?",
+      "ps": "د مکې له فتحې وروسته، نبي (ﷺ) د کعبې شاوخوا ۳۶۰ بتان مات کړل. کوم خاص بت تر ټولو لوی و چې علي (رضي الله عنه) د نبي (ﷺ) په اوږو ولاړ و او مات یې کړ؟",
+      "id": "Setelah Penaklukan Makkah, Nabi (ﷺ) menghancurkan 360 berhala di sekitar Ka'bah. Berhala spesifik manakah yang paling besar dan dihancurkan oleh Ali (RA) yang berdiri di atas pundak Nabi (ﷺ)?",
+      "tr": "Mekke'nin Fethi'nden sonra Peygamber (ﷺ), Kabe'nin etrafındaki 360 putu yok etti. En büyük put hangisiydi ve Ali (RA) tarafından Peygamber'in (ﷺ) omuzlarında durarak yok edildi?",
+      "de": "Nach der Eroberung Mekkas zerstörte der Prophet (ﷺ) die 360 Götzen um die Kaaba. Welches spezifische Götzenbild war das größte und wurde von Ali (RA) zerstört, der auf den Schultern des Propheten (ﷺ) stand?",
+      "bn": "মক্কা বিজয়ের পর, নবী (ﷺ) কাবা ঘরের চারপাশের ৩৬০টি মূর্তি ধ্বংস করেন। কোন মূর্তিটি সবচেয়ে বড় ছিল এবং যা আলী (রা.) নবী (ﷺ)-এর কাঁধে দাঁড়িয়ে ধ্বংস করেছিলেন?",
+      "so": "Kadib furashadii Maka, Nabigu (ﷺ) wuxuu dumiyey 360 sanam oo ku wareegsan Kacbada. Sanamkee gaar ahaa ahaa kii ugu weynaa oo uu dumiyey Cali (RC) isagoo taagan garabka Nabiga (ﷺ)?"
+    },
+    "options": {
+      "en": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "ar": [
+        "اللات",
+        "العزى",
+        "مناة",
+        "هبل"
+      ],
+      "ur": [
+        "لات",
+        "عزی",
+        "منات",
+        "ہبل"
+      ],
+      "fr": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "nl": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "es": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "sv": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "no": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "fi": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "ps": [
+        "لات",
+        "عزی",
+        "منات",
+        "هبل"
+      ],
+      "id": [
+        "Al-Lata",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "tr": [
+        "Lat",
+        "Uzza",
+        "Menat",
+        "Hübel"
+      ],
+      "de": [
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "bn": [
+        "আল-লাত",
+        "আল-উজ্জা",
+        "মানাত",
+        "হুবাল"
+      ],
+      "so": [
+        "Al-Laat",
+        "Al-Cuzzaa",
+        "Manaat",
+        "Hubal"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 3
+  },
+  {
+    "question": {
+      "en": "The Battle of Hunayn took place shortly after the Conquest of Makkah. Which tribe, known for their expertise in archery, ambushed the Muslim army in the valley of Hunayn?",
+      "ar": "وقعت غزوة حنين بعد وقت قصير من فتح مكة. أي قبيلة، المعروفة بخبرتها في الرماية، كمنت للجيش الإسلامي في وادي حنين؟",
+      "ur": "غزوہ حنین فتح مکہ کے فوراً بعد پیش آیا۔ کون سا قبیلہ، جو تیر اندازی میں اپنی مہارت کے لیے جانا جاتا تھا، نے وادی حنین میں مسلم فوج پر حملہ کیا؟",
+      "fr": "La bataille de Hunayn a eu lieu peu de temps après la conquête de La Mecque. Quelle tribu, connue pour son expertise en matière de tir à l'arc, a tendu une embuscade à l'armée musulmane dans la vallée de Hunayn ?",
+      "nl": "De Slag bij Hunayn vond plaats kort na de verovering van Makkah. Welke stam, bekend om hun expertise in boogschieten, overviel het moslimleger in de vallei van Hunayn?",
+      "es": "La Batalla de Hunayn tuvo lugar poco después de la Conquista de La Meca. ¿Qué tribu, conocida por su pericia en el tiro con arco, emboscó al ejército musulmán en el valle de Hunayn?",
+      "sv": "Slaget vid Hunayn ägde rum strax efter erövringen av Mekka. Vilken stam, känd för sin expertis inom bågskytte, bakhöll den muslimska armén i Hunayndalen?",
+      "no": "Slaget ved Hunayn fant sted kort tid etter erobringen av Mekka. Hvilken stamme, kjent for sin ekspertise innen bueskyting, bakholdt den muslimske hæren i Hunayn-dalen?",
+      "fi": "Hunaynin taistelu tapahtui pian Mekan valloituksen jälkeen. Mikä heimo, joka tunnettiin jousiammuntataidostaan, väijytti muslimiarmeijaa Hunaynin laaksossa?",
+      "ps": "د حنین جګړه د مکې له فتحې لږ وروسته وشوه. کوم قبیله، چې د غشۍ ویشتلو په ماهرۍ مشهوره وه، د حنین په دره کې د مسلمان پوځ پر کمین برید وکړ؟",
+      "id": "Perang Hunain terjadi tidak lama setelah Penaklukan Makkah. Suku apakah, yang dikenal dengan keahlian memanahnya, yang menyerang pasukan muslim dari tempat persembunyian di lembah Hunain?",
+      "tr": "Huneyn Savaşı, Mekke'nin Fethi'nden kısa bir süre sonra gerçekleşti. Okçuluktaki uzmanlıklarıyla bilinen hangi kabile, Huneyn vadisinde Müslüman ordusunu pusuya düşürdü?",
+      "de": "Die Schlacht von Hunain fand kurz nach der Eroberung Mekkas statt. Welcher Stamm, bekannt für seine Erfahrung im Bogenschießen, überfiel die muslimische Armee im Tal von Hunain aus einem Hinterhalt?",
+      "bn": "হুনাইনের যুদ্ধ মক্কা বিজয়ের অল্প সময়ের মধ্যে সংঘটিত হয়। কোন গোত্র, তীরন্দাজীতে তাদের দক্ষতার জন্য পরিচিত, হুনাইনের উপত্যকায় মুসলিম বাহিনীর উপর অতর্কিত হামলা চালায়?",
+      "so": "Dagaalkii Xunayn wuxuu dhacay wax yar ka dib furashadii Maka. Qabeelee, oo caan ku ah xirfadda ganntaada, ayaa ku dhuuntay ciidankii Muslimka ee dooxadii Xunayn?"
+    },
+    "options": {
+      "en": [
+        "The Quraysh",
+        "The Banu Thaqif and Hawazin",
+        "The Banu Nadir",
+        "The Banu Mustaliq"
+      ],
+      "ar": [
+        "قريش",
+        "بنو ثقيف وهوازن",
+        "بنو النضير",
+        "بنو المصطلق"
+      ],
+      "ur": [
+        "قریش",
+        "بنی ثقیف اور ہوازن",
+        "بنی نضیر",
+        "بنی مصطلق"
+      ],
+      "fr": [
+        "Les Quraysh",
+        "Les Banu Thaqif et Hawazin",
+        "Les Banu Nadir",
+        "Les Banu Mustaliq"
+      ],
+      "nl": [
+        "De Quraysh",
+        "De Banu Thaqif en Hawazin",
+        "De Banu Nadir",
+        "De Banu Mustaliq"
+      ],
+      "es": [
+        "Los Quraysh",
+        "Los Banu Thaqif y Hawazin",
+        "Los Banu Nadir",
+        "Los Banu Mustaliq"
+      ],
+      "sv": [
+        "Quraysh",
+        "Banu Thaqif och Hawazin",
+        "Banu Nadir",
+        "Banu Mustaliq"
+      ],
+      "no": [
+        "Quraysh",
+        "Banu Thaqif og Hawazin",
+        "Banu Nadir",
+        "Banu Mustaliq"
+      ],
+      "fi": [
+        "Quraysh",
+        "Banu Thaqif ja Hawazin",
+        "Banu Nadir",
+        "Banu Mustaliq"
+      ],
+      "ps": [
+        "قریش",
+        "بنی ثقیف او هوازن",
+        "بنی نضیر",
+        "بنی مصطلق"
+      ],
+      "id": [
+        "Quraisy",
+        "Bani Tsaqif dan Hawazin",
+        "Bani Nadhir",
+        "Bani Mushthaliq"
+      ],
+      "tr": [
+        "Kureyş",
+        "Beni Sakif ve Hevazin",
+        "Beni Nadir",
+        "Beni Mustalik"
+      ],
+      "de": [
+        "Die Quraisch",
+        "Die Banu Thaqif und Hawazin",
+        "Die Banu Nadir",
+        "Die Banu Mustaliq"
+      ],
+      "bn": [
+        "কুরাইশ",
+        "বনু সাকীফ ও হাওয়াযিন",
+        "বনু নাদীর",
+        "বনু মুস্তালিক"
+      ],
+      "so": [
+        "Qureysh",
+        "Banuu Thaqiif iyo Hawaazin",
+        "Banuu Nadhiir",
+        "Banuu Mustaliq"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "The Expedition of Tabuk in 9 AH was a difficult campaign in extreme heat. Many companions donated generously. Who brought so much wealth that Umar (RA) said, \"I have never competed with Abu Bakr for a good deed but he surpassed me\"?",
+      "ar": "كانت غزوة تبوك في العام 9 هـ حملة صعبة في حر شديد. تبرع العديد من الصحابة بسخاء. من أحضر من المال ما جعل عمر (رضي الله عنه) يقول: \"ما نازعت أبا بكر في شيء إلا وسبقني إليه\"؟",
+      "ur": "غزوہ تبوک 9 ہجری میں سخت گرمی میں ایک مشکل مہم تھی۔ بہت سے صحابہ نے فیاضی سے چندہ دیا۔ کس نے اتنے زیادہ مال لائے کہ عمر (رضي الله عنه) نے کہا، \"میں نے کسی بھی نیکی میں ابو بکر سے مقابلہ نہیں کیا مگر وہ مجھ سے سبقت لے گئے\"؟",
+      "fr": "L'expédition de Tabuk en 9 AH était une campagne difficile sous une chaleur extrême. De nombreux compagnons ont fait des dons généreusement. Qui a apporté tant de richesses qu'Omar (RA) a dit : « Je n'ai jamais rivalisé avec Abou Bakr dans une bonne action sans qu'il ne me dépasse » ?",
+      "nl": "De Expeditie van Tabuk in 9 AH was een moeilijke campagne in extreme hitte. Veel metgezellen schonken gul. Wie bracht zoveel rijkdom dat Umar (RA) zei: \"Ik heb nooit met Abu Bakr geconcurreerd in een goede daad of hij overtrof mij\"?",
+      "es": "La Expedición de Tabuk en el año 9 AH fue una campaña difícil en medio de un calor extremo. Muchos compañeros donaron generosamente. ¿Quién trajo tanta riqueza que Umar (RA) dijo: \"Nunca he competido con Abu Bakr en una buena acción sin que él me supere\"?",
+      "sv": "Expeditionen till Tabuk år 9 AH var en svår kampanj under extrem värme. Många följeslagare donerade generöst. Vem tog med sig så mycket rikedomar att Umar (RA) sa: \"Jag har aldrig tävlat med Abu Bakr i en god handling utan att han överträffat mig\"?",
+      "no": "Ekspedisjonen til Tabuk i 9 AH var en vanskelig kampanje under ekstrem varme. Mange følgesvenner donerte sjenerøst. Hvem brakte så mye rikdom at Umar (RA) sa: \"Jeg har aldri konkurrert med Abu Bakr i en god gjerning uten at han overgikk meg\"?",
+      "fi": "Tabukin retkikunta vuonna 9 AH oli vaikea sotaretki äärimmäisessä kuumuudessa. Monet seuralaiset lahjoittivat anteliaasti. Kuka toi niin paljon omaisuutta, että Umar (RA) sanoi: \"En ole koskaan kilpaillut Abu Bakrin kanssa hyvästä teosta ilman, että hän ohitti minut\"?",
+      "ps": "د تبوک غزوه د 9 هجري کال کې په سختې تودوخې کې یوه سخته مبارزه وه. ډېرو صحابیو فیاضۍ سره مرسته وکړه. چا دومره زیات مال راوړ چې عمر (رضي الله عنه) يې وویل، \"ما هيڅکله په نېکۍ کې له ابوبکر سره سیالي نه ده کړې مګر هغه ما ته مخکې شوی دی\"؟",
+      "id": "Ekspedisi Tabuk pada tahun 9 H adalah kampanye yang sulit di tengah panas yang ekstrem. Banyak sahabat yang bersedekah dengan murah hati. Siapakah yang membawa kekayaan sedemikian banyaknya sehingga Umar (RA) berkata, \"Aku tidak pernah berlomba dengan Abu Bakar dalam suatu kebaikan melainkan ia mendahului aku\"?",
+      "tr": "9 Hicri yılındaki Tebük Seferi, aşırı sıcakta yapılan zorlu bir seferdi. Birçok sahabe cömertçe bağışta bulundu. Ömer'in (RA) \"Ebu Bekir'le hiçbir iyilikte yarışmadım ki o benden öne geçmiş olmasın\" dediği kadar çok zenginliği kim getirdi?",
+      "de": "Der Feldzug von Tabuk im Jahr 9 n.H. war ein schwieriger Feldzug unter extremer Hitze. Viele Gefährten spendeten großzügig. Wer brachte so viel Reichtum, dass Umar (RA) sagte: „Ich habe niemals mit Abu Bakr um eine gute Tat gewetteifert, ohne dass er mich übertraf“?",
+      "bn": "৯ হিজরীর তাবুক অভিযান ছিল প্রচণ্ড গরমে এক কঠিন অভিযান। অনেক সাহাবী উদারভাবে দান করেছিলেন। কে এত বেশি সম্পদ নিয়ে আসেন যে উমর (রা.) বলেন, \"আমি আবু বকরের সাথে কোনো সৎকর্মে প্রতিযোগিতা করিনি কিন্তু তিনি আমাকে ছাড়িয়ে গেছেন\"?",
+      "so": "Duumayntii Tabuk ee 9 AH waxay ahayd olole adag oo kulayl daran. Saxaabo badan ayaa si deeqsinimo leh ugu deeqay. Ayaa keenay maal aad u badan oo Cumar (RC) yidhi, \"Weligay kuma tartamin Abu Bakr samaan aanu iga hormarin\"?"
+    },
+    "options": {
+      "en": [
+        "Uthman ibn Affan (RA) - who equipped the \"Army of Hardship\" (Jaysh al-Usrah)",
+        "Umar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "ar": [
+        "عثمان بن عفان (رضي الله عنه) - الذي جهز \"جيش العسرة\"",
+        "عمر بن الخطاب (رضي الله عنه)",
+        "عبد الرحمن بن عوف (رضي الله عنه)",
+        "طلحة بن عبيد الله (رضي الله عنه)"
+      ],
+      "ur": [
+        "عثمان بن عفان (رضي الله عنه) - جنہوں نے \"جیش العسرۃ\" کو لیس کیا",
+        "عمر بن خطاب (رضي الله عنه)",
+        "عبد الرحمن بن عوف (رضي الله عنه)",
+        "طلحہ بن عبید اللہ (رضي الله عنه)"
+      ],
+      "fr": [
+        "Othman ibn Affan (RA) - qui a équipé l'\"Armée de la Difficulté\" (Jaysh al-Usrah)",
+        "Oumar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "nl": [
+        "Uthman ibn Affan (RA) - die het \"Leger van Ontbering\" (Jaysh al-Usrah) uitrustte",
+        "Umar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "es": [
+        "Uthman ibn Affan (RA) - quien equipó al \"Ejército de la Dificultad\" (Jaysh al-Usrah)",
+        "Umar ibn al-Jattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "sv": [
+        "Uthman ibn Affan (RA) - som utrustade \"Svårighetens armé\" (Jaysh al-Usrah)",
+        "Umar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "no": [
+        "Uthman ibn Affan (RA) - som utstyrte \"Vanskelighetens hær\" (Jaysh al-Usrah)",
+        "Umar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "fi": [
+        "Uthman ibn Affan (RA) - joka varusti \"Vaikeuden armeijan\" (Jaysh al-Usrah)",
+        "Umar ibn al-Khattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talhah ibn Ubaydullah (RA)"
+      ],
+      "ps": [
+        "عثمان بن عفان (رضي الله عنه) - چا چې \"جیش العسرۃ\" تجهیز کړ",
+        "عمر بن خطاب (رضي الله عنه)",
+        "عبد الرحمن بن عوف (رضي الله عنه)",
+        "طلحہ بن عبید اللہ (رضي الله عنه)"
+      ],
+      "id": [
+        "Utsman bin Affan (RA) - yang mempersiapkan \"Pasukan Kesulitan\" (Jaysy al-Usrah)",
+        "Umar bin Khattab (RA)",
+        "Abdurrahman bin Auf (RA)",
+        "Thalhah bin Ubaidillah (RA)"
+      ],
+      "tr": [
+        "Osman bin Affan (RA) - \"Zorluk Ordusu\"nu (Ceys el-Usra) donatan",
+        "Ömer bin Hattab (RA)",
+        "Abdurrahman bin Avf (RA)",
+        "Talha bin Ubeydullah (RA)"
+      ],
+      "de": [
+        "Uthman ibn Affan (RA) - der das „Heer der Bedrängnis“ (Dschaisch al-Usra) ausrüstete",
+        "Umar ibn al-Chattab (RA)",
+        "Abdur-Rahman ibn Awf (RA)",
+        "Talha ibn Ubaydullah (RA)"
+      ],
+      "bn": [
+        "উসমান ইবনে আফফান (রা.) - যিনি \"জৈশুল উসরা\" (কষ্টের বাহিনী) সজ্জিত করেছিলেন",
+        "উমর ইবনুল খাত্তাব (রা.)",
+        "আব্দুর রহমান ইবনে আউফ (রা.)",
+        "তালহা ইবনে উবাইদুল্লাহ (রা.)"
+      ],
+      "so": [
+        "Cusmaan bin Cafaan (RC) - ka soo saaray \"Ciidankii Dhibka\" (Jaysh al-Cusrah)",
+        "Cumar bin Khattab (RC)",
+        "Cabdur Raxmaan bin Cawf (RC)",
+        "Dalxa bin Cubaydillaah (RC)"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 0
+  },
+  {
+    "question": {
+      "en": "The \"Year of Deputations\" (Sanat al-Wufud) in 9 AH saw many tribes coming to Madinah to declare their Islam. Which Christian delegation from Najran came and had a famous debate (Mubahala) with the Prophet (ﷺ)?",
+      "ar": "شهد \"عام الوفود\" في 9 هـ قدوم العديد من القبائل إلى المدينة لإعلان إسلامهم. أي وفد مسيحي من نجران جاء وأجرى مباهلة مشهورة مع النبي (ﷺ)؟",
+      "ur": "9 ہجری میں \"عام الوفود\" میں بہت سے قبائل مدینہ منورہ آئے اور اپنا اسلام قبول کرنے کا اعلان کیا۔ نجران کا کون سا عیسائی وفد آیا اور اس نے نبی (ﷺ) کے ساتھ مشہور مبہلہ کیا؟",
+      "fr": "L'\"Année des Délégations\" (Sanat al-Wufud) en 9 AH a vu de nombreuses tribus venir à Médine pour déclarer leur Islam. Quelle délégation chrétienne de Najran est venue et a eu un célèbre débat (Mubahala) avec le Prophète (ﷺ) ?",
+      "nl": "Het \"Jaar van de Delegaties\" (Sanat al-Wufud) in 9 AH zag vele stammen naar Madinah komen om hun islam te verklaren. Welke christelijke delegatie uit Najran kwam en had een beroemd debat (Mubahala) met de Profeet (ﷺ)?",
+      "es": "El \"Año de las Delegaciones\" (Sanat al-Wufud) en el 9 AH vio a muchas tribus venir a Medina para declarar su Islam. ¿Qué delegación cristiana de Najrán vino y tuvo un famoso debate (Mubahala) con el Profeta (ﷺ)?",
+      "sv": "Under \"Sändebudens år\" (Sanat al-Wufud) år 9 AH kom många stammar till Madinah för att förklara sin islam. Vilken kristen delegation från Najran kom och hade en berömd debatt (Mubahala) med profeten (ﷺ)?",
+      "no": "Under \"delegatenes år\" (Sanat al-Wufud) i 9 AH kom mange stammer til Madinah for å erklære sin islam. Hvilken kristen delegasjon fra Najran kom og hadde en berømt debatt (Mubahala) med profeten (ﷺ)?",
+      "fi": "\"Valtuuskuntien vuonna\" (Sanat al-Wufud) 9 AH monet heimot tulivat Medinaan julistaakseen islamin. Mikä kristitty valtuuskunta Najranista tuli ja kävi kuuluisan väittelyn (Mubahala) profeetan (ﷺ) kanssa?",
+      "ps": "د \"عام الوفود\" په 9 هجري کال کې ډېرو قبیلو مدینې ته راغلې ترڅو د اسلام اعلان وکړي. د نجران کوم عیسوي پلاوی راغی او له نبي (ﷺ) سره یې مشهوره مباہله وکړه؟",
+      "id": "\"Tahun Delegasi\" (Sanat al-Wufud) pada tahun 9 H menyaksikan banyak kabilah datang ke Madinah untuk menyatakan keislaman mereka. Delegasi Kristen manakah dari Najran yang datang dan melakukan debat terkenal (Mubahalah) dengan Nabi (ﷺ)?",
+      "tr": "9 Hicri yılındaki \"Heyetler Yılı\" (Senetü'l-Vüfud) birçok kabile nin İslam'ı ilan etmek için Medine'ye geldiğini gördü. Necran'dan gelen hangi Hıristiyan heyeti, Peygamber (ﷺ) ile meşhur bir mübâhele (karşılıklı beddua) tartışması yaptı?",
+      "de": "Das „Jahr der Abordnungen“ (Sanat al-Wufud) im Jahr 9 n.H. erlebte, dass viele Stämme nach Medina kamen, um ihren Islam zu erklären. Welche christliche Delegation aus Nadschran kam und führte eine berühmte Debatte (Mubahala) mit dem Propheten (ﷺ)?",
+      "bn": "৯ হিজরীর \"প্রতিনিধি দলের বছর\" (সানাত আল-উফুদ) এ অনেক গোত্র মদিনায় এসে তাদের ইসলাম ঘোষণা করে। নাজরান থেকে আগত কোন খ্রিস্টান প্রতিনিধি দল নবী (ﷺ)-এর সাথে বিখ্যাত মুবাহালায় অংশ নেয়?",
+      "so": "Sannadkii Wufuud (Sanat al-Wufud) ee 9 AH waxaa la arkay qabaa'il badan oo u yimid Madiina si ay u caddeeyaan Islaamkooda. Wafdi Masiixi ah oo ka yimid Najraan ayaa yimid oo la yeeshay dooc caan ah (Mubaahala) Nabiga (ﷺ)?"
+    },
+    "options": {
+      "en": [
+        "The delegation of Kindah",
+        "The delegation of Banu Hanifah",
+        "The delegation of Thaqif",
+        "The delegation of Najran"
+      ],
+      "ar": [
+        "وفد كندة",
+        "وفد بني حنيفة",
+        "وفد ثقيف",
+        "وفد نجران"
+      ],
+      "ur": [
+        "وفد کندہ",
+        "وفد بنی حنیفہ",
+        "وفد ثقیف",
+        "وفد نجران"
+      ],
+      "fr": [
+        "La délégation de Kindah",
+        "La délégation de Banu Hanifah",
+        "La délégation de Thaqif",
+        "La délégation de Najran"
+      ],
+      "nl": [
+        "De delegatie van Kindah",
+        "De delegatie van Banu Hanifah",
+        "De delegatie van Thaqif",
+        "De delegatie van Najran"
+      ],
+      "es": [
+        "La delegación de Kindah",
+        "La delegación de Banu Hanifah",
+        "La delegación de Thaqif",
+        "La delegación de Najrán"
+      ],
+      "sv": [
+        "Delegationen från Kindah",
+        "Delegationen från Banu Hanifah",
+        "Delegationen från Thaqif",
+        "Delegationen från Najran"
+      ],
+      "no": [
+        "Delegasjonen fra Kindah",
+        "Delegasjonen fra Banu Hanifah",
+        "Delegasjonen fra Thaqif",
+        "Delegasjonen fra Najran"
+      ],
+      "fi": [
+        "Kindahin valtuuskunta",
+        "Banu Hanifahin valtuuskunta",
+        "Thaqifin valtuuskunta",
+        "Najranin valtuuskunta"
+      ],
+      "ps": [
+        "د کندې پلاوی",
+        "د بنی حنیفې پلاوی",
+        "د ثقیف پلاوی",
+        "د نجران پلاوی"
+      ],
+      "id": [
+        "Delegasi Kindah",
+        "Delegasi Bani Hanifah",
+        "Delegasi Tsaqif",
+        "Delegasi Najran"
+      ],
+      "tr": [
+        "Kindeh heyeti",
+        "Beni Hanife heyeti",
+        "Sakif heyeti",
+        "Necran heyeti"
+      ],
+      "de": [
+        "Die Abordnung von Kinda",
+        "Die Abordnung der Banu Hanifa",
+        "Die Abordnung von Thaqif",
+        "Die Abordnung von Nadschran"
+      ],
+      "bn": [
+        "কিন্দাহর প্রতিনিধি দল",
+        "বনু হানিফার প্রতিনিধি দল",
+        "সাকীফের প্রতিনিধি দল",
+        "নাজরানের প্রতিনিধি দল"
+      ],
+      "so": [
+        "Wafdiga Kinda",
+        "Wafdiga Banuu Xaniifa",
+        "Wafdiga Thaqiif",
+        "Wafdiga Najraan"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 3
+  },
+  {
+    "question": {
+      "en": "During the Farewell Pilgrimage, the Prophet (ﷺ) performed Hajj. A specific verse was revealed at Arafat on a Friday, indicating the completion of the religion. Which verse was it?",
+      "ar": "خلال حجة الوداع، أدى النبي (ﷺ) فريضة الحج. نزلت آية معينة في عرفات يوم الجمعة، تشير إلى اكتمال الدين. أي آية كانت؟",
+      "ur": "حجة الوداع کے دوران، نبی (ﷺ) نے حج ادا کیا۔ جمعہ کے دن عرفات میں ایک خاص آیت نازل ہوئی، جس میں دین کی تکمیل کی طرف اشارہ تھا۔ وہ کون سی آیت تھی؟",
+      "fr": "Pendant le pèlerinage d'adieu, le Prophète (ﷺ) a accompli le Hajj. Un verset spécifique a été révélé à Arafat un vendredi, indiquant l'achèvement de la religion. Quel verset était-ce ?",
+      "nl": "Tijdens de Afscheidsbedevaart verrichtte de Profeet (ﷺ) de Hajj. Een specifiek vers werd geopenbaard op Arafat op een vrijdag, dat de voltooiing van de religie aangaf. Welk vers was het?",
+      "es": "Durante la Peregrinación de Despedida, el Profeta (ﷺ) realizó el Hayy. Un versículo específico fue revelado en Arafat un viernes, indicando la culminación de la religión. ¿Qué versículo era?",
+      "sv": "Under avskedspilgrimsfärden utförde profeten (ﷺ) Hajj. En specifik vers uppenbarades på Arafat en fredag, som indikerade fullbordandet av religionen. Vilken vers var det?",
+      "no": "Under avskjedspilegrimsreisen utførte profeten (ﷺ) Hajj. Et spesifikt vers ble åpenbart på Arafat en fredag, som indikerte fullføringen av religionen. Hvilket vers var det?",
+      "fi": "Jäähyväispyhiinvaelluksen aikana profeetta (ﷺ) suoritti Hajjin. Tietty säe ilmoitettiin Arafatissa perjantaina, mikä osoitti uskonnon täydellistymistä. Mikä säe se oli?",
+      "ps": "د حجة الوداع په جریان کې، نبي (ﷺ) حج ادا کړ. یو ځانګړی آیت د جمعې په ورځ په عرفات کې نازل شو، چې د دین بشپړیدل یې په ګوته کول. هغه کوم آیت و؟",
+      "id": "Pada saat Haji Wada', Nabi (ﷺ) melaksanakan ibadah haji. Sebuah ayat tertentu diturunkan di Arafah pada hari Jumat, yang menunjukkan kesempurnaan agama. Ayat apakah itu?",
+      "tr": "Veda Haccı sırasında Peygamber (ﷺ) Hac ibadetini yerine getirdi. Arafat'ta bir Cuma günü, dinin tamamlandığını gösteren belirli bir ayet indirildi. Hangi ayetti bu?",
+      "de": "Während der Abschiedswallfahrt verrichtete der Prophet (ﷺ) den Haddsch. Ein bestimmter Vers wurde in Arafat an einem Freitag offenbart, der die Vollendung der Religion anzeigte. Welcher Vers war es?",
+      "bn": "বিদায় হজ্জের সময়, নবী (ﷺ) হজ্জ পালন করেন। আরাফাতের ময়দানে শুক্রবার দিন একটি বিশেষ আয়াত নাযিল হয়, যা দ্বীনের পরিপূর্ণতা নির্দেশ করে। সেই আয়াতটি কোনটি?",
+      "so": "Intii lagu jiray Xajka Nabiga (Xajkatil Widaa), Nabigu (ﷺ) wuxuu qabtay Xajka. Aayad gaar ah ayaa lagu soo dejiyay Carafaat maalin Jimce ah, oo tilmaamaysa dhamaystirka diinta. Waa aayadee?"
+    },
+    "options": {
+      "en": [
+        "\"This day I have perfected for you your religion...\" (Surah al-Ma'idah, 5:3)",
+        "\"And complete the Hajj and Umrah for Allah...\" (Surah al-Baqarah, 2:196)",
+        "\"O you who have believed, obey Allah and obey the Messenger...\" (Surah an-Nisa, 4:59)",
+        "\"And proclaim to the people the Hajj...\" (Surah al-Hajj, 22:27)"
+      ],
+      "ar": [
+        "\"اليوم أكملت لكم دينكم...\" (سورة المائدة، 5:3)",
+        "\"وأتموا الحج والعمرة لله...\" (سورة البقرة، 2:196)",
+        "\"يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول...\" (سورة النساء، 4:59)",
+        "\"وأذن في الناس بالحج...\" (سورة الحج، 22:27)"
+      ],
+      "ur": [
+        "\"آج میں نے تمہارے لئے تمہارا دین مکمل کر دیا...\" (سورۃ المائدہ، 5:3)",
+        "\"اور اللہ کے لئے حج اور عمرہ پورا کرو...\" (سورۃ البقرہ، 2:196)",
+        "\"اے ایمان والو! اللہ کی اطاعت کرو اور رسول کی اطاعت کرو...\" (سورۃ النساء، 4:59)",
+        "\"اور لوگوں میں حج کا اعلان کر دو...\" (سورۃ الحج، 22:27)"
+      ],
+      "fr": [
+        "\"Aujourd'hui, J'ai parachevé pour vous votre religion...\" (Sourate al-Ma'idah, 5:3)",
+        "\"Et accomplissez pour Allah le Hajj et la Omra...\" (Sourate al-Baqarah, 2:196)",
+        "\"Ô vous qui avez cru, obéissez à Allah et obéissez au Messager...\" (Sourate an-Nisa, 4:59)",
+        "\"Et fais aux gens une annonce pour le Hajj...\" (Sourate al-Hajj, 22:27)"
+      ],
+      "nl": [
+        "\"Vandaag heb ik jullie religie voor jullie volmaakt...\" (Soerat al-Ma'idah, 5:3)",
+        "\"En voltooi de Hajj en Umrah voor Allah...\" (Soerat al-Baqarah, 2:196)",
+        "\"O jullie die geloven, gehoorzaam Allah en gehoorzaam de Boodschapper...\" (Soerat an-Nisa, 4:59)",
+        "\"En verkondig de bedevaart aan de mensen...\" (Soerat al-Hajj, 22:27)"
+      ],
+      "es": [
+        "\"Hoy os he perfeccionado vuestra religión...\" (Sura al-Ma'idah, 5:3)",
+        "\"Y completad el Hayy y la Umrah para Allah...\" (Sura al-Baqarah, 2:196)",
+        "\"¡Oh, creyentes! Obedeced a Allah y obedeced al Mensajero...\" (Sura an-Nisa, 4:59)",
+        "\"Y anuncia a la gente la peregrinación...\" (Sura al-Hayy, 22:27)"
+      ],
+      "sv": [
+        "\"Idag har jag fullbordat er religion åt er...\" (Surah al-Ma'idah, 5:3)",
+        "\"Och fullborda Hajj och Umrah för Allah...\" (Surah al-Baqarah, 2:196)",
+        "\"Troende! Lyd Allah och lyd Sändebudet...\" (Surah an-Nisa, 4:59)",
+        "\"Och förkunna för människorna pilgrimsfärden...\" (Surah al-Hajj, 22:27)"
+      ],
+      "no": [
+        "\"I dag har jeg fullkommen gjort deres religion for dere...\" (Surah al-Ma'idah, 5:3)",
+        "\"Og fullfør Hajj og Umrah for Allah...\" (Surah al-Baqarah, 2:196)",
+        "\"Dere som tror, adlyd Allah og adlyd Sendebudet...\" (Surah an-Nisa, 4:59)",
+        "\"Og kunngjør for folk pilegrimsreisen...\" (Surah al-Hajj, 22:27)"
+      ],
+      "fi": [
+        "\"Tänä päivänä Minä olen täydentänyt uskontonne teille...\" (Surah al-Ma'idah, 5:3)",
+        "\"Ja suorittakaa Hajj ja Umrah Allahille...\" (Surah al-Baqarah, 2:196)",
+        "\"Te, jotka uskotte, totelkaa Allahia ja totelkaa lähettilästä...\" (Surah an-Nisa, 4:59)",
+        "\"Ja julista ihmisille pyhiinvaellusta...\" (Surah al-Hajj, 22:27)"
+      ],
+      "ps": [
+        "\"نن ما ستاسو لپاره ستاسو دین مکمل کړ...\" (سورۃ المائدہ، ۵:۳)",
+        "\"او د الله لپاره حج او عمره پوره کړئ...\" (سورۃ البقرہ، ۲:۱۹۶)",
+        "\"اى هغو كسانو چې ایمان يې راوړى! د الله اطاعت كوئ او د رسول اطاعت كوئ...\" (سورۃ النساء، ۴:۵۹)",
+        "\"او په خلقو كې د حج اعلان وكړه...\" (سورۃ الحج، ۲۲:۲۷)"
+      ],
+      "id": [
+        "\"Pada hari ini telah Aku sempurnakan agamamu untukmu...\" (Surah al-Ma'idah, 5:3)",
+        "\"Dan sempurnakanlah ibadah haji dan umrah karena Allah...\" (Surah al-Baqarah, 2:196)",
+        "\"Wahai orang-orang yang beriman! Taatilah Allah dan taatilah Rasul...\" (Surah an-Nisa, 4:59)",
+        "\"Dan serulah manusia untuk mengerjakan haji...\" (Surah al-Hajj, 22:27)"
+      ],
+      "tr": [
+        "\"Bugün size dininizi ikmal ettim...\" (Maide Suresi, 5:3)",
+        "\"Haccı ve umreyi Allah için tamamlayın...\" (Bakara Suresi, 2:196)",
+        "\"Ey iman edenler! Allah'a itaat edin, Peygamber'e itaat edin...\" (Nisa Suresi, 4:59)",
+        "\"İnsanlara haccı duyur...\" (Hac Suresi, 22:27)"
+      ],
+      "de": [
+        "\"Heute habe ich euch eure Religion vervollkommnet...\" (Sure al-Ma'ida, 5:3)",
+        "\"Und vollendet den Haddsch und die Umra für Allah...\" (Sure al-Baqara, 2:196)",
+        "\"O die ihr glaubt, gehorcht Allah und gehorcht dem Gesandten...\" (Sure an-Nisa, 4:59)",
+        "\"Und rufe unter den Menschen den Haddsch aus...\" (Sure al-Haddsch, 22:27)"
+      ],
+      "bn": [
+        "\"আজ আমি তোমাদের জন্য তোমাদের দ্বীনকে পূর্ণাঙ্গ করে দিলাম...\" (সূরা আল-মায়িদাহ, ৫:৩)",
+        "\"আর আল্লাহর জন্য হজ্জ ও উমরা পূর্ণ কর...\" (সূরা আল-বাকারাহ, ২:১৯৬)",
+        "\"হে ঈমানদারগণ! তোমরা আল্লাহর আনুগত্য কর এবং রাসূলের আনুগত্য কর...\" (সূরা আন-নিসা, ৪:৫৯)",
+        "\"আর মানুষের মাঝে হজ্জের ঘোষণা দাও...\" (সূরা আল-হজ্জ, ২২:২৭)"
+      ],
+      "so": [
+        "\"Maanta waxaan idiin kaamilay diintiinna...\" (Suuratul Maa'idah, 5:3)",
+        "\"Oo dhamaystira Xajka iyo Cumrada Allah dartiis...\" (Suuratul Baqarah, 2:196)",
+        "\"Kuwa xaqa rumeeyow, adeeca Allah oo adeeca Rasuulka...\" (Suuratun Nisaa, 4:59)",
+        "\"Oo ku dhawaaq dadka Xajka...\" (Suuratul Xaj, 22:27)"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 0
+  },
+  {
+    "question": {
+      "en": "The Prophet (ﷺ) established a bond of brotherhood (Mu'akhat) between the Muhajirun (emigrants) and Ansar (helpers) in Madinah. Between which two famous companions was this brotherhood established?",
+      "ar": "أسس النبي (ﷺ) عقد الأخوة (المؤاخاة) بين المهاجرين والأنصار في المدينة. بين أي صحابيين جليلين تمت هذه المؤاخاة؟",
+      "ur": "نبی کریم (ﷺ) نے مدینہ میں مہاجرین اور انصار کے درمیان بھائی چارے کا معاہدہ (مواخاۃ) کیا۔ یہ بھائی چارہ کن دو مشہور صحابہ کے درمیان قائم ہوا؟",
+      "fr": "Le Prophète (ﷺ) a établi un lien de fraternité (Mu'akhat) entre les Muhajirun (émigrants) et les Ansar (auxiliaires) à Médine. Entre quels deux célèbres compagnons ce lien de fraternité a-t-il été établi ?",
+      "nl": "De Profeet (ﷺ) vestigde een broederschapsband (Mu'akhat) tussen de Muhajirun (emigranten) en Ansar (helpers) in Medina. Tussen welke twee beroemde metgezellen werd deze broederschap gevestigd?",
+      "es": "El Profeta (ﷺ) estableció un vínculo de hermandad (Mu'akhat) entre los Muhayirun (emigrantes) y los Ansar (auxiliares) en Medina. ¿Entre qué dos famosos compañeros se estableció esta hermandad?",
+      "sv": "Profeten (ﷺ) etablerade ett broderskapsband (Mu'akhat) mellan Muhajirun (emigranterna) och Ansar (hjälparna) i Medina. Mellan vilka två berömda följeslagare etablerades detta broderskap?",
+      "no": "Profeten (ﷺ) etablerte et brorskap (Mu'akhat) mellom Muhajirun (emigrantene) og Ansar (hjelperne) i Medina. Mellom hvilke to berømte følgesvenner ble dette brorskapet etablert?",
+      "fi": "Profeetta (ﷺ) perusti veljeyden siteen (Mu'akhat) Muhajirunin (maahanmuuttajat) ja Ansarin (auttajat) välille Medinassa. Minkä kahden kuuluisan kumppanin välille tämä veljeys perustettiin?",
+      "ps": "رسول الله (ﷺ) په مدينه منوره كښې د مہاجرينو او انصارو ترمنځ د ورورولۍ تړون (مواخات) جوړ کړ. دا ورورولي د دوو مشهورو صحابيانو ترمنځ جوړه شوه؟",
+      "id": "Nabi (ﷺ) menjalin ikatan persaudaraan (Mu'akhat) antara kaum Muhajirin dan Anshar di Madinah. Di antara dua sahabat terkenal manakah ikatan persaudaraan ini terjalin?",
+      "tr": "Peygamber (ﷺ) Medine'de Muhacirler ve Ensar arasında kardeşlik bağı (Muâhât) kurdu. Bu kardeşlik hangi iki ünlü sahabe arasında kurulmuştur?",
+      "de": "Der Prophet (ﷺ) stiftete ein Bruderschaftsband (Mu'akhat) zwischen den Muhajirun (Auswanderern) und den Ansar (Helfern) in Medina. Zwischen welchen zwei berühmten Gefährten wurde diese Bruderschaft gestiftet?",
+      "bn": "নবী (ﷺ) মদিনায় মুহাজির ও আনসারদের মধ্যে ভ্রাতৃত্বের বন্ধন (মুয়াখাত) স্থাপন করেছিলেন। কোন দুটি বিখ্যাত সাহাবীর মধ্যে এই ভ্রাতৃত্ব স্থাপিত হয়েছিল?",
+      "so": "Nabiga (ﷺ) wuxuu dhisi jiray walaaltinimo (Mu'akhat) inta u dhaxaysa Muhaajiriinta iyo Ansaarga ee Madiina. Walaaltinimadan ayaa la dhisay laba saaxiib ee caanka ah?"
+    },
+    "options": {
+      "en": [
+        "Umar (RA) and Uthman (RA)",
+        "Abu Bakr (RA) and Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) and Abu Darda (RA)",
+        "Bilal (RA) and Abdur-Rahman ibn Awf (RA)"
+      ],
+      "ar": [
+        "عمر (رضي الله عنه) وعثمان (رضي الله عنه)",
+        "أبو بكر (رضي الله عنه) وخارجة بن زيد (رضي الله عنه)",
+        "سلمان الفارسي (رضي الله عنه) وأبو الدرداء (رضي الله عنه)",
+        "بلال (رضي الله عنه) وعبد الرحمن بن عوف (رضي الله عنه)"
+      ],
+      "ur": [
+        "عمر (رض) اور عثمان (رض)",
+        "ابوبکر (رض) اور خارجہ بن زید (رض)",
+        "سلمان فارسی (رض) اور ابو الدرداء (رض)",
+        "بلال (رض) اور عبدالرحمٰن بن عوف (رض)"
+      ],
+      "fr": [
+        "Umar (RA) et Uthman (RA)",
+        "Abu Bakr (RA) et Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) et Abu Darda (RA)",
+        "Bilal (RA) et Abdur-Rahman ibn Awf (RA)"
+      ],
+      "nl": [
+        "Umar (RA) en Uthman (RA)",
+        "Abu Bakr (RA) en Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) en Abu Darda (RA)",
+        "Bilal (RA) en Abdur-Rahman ibn Awf (RA)"
+      ],
+      "es": [
+        "Umar (RA) y Uthman (RA)",
+        "Abu Bakr (RA) y Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) y Abu Darda (RA)",
+        "Bilal (RA) y Abdur-Rahman ibn Awf (RA)"
+      ],
+      "sv": [
+        "Umar (RA) och Uthman (RA)",
+        "Abu Bakr (RA) och Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) och Abu Darda (RA)",
+        "Bilal (RA) och Abdur-Rahman ibn Awf (RA)"
+      ],
+      "no": [
+        "Umar (RA) og Uthman (RA)",
+        "Abu Bakr (RA) og Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) og Abu Darda (RA)",
+        "Bilal (RA) og Abdur-Rahman ibn Awf (RA)"
+      ],
+      "fi": [
+        "Umar (RA) ja Uthman (RA)",
+        "Abu Bakr (RA) ja Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) ja Abu Darda (RA)",
+        "Bilal (RA) ja Abdur-Rahman ibn Awf (RA)"
+      ],
+      "ps": [
+        "عمر (رض) او عثمان (رض)",
+        "ابوبکر (رض) او خارجہ بن زيد (رض)",
+        "سلمان فارسي (رض) او ابو الدرداء (رض)",
+        "بلال (رض) او عبدالرحمن بن عوف (رض)"
+      ],
+      "id": [
+        "Umar (RA) dan Utsman (RA)",
+        "Abu Bakar (RA) dan Kharijah bin Zaid (RA)",
+        "Salman al-Farisi (RA) dan Abu Darda (RA)",
+        "Bilal (RA) dan Abdurrahman bin Auf (RA)"
+      ],
+      "tr": [
+        "Ömer (RA) ve Osman (RA)",
+        "Ebu Bekir (RA) ve Hârice bin Zeyd (RA)",
+        "Selman-ı Farisî (RA) ve Ebu'd-Derdâ (RA)",
+        "Bilal (RA) ve Abdurrahman bin Avf (RA)"
+      ],
+      "de": [
+        "Umar (RA) und Uthman (RA)",
+        "Abu Bakr (RA) und Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) und Abu Darda (RA)",
+        "Bilal (RA) und Abdur-Rahman ibn Awf (RA)"
+      ],
+      "bn": [
+        "উমর (রা.) ও উসমান (রা.)",
+        "আবু বকর (রা.) ও খারিজাহ ইবনে যায়েদ (রা.)",
+        "সালমান আল-ফারিসী (রা.) ও আবু দারদা (রা.)",
+        "বিলাল (রা.) ও আবদুর রহমান ইবনে আউফ (রা.)"
+      ],
+      "so": [
+        "Umar (RA) iyo Uthman (RA)",
+        "Abu Bakr (RA) iyo Kharijah ibn Zayd (RA)",
+        "Salman al-Farisi (RA) iyo Abu Darda (RA)",
+        "Bilal (RA) iyo Abdur-Rahman ibn Awf (RA)"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 2
+  },
+  {
+    "question": {
+      "en": "Which battle is referred to in the Quran as \"Yawm al-Furqan\" (The Day of Criterion, i.e., the day that distinguished truth from falsehood)?",
+      "ar": "أي غزوة أشار إليها القرآن باسم \"يوم الفرقان\" (أي اليوم الذي فرق بين الحق والباطل)؟",
+      "ur": "قرآن مجید میں کس جنگ کو \"یوم الفرقان\" (یعنی حق و باطل میں تمیز کرنے والا دن) کہا گیا ہے؟",
+      "fr": "Quelle bataille est désignée dans le Coran comme « Yawm al-Furqan » (Le Jour du Discernement, c'est-à-dire le jour qui a distingué la vérité du mensonge) ?",
+      "nl": "Naar welke slag wordt in de Koran verwezen als \"Yawm al-Furqan\" (De Dag van het Criterium, d.w.z. de dag die waarheid van onderscheidde van leugen)?",
+      "es": "¿Qué batalla se menciona en el Corán como \"Yawm al-Furqan\" (El Día del Criterio, es decir, el día que distinguió la verdad de la falsedad)?",
+      "sv": "Vilket slag kallas i Koranen för \"Yawm al-Furqan\" (Åtskillnadens dag, dvs. den dag som skilde sanning från lögn)?",
+      "no": "Hvilket slag omtales i Koranen som \"Yawm al-Furqan\" (Dagen for kriteriet, dvs. dagen som skilte sannhet fra løgn)?",
+      "fi": "Mihin taisteluun viitataan Koraanissa nimellä \"Yawm al-Furqan\" (Erottelun päivä, ts. päivä, joka erotti totuuden valheellisuudesta)?",
+      "ps": "په قرآن كريم كښې كومې جګړې ته \"یوم الفرقان\" (يعنې هغه ورځ چې حق له باطله جلا كړي) ويل شوي دي؟",
+      "id": "Perang manakah yang disebut dalam Al-Qur'an sebagai \"Yaumul Furqan\" (Hari Pembeda, yaitu hari yang membedakan antara kebenaran dan kebatilan)?",
+      "tr": "Kur'an'da \"Yevmü'l-Furkan\" (Hakkı batıldan ayıran gün) olarak bahsedilen savaş hangisidir?",
+      "de": "Welche Schlacht wird im Koran als „Yawm al-Furqan“ (Der Tag der Unterscheidung, d.h. der Tag, der die Wahrheit von der Falschheit unterschied) bezeichnet?",
+      "bn": "কুরআনে কোন যুদ্ধকে \"ইয়াওম আল-ফুরকান\" (মীমাংসার দিন, অর্থাৎ যে দিন সত্য ও মিথ্যার পার্থক্য স্পষ্ট হয়) হিসেবে উল্লেখ করা হয়েছে?",
+      "so": "Dagaalkee ayaa loo tilmaamaa Quraanka \"Yawm al-Furqan\" (Maalinta kala sooca, taasoo ah maalintii kala soocday xaqa iyo baadilka)?"
+    },
+    "options": {
+      "en": [
+        "Battle of Uhud",
+        "Battle of Badr",
+        "Battle of the Trench",
+        "Battle of Hunayn"
+      ],
+      "ar": [
+        "غزوة أحد",
+        "غزوة بدر",
+        "غزوة الخندق",
+        "غزوة حنين"
+      ],
+      "ur": [
+        "جنگ احد",
+        "جنگ بدر",
+        "جنگ خندق",
+        "جنگ حنین"
+      ],
+      "fr": [
+        "Bataille d'Uhud",
+        "Bataille de Badr",
+        "Bataille de la Tranchée",
+        "Bataille de Hunayn"
+      ],
+      "nl": [
+        "Slag bij Uhud",
+        "Slag bij Badr",
+        "Slag van de Gracht",
+        "Slag bij Hunayn"
+      ],
+      "es": [
+        "Batalla de Uhud",
+        "Batalla de Badr",
+        "Batalla de la Trinchera",
+        "Batalla de Hunayn"
+      ],
+      "sv": [
+        "Slaget vid Uhud",
+        "Slaget vid Badr",
+        "Slaget vid diket",
+        "Slaget vid Hunayn"
+      ],
+      "no": [
+        "Slaget ved Uhud",
+        "Slaget ved Badr",
+        "Slaget ved grøften",
+        "Slaget ved Hunayn"
+      ],
+      "fi": [
+        "Uhudin taistelu",
+        "Badrin taistelu",
+        "Vallihautataistelu",
+        "Hunaynin taistelu"
+      ],
+      "ps": [
+        "د احد جګړه",
+        "د بدر جګړه",
+        "د خندق جګړه",
+        "د حنين جګړه"
+      ],
+      "id": [
+        "Perang Uhud",
+        "Perang Badar",
+        "Perang Khandaq",
+        "Perang Hunain"
+      ],
+      "tr": [
+        "Uhud Savaşı",
+        "Bedir Savaşı",
+        "Hendek Savaşı",
+        "Huneyn Savaşı"
+      ],
+      "de": [
+        "Schlacht von Uhud",
+        "Schlacht von Badr",
+        "Schlacht am Graben",
+        "Schlacht von Hunayn"
+      ],
+      "bn": [
+        "উহুদ যুদ্ধ",
+        "বদর যুদ্ধ",
+        "খন্দকের যুদ্ধ",
+        "হুনায়নের যুদ্ধ"
+      ],
+      "so": [
+        "Dagaalkii Uxud",
+        "Dagaalkii Badar",
+        "Dagaalkii Khandaq",
+        "Dagaalkii Hunayn"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "What was the name of the pact of chivalry and justice that the Prophet (ﷺ) participated in during his youth, before prophethood, which aimed to protect the oppressed in Makkah?",
+      "ar": "ما اسم حلف المروءة والعدالة الذي شارك فيه النبي (ﷺ) في شبابه قبل البعثة، والذي كان يهدف إلى حماية المظلومين في مكة؟",
+      "ur": "اس شرافت اور انصاف کے معاہدے کا کیا نام تھا جس میں نبی کریم (ﷺ) نے اپنی جوانی میں، نبوت سے پہلے حصہ لیا تھا، اور جس کا مقصد مکہ میں مظلوموں کی حفاظت کرنا تھا؟",
+      "fr": "Quel était le nom du pacte de chevalerie et de justice auquel le Prophète (ﷺ) a participé dans sa jeunesse, avant la prophétie, et qui visait à protéger les opprimés à La Mecque ?",
+      "nl": "Wat was de naam van het pact van ridderlijkheid en rechtvaardigheid waaraan de Profeet (ﷺ) in zijn jeugd deelnam, vóór het profeetschap, dat tot doel had de onderdrukten in Mekka te beschermen?",
+      "es": "¿Cuál era el nombre del pacto de caballería y justicia en el que participó el Profeta (ﷺ) durante su juventud, antes de la profecía, cuyo objetivo era proteger a los oprimidos en La Meca?",
+      "sv": "Vad hette pakten om ridderlighet och rättvisa som profeten (ﷺ) deltog i under sin ungdom, före profetskapet, som syftade till att skydda de förtryckta i Mecka?",
+      "no": "Hva het pakten om ridderlighet og rettferdighet som profeten (ﷺ) deltok i i sin ungdom, før profetskapet, som hadde som mål å beskytte de undertrykte i Mekka?",
+      "fi": "Mikä oli sen ritarillisuuden ja oikeudenmukaisuuden sopimuksen nimi, johon profeetta (ﷺ) osallistui nuoruudessaan ennen profetiaa, ja jonka tarkoituksena oli suojella sorrettuja Mekassa?",
+      "ps": "د هغه د زلمیتوب او عدالت تړون نوم څه و چې رسول الله (ﷺ) په ځوانۍ کې، له نبوت څخه مخکې، پکې برخه اخيستې وه، او موخه يې په مكه كې له مظلومانو ساتنه وه؟",
+      "id": "Apa nama perjanjian kesatria dan keadilan yang diikuti oleh Nabi (ﷺ) pada masa mudanya, sebelum kenabian, yang bertujuan untuk melindungi orang-orang yang teraniaya di Makkah?",
+      "tr": "Peygamber (ﷺ)'in gençliğinde, peygamberlikten önce katıldığı ve Mekke'de mazlumları korumayı amaçlayan yiğitlik ve adalet anlaşmasının adı neydi?",
+      "de": "Wie hieß der Pakt der Ritterlichkeit und Gerechtigkeit, an dem der Prophet (ﷺ) in seiner Jugend vor dem Prophetentum teilnahm und der den Schutz der Unterdrückten in Mekka bezweckte?",
+      "bn": "সেই বীরত্ব ও ন্যায়বিচারের চুক্তির নাম কী যা নবী (ﷺ) তার যৌবনে, নবুওয়াতের আগে অংশগ্রহণ করেছিলেন, যার লক্ষ্য ছিল মক্কায় নিপীড়িতদের রক্ষা করা?",
+      "so": "Waa maxay magaca axdiga geesinimada iyo cadaalada ee uu Nabigu (ﷺ) ka qayb qaatay yaraantiisii, kahor nabinimada, kaas oo ujeedkiisu ahaa in la ilaaliyo kuwa la dulmiyey ee Makka?"
+    },
+    "options": {
+      "en": [
+        "Hilf al-Mutayyabin (The Alliance of the Perfumed Ones)",
+        "Hilf al-Fudul (The Alliance of the Virtuous)",
+        "Hilf al-Ahlaf",
+        "The Pledge of Aqabah"
+      ],
+      "ar": [
+        "حلف المطيبين",
+        "حلف الفضول",
+        "حلف الأحلاف",
+        "بيعة العقبة"
+      ],
+      "ur": [
+        "حلف المطیبین (خوشبو لگانے والوں کا معاہدہ)",
+        "حلف الفضول (فضیلت والوں کا معاہدہ)",
+        "حلف الاحلاف",
+        "بیعت عقبہ"
+      ],
+      "fr": [
+        "Hilf al-Mutayyabin (L'Alliance des Parfumés)",
+        "Hilf al-Fudul (L'Alliance des Vertueux)",
+        "Hilf al-Ahlaf",
+        "Le Pledge d'Aqabah"
+      ],
+      "nl": [
+        "Hilf al-Mutayyabin (Het Verbond van de Geparfumeerden)",
+        "Hilf al-Fudul (Het Verbond van de Deugdzamen)",
+        "Hilf al-Ahlaf",
+        "De Eed van Aqabah"
+      ],
+      "es": [
+        "Hilf al-Mutayyabin (La Alianza de los Perfumados)",
+        "Hilf al-Fudul (La Alianza de los Virtuosos)",
+        "Hilf al-Ahlaf",
+        "El Juramento de Aqaba"
+      ],
+      "sv": [
+        "Hilf al-Mutayyabin (De parfymerades allians)",
+        "Hilf al-Fudul (De dygdigas allians)",
+        "Hilf al-Ahlaf",
+        "Löftet vid Aqabah"
+      ],
+      "no": [
+        "Hilf al-Mutayyabin (De parfymerte allianse)",
+        "Hilf al-Fudul (De dydiges allianse)",
+        "Hilf al-Ahlaf",
+        "Løftet ved Aqabah"
+      ],
+      "fi": [
+        "Hilf al-Mutayyabin (Tuoksujen liitto)",
+        "Hilf al-Fudul (Hyveellisten liitto)",
+        "Hilf al-Ahlaf",
+        "Aqaban vala"
+      ],
+      "ps": [
+        "حلف المطيبين (د خوشبوينو تړون)",
+        "حلف الفضول (د فضيلت والو تړون)",
+        "حلف الاحلاف",
+        "د عقبې بيعت"
+      ],
+      "id": [
+        "Hilf al-Mutayyabin (Perjanjian Orang-orang yang Wangi)",
+        "Hilf al-Fudul (Perjanjian Orang-orang Utama)",
+        "Hilf al-Ahlaf",
+        "Bai'at Aqabah"
+      ],
+      "tr": [
+        "Hilfu'l-Mutayyibin (Güzel Kokulular İttifakı)",
+        "Hilfu'l-Fudul (Erdemliler İttifakı)",
+        "Hilfu'l-Ahlaf",
+        "Akabe Biatı"
+      ],
+      "de": [
+        "Hilf al-Mutayyabin (Das Bündnis der Parfümierten)",
+        "Hilf al-Fudul (Das Bündnis der Tugendhaften)",
+        "Hilf al-Ahlaf",
+        "Der Treueschwur von Aqabah"
+      ],
+      "bn": [
+        "হিলফ আল-মুতাইয়্যাবিন (সুগন্ধিদের জোট)",
+        "হিলফ আল-ফুদুল (গুণীজনদের জোট)",
+        "হিলফ আল-আহলাফ",
+        "আকাবার শপথ"
+      ],
+      "so": [
+        "Hilf al-Mutayyabin (Isbahaysiga Kuwa Cadar leh)",
+        "Hilf al-Fudul (Isbahaysiga Kuwa Wanaagsan)",
+        "Hilf al-Ahlaf",
+        "Ballankii Caqabada"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  },
+  {
+    "question": {
+      "en": "Which year is known as the \"Year of Sorrow\" (Aam al-Huzn)?",
+      "ar": "أي عام يُعرف بـ \"عام الحزن\"؟",
+      "ur": "کس سال کو \"عام الحزن\" (غم کا سال) کہا جاتا ہے؟",
+      "fr": "Quelle année est connue comme l'« Année de la tristesse » (Aam al-Huzn) ?",
+      "nl": "Welk jaar staat bekend als het \"Jaar van Verdriet\" (Aam al-Huzn)?",
+      "es": "¿Qué año se conoce como el \"Año de la Tristeza\" (Aam al-Huzn)?",
+      "sv": "Vilket år är känt som \"Sorgens år\" (Aam al-Huzn)?",
+      "no": "Hvilket år er kjent som \"Sorgens år\" (Aam al-Huzn)?",
+      "fi": "Mikä vuosi tunnetaan nimellä \"Surun vuosi\" (Aam al-Huzn)?",
+      "ps": "د کوم کال نوم \"عام الحزن\" (د غم کال) دی؟",
+      "id": "Tahun apakah yang dikenal sebagai \"Tahun Duka Cita\" ('Aam al-Huzn)?",
+      "tr": "Hangi yıl \"Hüzün Yılı\" (Âmü'l-Hüzn) olarak bilinir?",
+      "de": "Welches Jahr ist als das \"Jahr der Trauer\" (Aam al-Huzn) bekannt?",
+      "bn": "কোন বছরটি \"Year of Sorrow\" (আম আল-হুজন) নামে পরিচিত?",
+      "so": "Sanadee loo yaqaan \"Sannadgii Murugada\" (Aam al-Huzn)?"
+    },
+    "options": {
+      "en": [
+        "The year the Prophet (ﷺ) was born",
+        "The year the Prophet (ﷺ) lost his wife Khadijah (RA) and his uncle Abu Talib",
+        "The year of the Battle of Badr",
+        "The year of the Conquest of Makkah"
+      ],
+      "ar": [
+        "العام الذي ولد فيه النبي (ﷺ)",
+        "العام الذي فقد فيه النبي (ﷺ) زوجته خديجة (رضي الله عنها) وعمه أبا طالب",
+        "عام غزوة بدر",
+        "عام فتح مكة"
+      ],
+      "ur": [
+        "جس سال نبی (ﷺ) پیدا ہوئے",
+        "جس سال نبی (ﷺ) نے اپنی بیوی خدیجہ (رض) اور اپنے چچا ابو طالب کو کھو دیا",
+        "جنگ بدر کا سال",
+        "فتح مکہ کا سال"
+      ],
+      "fr": [
+        "L'année de la naissance du Prophète (ﷺ)",
+        "L'année où le Prophète (ﷺ) a perdu sa femme Khadijah (RA) et son oncle Abu Talib",
+        "L'année de la bataille de Badr",
+        "L'année de la conquête de La Mecque"
+      ],
+      "nl": [
+        "Het jaar waarin de Profeet (ﷺ) werd geboren",
+        "Het jaar waarin de Profeet (ﷺ) zijn vrouw Khadijah (RA) en zijn oom Abu Talib verloor",
+        "Het jaar van de Slag bij Badr",
+        "Het jaar van de Verovering van Mekka"
+      ],
+      "es": [
+        "El año en que nació el Profeta (ﷺ)",
+        "El año en que el Profeta (ﷺ) perdió a su esposa Jadiya (RA) y a su tío Abu Talib",
+        "El año de la Batalla de Badr",
+        "El año de la Conquista de La Meca"
+      ],
+      "sv": [
+        "Året då profeten (ﷺ) föddes",
+        "Året då profeten (ﷺ) förlorade sin hustru Khadijah (RA) och sin farbror Abu Talib",
+        "Året för slaget vid Badr",
+        "Året för erövringen av Mecka"
+      ],
+      "no": [
+        "Året da profeten (ﷺ) ble født",
+        "Året da profeten (ﷺ) mistet sin kone Khadijah (RA) og sin onkel Abu Talib",
+        "Året for slaget ved Badr",
+        "Året for erobringen av Mekka"
+      ],
+      "fi": [
+        "Vuosi, jona profeetta (ﷺ) syntyi",
+        "Vuosi, jona profeetta (ﷺ) menetti vaimonsa Khadijahin (RA) ja setänsä Abu Talibin",
+        "Badrin taistelun vuosi",
+        "Mekan valloituksen vuosi"
+      ],
+      "ps": [
+        "هغه کال چې رسول الله (ﷺ) پکې پیدا شو",
+        "هغه کال چې رسول الله (ﷺ) پکې خپله مېرمن خدیجه (رض) او خپل تره ابوطالب له لاسه ورکړل",
+        "د بدر د جګړې کال",
+        "د مکې د فتحې کال"
+      ],
+      "id": [
+        "Tahun kelahiran Nabi (ﷺ)",
+        "Tahun wafatnya istri Nabi, Khadijah (RA), dan pamannya, Abu Thalib",
+        "Tahun terjadinya Perang Badar",
+        "Tahun terjadinya Fathu Makkah"
+      ],
+      "tr": [
+        "Peygamber (ﷺ)'in doğduğu yıl",
+        "Peygamber (ﷺ)'in eşi Hatice (RA) ve amcası Ebu Talib'i kaybettiği yıl",
+        "Bedir Savaşı'nın olduğu yıl",
+        "Mekke'nin fethi yılı"
+      ],
+      "de": [
+        "Das Jahr, in dem der Prophet (ﷺ) geboren wurde",
+        "Das Jahr, in dem der Prophet (ﷺ) seine Frau Khadijah (RA) und seinen Onkel Abu Talib verlor",
+        "Das Jahr der Schlacht von Badr",
+        "Das Jahr der Eroberung Mekkas"
+      ],
+      "bn": [
+        "যে বছর নবী (ﷺ) জন্মগ্রহণ করেন",
+        "যে বছর নবী (ﷺ) তার স্ত্রী খাদিজা (রা.) এবং তার চাচা আবু তালিবকে হারান",
+        "বদর যুদ্ধের বছর",
+        "মক্কা বিজয়ের বছর"
+      ],
+      "so": [
+        "Sannadkii uu dhashay Nabigu (ﷺ)",
+        "Sannadkii uu Nabigu (ﷺ) lumiyay xaaskiisii Khadijah (RA) iyo adeerkii Abu Talib",
+        "Sannadkii Dagaalkii Badar",
+        "Sannadkii Furtay Makka"
+      ]
+    },
+    "level": "intermediate",
+    "answer_index": 1
+  }
+]

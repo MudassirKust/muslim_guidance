@@ -1,0 +1,535 @@
+{
+  "Umrah": {
+    "regular_sections": [
+      {
+        "section_title": {
+          "en": "1. Introduction to Umrah",
+          "ar": "1. مقدمة في العمرة",
+          "ur": "1. عمرہ کا تعارف",
+          "de": "1. Einführung in die Umrah",
+          "fr": "1. Introduction à la Omra",
+          "nl": "1. Inleiding tot de Umrah",
+          "es": "1. Introducción a la Umrah",
+          "sv": "1. Introduktion till Umrah",
+          "no": "1. Introduksjon til Umrah",
+          "fi": "1. Johdanto Umrah'iin",
+          "ps": "1. د عمرې پېژندنه",
+          "id": "1. Pengantar Umrah",
+          "tr": "1. Umre'ye Giriş",
+          "bn": "১. উমরাহর পরিচয়",
+          "so": "1. Hordhaca Cumrada"
+        },
+
+        "content": {
+          "en": "Umrah, often referred to as the \"lesser pilgrimage or minor Hajj,\" is a deeply spiritual journey to the holy city of Makkah, Saudi Arabia. Unlike Hajj, which is obligatory once in a lifetime for those who are physically and financially capable, Umrah is a Sunnah act of worship that can be performed at any time of the year. Despite being non-mandatory, Umrah holds immense significance in Islam, offering Muslims an opportunity to seek forgiveness, purify their souls, and strengthen their connection with Allah (SWT).",
+          "ar": "العمرة، التي يشار إليها غالبًا باسم \"الحج الأصغر\"، هي رحلة روحانية عميقة إلى المدينة المقدسة مكة المكرمة في المملكة العربية السعودية. على عكس الحج الذي هو فريضة مرة واحدة في العمر على القادرين جسديًا وماديًا، فإن العمرة هي سنة مؤكدة يمكن أداؤها في أي وقت من السنة. على الرغم من عدم وجوبها، فإن للعمرة أهمية كبيرة في الإسلام، حيث تتيح للمسلمين فرصة لطلب المغفرة، وتطهير أرواحهم، وتقوية صلتهم بالله تعالى.",
+          "ur": "عمرہ، جسے اکثر \"چھوٹا حج\" کہا جاتا ہے، سعودی عرب کے مقدس شہر مکہ مکرمہ کی طرف ایک گہری روحانی سفر ہے۔ حج کے برعکس، جو جسمانی اور مالی طور پر قابل افراد پر زندگی میں ایک بار فرض ہے، عمرہ ایک سنت مؤکدہ عبادت ہے جو سال کے کسی بھی وقت ادا کی جا سکتی ہے۔ غیر لازمی ہونے کے باوجود، اسلام میں عمرہ کی بہت زیادہ اہمیت ہے، جو مسلمانوں کو بخشش طلب کرنے، اپنی روحوں کو پاک کرنے اور اللہ (SWT) کے ساتھ اپنے تعلق کو مضبوط کرنے کا موقع فراہم کرتی ہے۔",
+          "de": "Die Umrah, oft als \"kleine Pilgerfahrt\" bezeichnet, ist eine zutiefst spirituelle Reise in die heilige Stadt Mekka in Saudi-Arabien. Im Gegensatz zum Hadsch, der einmal im Leben für körperlich und finanziell fähige Muslime verpflichtend ist, ist die Umrah eine empfohlene Sunnah, die zu jeder Zeit des Jahres vollzogen werden kann. Trotz ihrer Freiwilligkeit hat die Umrah eine große Bedeutung im Islam, da sie den Gläubigen die Möglichkeit bietet, Vergebung zu suchen, ihre Seele zu reinigen und ihre Verbindung zu Allah (SWT) zu stärken.",
+          "fr": "L’Omra, souvent appelée le « petit pèlerinage », est un voyage spirituel profond vers la ville sainte de La Mecque, en Arabie Saoudite. Contrairement au Hajj, qui est obligatoire une fois dans la vie pour ceux qui en ont la capacité physique et financière, l’Omra est un acte de dévotion recommandé (Sounnah) qui peut être accompli à tout moment de l’année. Bien qu’elle ne soit pas obligatoire, l’Omra a une grande importance en islam, offrant aux musulmans l’occasion de demander pardon, de purifier leur âme et de renforcer leur lien avec Allah (SWT).",
+          "nl": "De Umrah, vaak de \"kleine bedevaart\" genoemd, is een diep spirituele reis naar de heilige stad Mekka in Saoedi-Arabië. In tegenstelling tot de Hadj, die één keer in het leven verplicht is voor wie daartoe lichamelijk en financieel in staat is, is de Umrah een Soennah die op elk moment van het jaar kan worden verricht. Hoewel niet verplicht, heeft de Umrah een enorme betekenis in de islam: ze biedt moslims de kans om vergeving te zoeken, hun ziel te zuiveren en hun band met Allah (SWT) te versterken.",
+          "es": "La Umrah, a menudo llamada la «peregrinación menor» o «pequeño Hajj», es un viaje espiritual profundo a la ciudad sagrada de La Meca, en Arabia Saudita. A diferencia del Hajj, que es obligatorio una vez en la vida para quienes tienen capacidad física y económica, la Umrah es un acto recomendado (Sunna) que puede realizarse en cualquier época del año. Aunque no es obligatoria, la Umrah tiene gran importancia en el islam, ya que ofrece a los musulmanes la oportunidad de pedir perdón, purificar sus almas y fortalecer su conexión con Alá (SWT).",
+          "sv": "Umrah, ofta kallad den \"mindre pilgrimsfärden\", är en djupt andlig resa till den heliga staden Mekka i Saudiarabien. Till skillnad från Hajj, som är obligatorisk en gång i livet för dem som är fysiskt och ekonomiskt kapabla, är Umrah en rekommenderad handling (Sunnah) som kan utföras när som helst under året. Trots att den inte är obligatorisk har Umrah stor betydelse inom islam och ger muslimer möjlighet att söka förlåtelse, rena sina själar och stärka sin relation till Allah (SWT).",
+          "no": "Umrah, ofte kalt den \"mindre pilegrimsreisen\", er en dypt åndelig reise til den hellige byen Mekka i Saudi-Arabia. I motsetning til Hajj, som er obligatorisk én gang i livet for dem som er fysisk og økonomisk i stand, er Umrah en anbefalt Sunnah som kan utføres når som helst på året. Selv om den ikke er påbudt, har Umrah stor betydning i islam og gir muslimer en mulighet til å søke tilgivelse, rense sine sjeler og styrke sitt forhold til Allah (SWT).",
+          "fi": "Umrah, jota usein kutsutaan \"pienemmäksi pyhiinvaellukseksi\", on syvästi hengellinen matka Saudi-Arabiassa sijaitsevaan pyhään Mekkaan. Toisin kuin Hajj, joka on velvollisuus kerran elämässä niille, jotka ovat fyysisesti ja taloudellisesti kykeneviä, Umrah on suositeltu (Sunnah) palvonnan teko, joka voidaan suorittaa milloin tahansa vuoden aikana. Vaikka se ei ole pakollinen, Umrahilla on suuri merkitys islamissa: se tarjoaa muslimeille mahdollisuuden pyytää anteeksiantoa, puhdistaa sielunsa ja vahvistaa yhteyttään Allahiin (SWT).",
+          "ps": "عمره، چې ډېری وخت د \"کوچنی حج\" په نوم یادیږي، یوه ژوره روحاني سفر ده د سعودي عربستان مقدس ښار مکې ته. د حج پر خلاف، چې د هغو کسانو لپاره چې مالي او جسمي توان لري یو ځل په ژوند کې فرض دی، عمره یو سنت عمل دی چې د کال هر وخت ترسره کېدای شي. که څه هم دا فرض نه ده، عمره په اسلام کې ستر اهمیت لري، ځکه چې مسلمانانو ته د بښنې غوښتلو، د روح پاکولو او د الله (SWT) سره د اړیکې د پیاوړتیا فرصت ورکوي.",
+          "id": "Umrah, yang sering disebut sebagai \"haji kecil\", adalah perjalanan spiritual yang mendalam ke kota suci Mekkah, Arab Saudi. Tidak seperti Haji, yang wajib sekali seumur hidup bagi yang mampu secara fisik dan finansial, Umrah adalah ibadah Sunnah yang dapat dilakukan kapan saja sepanjang tahun. Meski tidak wajib, Umrah memiliki arti yang sangat penting dalam Islam, memberikan kesempatan bagi umat Muslim untuk memohon ampun, menyucikan jiwa, dan memperkuat hubungan mereka dengan Allah (SWT).",
+          "tr": "Umre, genellikle \"küçük hac\" olarak anılır, Suudi Arabistan'daki kutsal Mekke şehrine derin bir manevi yolculuktur. Hac, maddi ve bedensel imkânı olan Müslümanlara hayatlarında bir kez farzken, Umre yılın herhangi bir zamanında yapılabilen bir sünnet ibadettir. Zorunlu olmamasına rağmen Umre'nin İslam'da büyük bir önemi vardır; Müslümanlara bağışlanma dileme, ruhlarını arındırma ve Allah (SWT) ile bağlarını güçlendirme fırsatı sunar.",
+          "bn": "উমরাহ, যা প্রায়শই \"ছোট হজ বা অল্প হজ\" নামে পরিচিত, এটি সৌদি আরবের পবিত্র শহর মক্কার দিকে একটি গভীর আধ্যাত্মিক যাত্রা। হজের বিপরীতে, যা শারীরিক ও আর্থিকভাবে সক্ষম ব্যক্তিদের জন্য জীবনে একবার বাধ্যতামূলক, উমরাহ হলো একটি সুন্নত ইবাদত যা বছরের যেকোনো সময় সম্পাদন করা যেতে পারে। অবাধ্যতামূলক না হওয়া সত্ত্বেও, ইসলামে উমরাহর অপরিসীম গুরুত্ব রয়েছে, যা মুসলমানদের ক্ষমা প্রার্থনা, তাদের আত্মা পবিত্র করা এবং আল্লাহ (সুবহানাহু ওয়া তাআলা) এর সাথে তাদের সংযোগ মজবুত করার সুযোগ প্রদান করে।",
+          "so": "Cumrada, oo inta badan loo yaqaan \"Xajka yar ama Xajka yar\", waa safar ruuxi ah oo qoto dheer oo lagu tagayo magaalada barakeysan ee Makkah, Sacuudi Carabiya. Cumradu waa cibaado sunno ah oo sanadka oo dhan la gudan karo si ka duwan sida xajka oo ah mid ku waajib ah cimriga hal mar qofka awood u leh jidh ahaan iyo dhaqaale ahaanba. In kasta oo aanay ahayn wax waajib ah, haddana cumradu waxay Islaamka ku leedahay muhiimad weyn, iyadoo siinaysa Muslimiinta fursad ay ku cafiyaan, naftoodana u daahiriyaan, oo ay xoojiyaan xidhiidhkooda Eebbe (SWT)."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "2. Qur'anic Basis for Umrah",
+          "ar": "2. الأساس القرآني للعمرة",
+          "ur": "2. عمرہ کی قرآنی بنیاد",
+          "de": "2. Quranische Grundlage der Umrah",
+          "fr": "2. Fondement coranique de l’Omra",
+          "nl": "2. Koranische basis voor de Umrah",
+          "es": "2. Fundamento coránico de la Umrah",
+          "sv": "2. Koranisk grund för Umrah",
+          "no": "2. Koranisk grunnlag for Umrah",
+          "fi": "2. Koraanin perusta Umrahille",
+          "ps": "2. د عمرې قرآني بنسټ",
+          "id": "2. Dasar Al-Qur’an untuk Umrah",
+          "tr": "2. Umre'nin Kur'ânî Temeli",
+          "bn": "২. উমরাহর কুরআনিক ভিত্তি",
+          "so": "2. Aasaaska Quraanka ee Cumrada"
+        },
+
+        "content": {
+          "en": "Umrah is mentioned in the Qur'an in two places:\n\nSurah Al-Baqarah (2:196)\n\"And complete the Hajj and Umrah for Allah...\"\nThis verse establishes the obligation of completing both Hajj and Umrah sincerely for Allah's sake.\n\nSurah Al-Baqarah (2:158)\n\"Indeed, Safa and Marwah are among the symbols of Allah. So whoever makes Hajj to the House or performs Umrah—there is no blame upon him for walking between them...\"\nThis verse confirms that Sa'i (walking between Safa and Marwah) is part of both Hajj and Umrah.",
+          "ar": "تم ذكر العمرة في القرآن في موضعين:\n\nسورة البقرة (2:196)\n\"وأتموا الحج والعمرة لله...\"\nهذه الآية توجب إتمام كل من الحج والعمرة بإخلاص لله تعالى.\n\nسورة البقرة (2:158)\n\"إن الصفا والمروة من شعائر الله فمن حج البيت أو اعتمر فلا جناح عليه أن يطوف بهما...\"\nهذه الآية تؤكد أن السعي بين الصفا والمروة جزء من كل من الحج والعمرة.",
+          "ur": "قرآن پاک میں عمرہ کا ذکر دو مقامات پر آیا ہے:\n\nسورہ البقرہ (2:196)\n\"اور حج اور عمرہ اللہ کے لیے پورا کرو...\"\nیہ آیت حج اور عمرہ دونوں کو اللہ کی خاطر خلوص کے ساتھ مکمل کرنے کی تاکید کرتی ہے۔\n\nسورہ البقرہ (2:158)\n\"بے شک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں۔ پس جو شخص بیت اللہ کا حج یا عمرہ کرے... اس پر ان دونوں کے درمیان چلنے میں کوئی گناہ نہیں...\"\nیہ آیت تصدیق کرتی ہے کہ سعی (صفا اور مروہ کے درمیان چلنا) حج اور عمرہ دونوں کا حصہ ہے۔",
+          "de": "Die Umrah wird im Koran an zwei Stellen erwähnt:\n\nSure Al-Baqara (2:196)\n\"Und vollzieht den Hadsch und die Umrah für Allah...\"\nDieser Vers begründet die Verpflichtung, sowohl den Hadsch als auch die Umrah aufrichtig für Allah zu vollenden.\n\nSure Al-Baqara (2:158)\n\"Wahrlich, Safa und Marwa gehören zu den Symbolen Allahs. Wer also den Hadsch zum Haus vollzieht oder die Umrah verrichtet, den trifft keine Schuld, wenn er zwischen ihnen hin und her geht...\"\nDieser Vers bestätigt, dass der Sa'i (das Gehen zwischen Safa und Marwa) Teil sowohl des Hadsch als auch der Umrah ist.",
+          "fr": "L’Omra est mentionnée dans le Coran à deux reprises :\n\nSourate Al-Baqara (2:196)\n« Accomplissez le Hajj et l’Omra pour Allah... »\nCe verset établit l’obligation d’accomplir à la fois le Hajj et l’Omra sincèrement pour Allah.\n\nSourate Al-Baqara (2:158)\n« En vérité, Safa et Marwah font partie des rites d’Allah. Quiconque fait le Hajj à la Maison ou accomplit l’Omra—il n’y a aucun mal pour lui à marcher entre eux... »\nCe verset confirme que le Sa’i (la marche entre Safa et Marwah) fait partie du Hajj et de l’Omra.",
+          "nl": "De Umrah wordt in de Koran op twee plaatsen genoemd:\n\nSoera Al-Baqarah (2:196)\n\"En voltooi de Hadj en de Umrah voor Allah...\"\nDeze vers legt de verplichting vast om zowel de Hadj als de Umrah oprecht voor Allah te voltooien.\n\nSoera Al-Baqarah (2:158)\n\"Voorwaar, Safa en Marwah behoren tot de symbolen van Allah. Wie dus de Hadj naar het Huis verricht of de Umrah uitvoert—het is geen zonde voor hem om tussen hen te lopen...\"\nDeze vers bevestigt dat de Sa’i (het lopen tussen Safa en Marwah) deel uitmaakt van zowel de Hadj als de Umrah.",
+          "es": "La Umrah se menciona en el Corán en dos lugares:\n\nSura Al-Baqara (2:196)\n«Y completad el Hayy y la Umrah por Alá... »\nEste versículo establece la obligación de cumplir tanto el Hayy como la Umrah sinceramente por Alá.\n\nSura Al-Baqara (2:158)\n«En verdad, Safa y Marwah son parte de los símbolos de Alá. Así, quien haga el Hayy a la Casa o realice la Umrah—no hay culpa sobre él por caminar entre ambos... »\nEste versículo confirma que el Sa’i (caminar entre Safa y Marwah) es parte tanto del Hayy como de la Umrah.",
+          "sv": "Umrah nämns i Koranen på två ställen:\n\nSura al-Baqara (2:196)\n\"Fullfölj Hajj och Umrah för Allah...\"\nDenna vers fastställer skyldigheten att uppriktigt fullborda både Hajj och Umrah för Allah.\n\nSura al-Baqara (2:158)\n\"Safa och Marwah är sannerligen bland Allahs symboler. Så den som gör Hajj till Huset eller utför Umrah—det finns inget fel i att gå mellan dem...\"\nDenna vers bekräftar att Sa'i (gången mellan Safa och Marwah) är en del av både Hajj och Umrah.",
+          "no": "Umrah nevnes i Koranen to steder:\n\nSure Al-Baqara (2:196)\n\"Fullfør Hajj og Umrah for Allah...\"\nDette verset fastslår plikten til å fullføre både Hajj og Umrah oppriktig for Allah.\n\nSure Al-Baqara (2:158)\n\"Sannelig, Safa og Marwah er blant Allahs symboler. Så den som gjør Hajj til Huset eller utfører Umrah—det er ingen skyld for ham å gå mellom dem...\"\nDette verset bekrefter at Sa'i (vandringen mellom Safa og Marwah) er en del av både Hajj og Umrah.",
+          "fi": "Umra mainitaan Koraanissa kahdessa kohdassa:\n\nSura Al-Baqara (2:196)\n\"Täyttäkää Hajj ja Umra Allahille...\"\nTämä jae asettaa velvollisuuden suorittaa sekä Hajj että Umra vilpittömästi Allahin vuoksi.\n\nSura Al-Baqara (2:158)\n\"Totisesti, Safa ja Marwah ovat Allahin symboleja. Joten kuka tahansa, joka tekee Hadjin Talolle tai suorittaa Umran—hänelle ei ole mitään syytä olla kävelemättä niiden välillä...\"\nTämä jae vahvistaa, että Sa'i (kävely Safan ja Marwahn välillä) on osa sekä Hadjia että Umraa.",
+          "ps": "عمره په قرآن کې په دوو ځایونو کې ذکر شوې ده:\n\nسورة البقرة (2:196)\n\"او د الله لپاره حج او عمره پوره کړئ...\"\nدا آيت د دې وجوب ټاکي چې هم حج او هم عمره په اخلاص سره د الله لپاره بشپړ شي.\n\nسورة البقرة (2:158)\n\"بېشکه صفا او مروه د الله له نښو څخه دي. نو څوک چې د الله کور حج کوي يا عمره کوي—پر ده هېڅ ګناه نشته چې د دواړو ترمنځ تګ وکړي...\"\nدا آيت تاييدوي چې سعی (د صفا او مروه تر منځ تګ) د حج او عمرې دواړو برخه ده.",
+          "id": "Umrah disebutkan dalam Al-Qur’an di dua tempat:\n\nSurah Al-Baqarah (2:196)\n\"Dan sempurnakanlah Haji dan Umrah karena Allah...\"\nAyat ini menetapkan kewajiban menyempurnakan baik Haji maupun Umrah dengan tulus ikhlas karena Allah.\n\nSurah Al-Baqarah (2:158)\n\"Sesungguhnya Safa dan Marwah termasuk tanda-tanda (syiar) Allah. Maka siapa pun yang menunaikan Haji ke Baitullah atau melaksanakan Umrah—tidak ada dosa baginya untuk berjalan di antara keduanya...\"\nAyat ini menegaskan bahwa Sa’i (berjalan antara Safa dan Marwah) adalah bagian dari Haji dan Umrah.",
+          "tr": "Umre Kur'an'da iki yerde zikredilmektedir:\n\nBakara Suresi (2:196)\n\"Allah için haccı ve umreyi tamamlayın...\"\nBu ayet hem haccın hem de umrenin Allah rızası için samimiyetle tamamlanmasının gerekliliğini ortaya koymaktadır.\n\nBakara Suresi (2:158)\n\"Şüphesiz Safa ve Merve Allah'ın sembollerindendir. Kim Kâbe'yi hacceder veya umre yaparsa—onların arasında yürümesinde kendisine bir günah yoktur...\"\nBu ayet, sa'yin (Safa ile Merve arasında yürümek) hem haccın hem de umrenin bir parçası olduğunu doğrulamaktadır.",
+          "bn": "কুরআনে উমরাহর উল্লেখ দুটি স্থানে রয়েছে:\n\nসুরা আল-বাকারা (২:১৯৬)\n\"এবং আল্লাহর জন্য হজ ও উমরাহ পূর্ণ করো...\"\nএই আয়াত আল্লাহর জন্য আন্তরিকতার সাথে হজ ও উমরাহ উভয়টি সম্পূর্ণ করার বাধ্যবাধকতা প্রতিষ্ঠা করে।\n\nসুরা আল-বাকারা (২:১৫৮)\n\"নিশ্চয়ই সাফা ও মারওয়া আল্লাহর নিদর্শনসমূহের অন্তর্ভুক্ত। সুতরাং যে ব্যক্তি কা'বা ঘরে হজ করে অথবা উমরাহ করে—তার জন্য এ দুয়ের মধ্যে চলাচল করতে কোনো দোষ নেই...\"\nএই আয়াত নিশ্চিত করে যে সা'ঈ (সাফা ও মারওয়ার মধ্যে চলাচল) হজ ও উমরাহ উভয়েরই অংশ।",
+          "so": "Cumrada Quraanka waxaa lagu sheegay laba meelood oo kala ah:\n\nSuuradda Al-Baqarah (2:196)\n\"Oo dhammaystiiriya Xajka iyo Cumrada Eebbe u\"\nAayaddani waxay caddaynaysaa inay waajib ku tahay in la dhammaystiro xajka iyo cumradaba Eebbe dartiis.\n\nSuuradda Al-Baqarah (2:158)\n\"Safa iyo Marwah waa ka mid yihiin calaamadaha Eebbe. Haddaba qofkii Baytka u xajiya ama cumraysta, wax dambi ah ma saarna inuu dhex maro...\"\n\nAayaddani waxay caddaynaysaa in Sacii (ku socod Safa iyo Marwah dhexdooda) ay ka mid yihiin Xajka iyo Cumrada."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "3. Evidence from Hadith",
+          "ar": "3. الأدلة من الحديث",
+          "ur": "3. حدیث سے ثبوت",
+          "de": "3. Beweise aus den Hadithen",
+          "fr": "3. Preuves tirées du Hadith",
+          "nl": "3. Bewijzen uit de Hadith",
+          "es": "3. Evidencias del Hadiz",
+          "sv": "3. Bevis från haditherna",
+          "no": "3. Bevis fra hadithene",
+          "fi": "3. Todisteet haditheista",
+          "ps": "3. د حدیث څخه دلایل",
+          "id": "3. Bukti dari Hadis",
+          "tr": "3. Hadislerden Deliller",
+          "bn": "৩. হাদিস থেকে প্রমাণ",
+          "so": "3. Daliil xadiis"
+        },
+
+        "content": {
+          "en": "While the Qur'an mentions Umrah, its detailed rulings come from the Sunnah. The Prophet ﷺ said:\n\n- \"Umrah is an expiation for the sins committed between it and the next Umrah.\" (Bukhari 1773, Muslim 1349)\n\n- \"Perform Hajj and Umrah consecutively, for they remove poverty and sins just as the furnace removes impurities from iron.\" (Tirmidhi 810)\n\nAisha (RA) reported that she asked the Prophet ﷺ if women were required to engage in Jihad. He replied: *\"Yes, their Jihad is one in which there is no fighting: Hajj and Umrah.\"* (Ibn Majah)",
+          "ar": "بينما يذكر القرآن العمرة، فإن تفاصيل أحكامها تأتي من السنة. قال النبي ﷺ:\n\n- \"العمرة إلى العمرة كفارة لما بينهما.\" (البخاري 1773، مسلم 1349)\n\n- \"تابعوا بين الحج والعمرة، فإنهما ينفيان الفقر والذنوب كما ينفي الكير خبث الحديد.\" (الترمذي 810)\n\nروت عائشة رضي الله عنها أنها سألت النبي ﷺ إذا كان على النساء الجهاد. فأجاب: *\"نعم، عليهن جهاد لا قتال فيه: الحج والعمرة.\"* (ابن ماجه)",
+          "ur": "اگرچہ قرآن میں عمرہ کا ذکر ہے، لیکن اس کے تفصیلی احکام سنت سے آتے ہیں۔ نبی کریم ﷺ نے فرمایا:\n\n- \"ایک عمرہ دوسرے عمرہ تک کے گناہوں کا کفارہ ہے۔\" (بخاری 1773، مسلم 1349)\n\n- \"حج اور عمرہ مسلسل ادا کرو، کیونکہ یہ فقر اور گناہوں کو ایسے دور کرتے ہیں جیسے بھٹی لوہے سے میل کچیل دور کرتی ہے۔\" (ترمذی 810)\n\nحضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ انہوں نے نبی ﷺ سے پوچھا کہ کیا عورتوں پر جہاد فرض ہے۔ آپ ﷺ نے فرمایا: *\"ہاں، ان پر ایسا جہاد ہے جس میں قتال نہیں: حج اور عمرہ۔\"* (ابن ماجہ)",
+          "de": "Während der Koran die Umrah erwähnt, stammen ihre detaillierten Vorschriften aus der Sunnah. Der Prophet ﷺ sagte:\n\n- \"Die Umrah ist eine Sühne für die Sünden zwischen ihr und der nächsten Umrah.\" (Bukhari 1773, Muslim 1349)\n\n- \"Verrichtet Hadsch und Umrah hintereinander, denn sie entfernen Armut und Sünden, so wie der Schmelzofen Verunreinigungen vom Eisen entfernt.\" (Tirmidhi 810)\n\nAischa (RA) berichtete, dass sie den Propheten ﷺ fragte, ob Frauen am Dschihad teilnehmen müssten. Er antwortete: *\"Ja, ihr Jihad ist einer ohne Kampf: Hadsch und Umrah.\"* (Ibn Majah)",
+          "fr": "Bien que le Coran mentionne l’Omra, ses règles détaillées proviennent de la Sunna. Le Prophète ﷺ a dit :\n\n- \"L’Omra est une expiation des péchés commis entre elle et la suivante.\" (Boukhari 1773, Mouslim 1349)\n\n- \"Accomplissez le Hajj et l’Omra consécutivement, car ils effacent la pauvreté et les péchés comme le fourneau élimine les impuretés du fer.\" (Tirmidhi 810)\n\nAïcha (RA) rapporta qu’elle demanda au Prophète ﷺ si les femmes devaient participer au Jihad. Il répondit : *\"Oui, leur Jihad est celui où il n’y a pas de combat : le Hajj et l’Omra.\"* (Ibn Majah)",
+          "nl": "Hoewel de Koran de Umrah noemt, komen de gedetailleerde voorschriften uit de Soenna. De Profeet ﷺ zei:\n\n- \"Umrah is een vergeving voor de zonden die zijn begaan tussen deze en de volgende Umrah.\" (Bukhari 1773, Muslim 1349)\n\n- \"Verricht Hadj en Umrah achtereenvolgens, want zij verwijderen armoede en zonden zoals de oven onzuiverheden van ijzer verwijdert.\" (Tirmidhi 810)\n\nAisha (RA) vertelde dat zij de Profeet ﷺ vroeg of vrouwen verplicht waren deel te nemen aan de Jihad. Hij antwoordde: *\"Ja, hun Jihad is er een zonder gevecht: Hadj en Umrah.\"* (Ibn Majah)",
+          "es": "Aunque el Corán menciona la Umrah, sus reglas detalladas provienen de la Sunna. El Profeta ﷺ dijo:\n\n- \"La Umrah es una expiación de los pecados cometidos entre ella y la siguiente Umrah.\" (Bujari 1773, Musulmán 1349)\n\n- \"Realizad el Hayy y la Umrah consecutivamente, pues eliminan la pobreza y los pecados como el horno elimina las impurezas del hierro.\" (Tirmidhi 810)\n\nAisha (RA) relató que preguntó al Profeta ﷺ si las mujeres debían participar en la Yihad. Él respondió: *\"Sí, su Yihad es una en la que no hay combate: el Hayy y la Umrah.\"* (Ibn Mayah)",
+          "sv": "Även om Koranen nämner Umrah kommer dess detaljerade regler från Sunna. Profeten ﷺ sade:\n\n- \"Umrah är en försoning för synderna som begås mellan den och nästa Umrah.\" (Bukhari 1773, Muslim 1349)\n\n- \"Utför Hajj och Umrah i följd, för de tar bort fattigdom och synder så som ugnen tar bort orenheter från järn.\" (Tirmidhi 810)\n\nAisha (RA) berättade att hon frågade Profeten ﷺ om kvinnor var skyldiga att delta i Jihad. Han svarade: *\"Ja, deras Jihad är en utan strid: Hajj och Umrah.\"* (Ibn Majah)",
+          "no": "Selv om Koranen nevner Umrah, kommer de detaljerte reglene fra Sunna. Profeten ﷺ sa:\n\n- \"Umrah er en soning for syndene begått mellom den og neste Umrah.\" (Bukhari 1773, Muslim 1349)\n\n- \"Utfør Hajj og Umrah etter hverandre, for de fjerner fattigdom og synder slik smelteovnen fjerner urenheter fra jern.\" (Tirmidhi 810)\n\nAisha (RA) fortalte at hun spurte Profeten ﷺ om kvinner var pålagt å delta i Jihad. Han svarte: *\"Ja, deres Jihad er en uten kamp: Hajj og Umrah.\"* (Ibn Majah)",
+          "fi": "Vaikka Koraani mainitsee Umran, sen yksityiskohtaiset määräykset tulevat Sunnasta. Profeetta ﷺ sanoi:\n\n- \"Umra on sovitus synneistä, jotka tehdään sen ja seuraavan Umran välillä.\" (Bukhari 1773, Muslim 1349)\n\n- \"Suorittakaa Hajj ja Umra peräkkäin, sillä ne poistavat köyhyyden ja synnit kuten sulatusuuni poistaa epäpuhtaudet raudasta.\" (Tirmidhi 810)\n\nAisha (RA) kertoi, että hän kysyi Profeetalta ﷺ, olivatko naiset velvollisia osallistumaan Jihadiin. Hän vastasi: *\"Kyllä, heidän Jihadinsa on sellainen, jossa ei ole taistelua: Hajj ja Umra.\"* (Ibn Majah)",
+          "ps": "که څه هم قرآن عمره یادوي، د هغې تفصیلي احکام د سنتو څخه راځي. پیغمبر ﷺ وفرمایل:\n\n- \"عمره د هغو ګناهونو کفاره ده چې د یوې عمرې او بلې عمرې ترمنځ ترسره شوي وي.\" (بخاري 1773، مسلم 1349)\n\n- \"حج او عمره په پرله پسې توګه ترسره کړئ، ځکه چې دوی فقر او ګناهونه لرې کوي لکه څنګه چې بټۍ د اوسپنې کثافات لرې کوي.\" (ترمذي 810)\n\nعایشه (رض) روایت کوي چې هغې له پیغمبر ﷺ څخه وپوښتل چې آیا پر ښځو جهاد لازم دی. هغه ځواب ورکړ: *\"هو، د دوی جهاد هغه دی چې په کې جګړه نشته: حج او عمره.\"* (ابن ماجه)",
+          "id": "Meskipun Al-Qur'an menyebut Umrah, rincian hukumnya berasal dari Sunnah. Nabi ﷺ bersabda:\n\n- \"Umrah adalah penghapus dosa-dosa yang dilakukan antara satu Umrah dan Umrah berikutnya.\" (Bukhari 1773, Muslim 1349)\n\n- \"Laksanakan Haji dan Umrah secara berurutan, karena keduanya menghilangkan kemiskinan dan dosa sebagaimana tungku menghilangkan kotoran dari besi.\" (Tirmidhi 810)\n\nAisyah (RA) meriwayatkan bahwa ia bertanya kepada Nabi ﷺ apakah wanita diwajibkan berjihad. Beliau menjawab: *\"Ya, jihad mereka adalah jihad tanpa peperangan: Haji dan Umrah.\"* (Ibnu Majah)",
+          "tr": "Kur'an Umreyi zikreder, ancak onun detaylı hükümleri Sünnetten gelir. Peygamber ﷺ buyurdu:\n\n- \"Umre, bir Umre ile diğer Umre arasındaki günahlar için kefarettir.\" (Buhari 1773, Müslim 1349)\n\n- \"Hac ve Umreyi art arda yapın; çünkü onlar fakirliği ve günahları, körüğün demirden kiri uzaklaştırdığı gibi giderir.\" (Tirmizi 810)\n\nAişe (RA) rivayet etti ki, Peygamber ﷺ'den kadınlara cihadın farz olup olmadığını sordu. O şöyle cevap verdi: *\"Evet, onların cihadı savaşsız olan cihaddır: Hac ve Umre.\"* (İbn Mace)",
+          "bn": "কুরআন উমরাহর উল্লেখ করলেও এর বিস্তারিত বিধান সুন্নাহ থেকে এসেছে। রাসূল ﷺ বলেছেন:\n\n- \"উমরাহ একটি উমরাহ থেকে আরেকটি উমরাহর মধ্যবর্তী গুনাহগুলোর কাফফারা।\" (বুখারী ১৭৭৩, মুসলিম ১৩৪৯)\n\n- \"হজ ও উমরাহ পরপর আদায় করো, কেননা এগুলো দারিদ্র্য ও পাপ দূর করে যেমনিভাবে চুল্লি লোহা থেকে ময়লা দূর করে।\" (তিরমিযী ৮১০)\n\nআয়িশা (রা.) বর্ণনা করেছেন যে তিনি রাসূল ﷺ-কে জিজ্ঞেস করেছিলেন মহিলাদের জিহাদে অংশগ্রহণ করতে হবে কিনা। তিনি উত্তর দিয়েছিলেন: *\"হ্যাঁ, তাদের জিহাদ হলো যাতে কোনো যুদ্ধ নেই: হজ ও উমরাহ।\"* (ইবন মাজাহ)",
+          "so": "Quraanku markuu cumrada sheegay, axkaamtiisa oo faahfaahsan waxay ka yimaadeen Sunnada. Nabigu ﷺ wuxuu yidhi:\n\n- \"Cumradu waa kafaaraggud dambiyada u dhexeeya labada cumro.\" (Bukhari 1773, Muslim 1349)\n\n- \"Xajka iyo Cumrada isu xigxi, waayo waxay meesha ka saaraan faqriga iyo dembiyada sida birta laga saaro wasakhda.\" (Tirmidhi 810)\n\nCaa'isha (RC) waxay sheegtay in ay Nabiga ﷺ waydiisay in dumarka looga baahan yahay inay galaan Jihaadka. Wuxuu ku jawaabay: *\"Haa, Jihaadkoodu waa kan aan lagu dagaallamin: Xaj iyo Cumro.\"* (Ibnu Maajah)"
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "4. Types of Umrah",
+          "ar": "4. أنواع العمرة",
+          "ur": "4. عمرہ کی اقسام",
+          "de": "4. Arten der Umrah",
+          "fr": "4. Types d'Omra",
+          "nl": "4. Soorten Umrah",
+          "es": "4. Tipos de Umrah",
+          "sv": "4. Typer av Umrah",
+          "no": "4. Typer av Umrah",
+          "fi": "4. Umran tyypit",
+          "ps": "4. د عمرې ډولونه",
+          "id": "4. Jenis-jenis Umrah",
+          "tr": "4. Umre Çeşitleri",
+          "bn": "৪. ওমরার প্রকারভেদ",
+          "so": "4. Noocyada Cumrada"
+        },
+        "content": {
+          "en": "There are two main types of Umrah:\n\n- Umrah al-Mufradah: Independent Umrah that can be performed at any time of the year.\n\n- Umrah al-Tamattu': Umrah performed during the months of Hajj (Shawwal to Dhul-Hijjah) as part of Hajj al-Tamattu'. After completing Umrah, the pilgrim comes out of Ihram and later re-enters Ihram for Hajj.",
+          "ar": "هناك نوعان رئيسيان للعمرة:\n\n- العمرة المفردة: عمرة مستقلة يمكن أداؤها في أي وقت من السنة.\n\n- عمرة التمتع: عمرة تؤدى خلال أشهر الحج (شوال إلى ذو الحجة) كجزء من حج التمتع. بعد إكمال العمرة، يتحلل الحاج من إحرامه ثم يعود للإحرام مرة أخرى للحج.",
+          "ur": "عمرہ کی دو اہم اقسام ہیں:\n\n- عمرہ مفردہ: آزاد عمرہ جو سال کے کسی بھی وقت ادا کی جا سکتی ہے۔\n\n- عمرہ تمتع: حج کے مہینوں (شوال سے ذوالحجہ) میں عمرہ تمتع کے حصے کے طور پر ادا کی جاتی ہے۔ عمرہ پورا کرنے کے بعد، حاجی احرام سے نکل جاتا ہے اور بعد میں حج کے لیے دوبارہ احرام میں داخل ہوتا ہے۔",
+          "de": "Es gibt zwei Hauptarten der Umrah:\n\n- Umrah al-Mufradah: Eine eigenständige Umrah, die jederzeit im Jahr durchgeführt werden kann.\n\n- Umrah al-Tamattu': Eine Umrah, die in den Monaten des Hadsch (Schawwal bis Dhul-Hiddscha) als Teil des Hadsch al-Tamattu' durchgeführt wird. Nach Abschluss der Umrah legt der Pilger den Ihram ab und tritt später für den Hadsch erneut in den Ihram ein.",
+          "fr": "Il existe deux principaux types d’Omra :\n\n- Omra al-Mufradah : Omra indépendante pouvant être accomplie à tout moment de l’année.\n\n- Omra al-Tamattu' : Omra accomplie durant les mois du Hajj (Chawwal à Dhul-Hijjah) dans le cadre du Hajj al-Tamattu'. Après avoir terminé l’Omra, le pèlerin sort de l’Ihram puis y entre de nouveau pour le Hajj.",
+          "nl": "Er zijn twee hoofdtypen van Umrah:\n\n- Umrah al-Mufradah: Een zelfstandige Umrah die op elk moment van het jaar kan worden verricht.\n\n- Umrah al-Tamattu': Een Umrah die tijdens de maanden van de Hadj (Shawwal tot Dhul-Hijjah) wordt verricht als onderdeel van de Hadj al-Tamattu'. Na het voltooien van de Umrah verlaat de pelgrim de Ihram en treedt later opnieuw in de Ihram voor de Hadj.",
+          "es": "Existen dos tipos principales de Umrah:\n\n- Umrah al-Mufradah: Umrah independiente que puede realizarse en cualquier época del año.\n\n- Umrah al-Tamattu': Umrah realizada durante los meses del Hayy (Shawwal a Dhul-Hiyyah) como parte del Hayy al-Tamattu'. Después de completar la Umrah, el peregrino sale del Ihram y más tarde vuelve a entrar en Ihram para el Hayy.",
+          "sv": "Det finns två huvudtyper av Umrah:\n\n- Umrah al-Mufradah: En fristående Umrah som kan utföras när som helst under året.\n\n- Umrah al-Tamattu': En Umrah som utförs under Hajj-månaderna (Shawwal till Dhul-Hijjah) som en del av Hajj al-Tamattu'. Efter att ha avslutat Umrah lämnar pilgrimen ihram och går senare åter in i ihram för Hajj.",
+          "no": "Det finnes to hovedtyper av Umrah:\n\n- Umrah al-Mufradah: En uavhengig Umrah som kan utføres når som helst i året.\n\n- Umrah al-Tamattu': En Umrah som utføres i Hajj-månedene (Shawwal til Dhul-Hijjah) som en del av Hajj al-Tamattu'. Etter å ha fullført Umrah går pilegrimen ut av ihram og går senere inn i ihram igjen for Hajj.",
+          "fi": "Umrassa on kaksi päätyyppiä:\n\n- Umrah al-Mufradah: Itsenäinen Umrah, joka voidaan suorittaa milloin tahansa vuoden aikana.\n\n- Umrah al-Tamattu': Umrah, joka suoritetaan Hajj-kuukausina (Shawwalista Dhul-Hijjahiin) osana Hajj al-Tamattu'ta. Umran jälkeen pyhiinvaeltaja poistuu ihramista ja palaa siihen myöhemmin Hajjia varten.",
+          "ps": "د عمرې دوه اصلي ډولونه دي:\n\n- عمره المفرده: يوه خپلواکه عمره چې د کال په هر وخت کې ترسره کېدای شي.\n\n- عمره التمتع: هغه عمره چې د حج په مياشتو کې (شوال تر ذوالحجې پورې) د حج التمتع د برخې په توګه ترسره کېږي. له عمرې وروسته حاجي له احرامه وځي او بيا د حج لپاره احرام تړلي.",
+          "id": "Ada dua jenis utama Umrah:\n\n- Umrah al-Mufradah: Umrah mandiri yang dapat dilakukan kapan saja sepanjang tahun.\n\n- Umrah al-Tamattu': Umrah yang dilakukan pada bulan-bulan Haji (Syawwal hingga Dzulhijjah) sebagai bagian dari Haji al-Tamattu'. Setelah menyelesaikan Umrah, jamaah keluar dari ihram dan kemudian masuk kembali ke dalam ihram untuk Haji.",
+          "tr": "Umre'nin iki ana çeşidi vardır:\n\n- Umre al-Mufradah: Bağımsız bir umre olup yılın herhangi bir zamanında yapılabilir.\n\n- Umre al-Tamattu': Hac aylarında (Şevval'den Zilhicce'ye kadar) Hac al-Tamattu'un bir parçası olarak yapılan umre. Umre bittikten sonra hacı ihramdan çıkar ve daha sonra hac için tekrar ihrama girer.",
+          "bn": "ওমরাহ মূলত দুই প্রকার:\n\n- ওমরাহ আল-মুফরাদাহ: স্বাধীন ওমরাহ যা বছরের যেকোনো সময় করা যেতে পারে।\n\n- ওমরাহ আল-তামাত্তু: হজ্জ্বের মাসগুলিতে (শাওয়াল থেকে যিলহজ্জ পর্যন্ত) হজ্জ্ব আল-তামাত্তুর অংশ হিসেবে ওমরাহ করা হয়। ওমরাহ সম্পন্ন করার পর, হাজী ইহরাম ছেড়ে আসেন এবং পরে পুনরায় হজ্জ্বের জন্য ইহরাম বাঁধেন।",
+          "so": "Waxaa jira laba nooc oo waaweyn oo kala ah:\n\n-Cumrada al-Mufradah: Cumro madax-bannaan oo la samayn karo xilli kasta oo sanadka ah. Xaajigu markuu cumrada dhammaystay waxa uu ka soo baxaa Ixraamka, ka dibna waxa uu dib u galay Ixraamkii si uu u soo xajiyo."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "5. Miqat Boundaries",
+          "ar": "5. حدود الميقات",
+          "ur": "5. میقات کی حدود",
+          "de": "5. Miqat-Grenzen",
+          "fr": "5. Limites du Miqat",
+          "nl": "5. Miqat-grenzen",
+          "es": "5. Límites del Miqat",
+          "sv": "5. Miqat-gränser",
+          "no": "5. Miqat-grenser",
+          "fi": "5. Miqat-rajoitukset",
+          "ps": "5. د میقات حدود",
+          "id": "5. Batas Miqat",
+          "tr": "5. Mikât Sınırları",
+          "bn": "৫. মিকাতের সীমানা",
+          "so": "5. Xuduudaha Miqat"
+        },
+        "content": {
+          "en": "The Prophet (ﷺ) designated specific boundary points (Miqat) from where pilgrims must enter Ihram:\n\n- Dhul-Hulaifah (Abyar Ali): For those coming from Madinah.\n- Juhfah: For people from the Levant, Egypt, and Morocco.\n- Qarn al-Manazil: For people from Najd.\n- Yalamlam: For people from Yemen.\n- Dhat Irq: For people from Iraq.\n\nAnyone crossing these boundaries intending Umrah must be in a state of Ihram.",
+          "ar": "حدد النبي (ﷺ) نقاط حدود معينة (الميقات) يجب على الحجاج الدخول منها في الإحرام:\n\n- ذو الحليفة (أبيار علي): للقادمين من المدينة المنورة.\n- الجحفة: لأهل الشام ومصر والمغرب.\n- قرن المنازل: لأهل نجد.\n- يلملم: لأهل اليمن.\n- ذات عرق: لأهل العراق.\n\nأي شخص يعبر هذه الحدود بنية العمرة يجب أن يكون في حالة إحرام.",
+          "ur": "نبی کریم (ﷺ) نے مخصوص مقامات (میقات) مقرر فرمائے جہاں سے حاجیوں کو احرام باندھنا ضروری ہے:\n\n- ذو الحلیفہ (ابیار علی): مدینہ سے آنے والوں کے لیے۔\n- جحفہ: شام، مصر اور مراکش کے لوگوں کے لیے۔\n- قرن المنازل: نجد کے لوگوں کے لیے۔\n- یلملم: یمن کے لوگوں کے لیے۔\n- ذات عرق: عراق کے لوگوں کے لیے۔\n\nجو بھی ان حدود کو عمرہ کی نیت سے عبور کرے، اسے حالتِ احرام میں ہونا لازمی ہے۔",
+          "de": "Der Prophet (ﷺ) bestimmte spezielle Grenzpunkte (Miqat), von denen aus Pilger den Ihram betreten müssen:\n\n- Dhul-Hulaifah (Abyar Ali): Für diejenigen, die aus Medina kommen.\n- Juhfah: Für Menschen aus dem Levante, Ägypten und Marokko.\n- Qarn al-Manazil: Für Menschen aus Nadschd.\n- Yalamlam: Für Menschen aus dem Jemen.\n- Dhat Irq: Für Menschen aus dem Irak.\n\nJeder, der diese Grenzen mit der Absicht der Umrah überschreitet, muss im Zustand des Ihram sein.",
+          "fr": "Le Prophète (ﷺ) a désigné des points de frontière spécifiques (Miqat) à partir desquels les pèlerins doivent entrer en état d’Ihram :\n\n- Dhul-Hulaifah (Abyar Ali) : Pour ceux qui viennent de Médine.\n- Juhfah : Pour les gens du Levant, d’Égypte et du Maroc.\n- Qarn al-Manazil : Pour les gens du Najd.\n- Yalamlam : Pour les gens du Yémen.\n- Dhat Irq : Pour les gens d’Irak.\n\nQuiconque franchit ces frontières avec l’intention de faire la Omra doit être en état d’Ihram.",
+          "nl": "De Profeet (ﷺ) wees specifieke grenspunten (Miqat) aan waar pelgrims de Ihram moeten binnengaan:\n\n- Dhul-Hulaifah (Abyar Ali): Voor degenen die uit Medina komen.\n- Juhfah: Voor mensen uit de Levant, Egypte en Marokko.\n- Qarn al-Manazil: Voor mensen uit Najd.\n- Yalamlam: Voor mensen uit Jemen.\n- Dhat Irq: Voor mensen uit Irak.\n\nIedereen die deze grenzen passeert met de intentie voor Umrah, moet in staat van Ihram zijn.",
+          "es": "El Profeta (ﷺ) designó puntos de frontera específicos (Miqat) desde donde los peregrinos deben entrar en estado de Ihram:\n\n- Dhul-Hulaifah (Abyar Ali): Para quienes vienen de Medina.\n- Juhfah: Para la gente del Levante, Egipto y Marruecos.\n- Qarn al-Manazil: Para la gente de Najd.\n- Yalamlam: Para la gente de Yemen.\n- Dhat Irq: Para la gente de Irak.\n\nCualquiera que cruce estos límites con la intención de realizar la Umrah debe estar en estado de Ihram.",
+          "sv": "Profeten (ﷺ) utsåg särskilda gränspunkter (Miqat) där pilgrimer måste gå in i Ihram:\n\n- Dhul-Hulaifah (Abyar Ali): För dem som kommer från Medina.\n- Juhfah: För människor från Levanten, Egypten och Marocko.\n- Qarn al-Manazil: För människor från Najd.\n- Yalamlam: För människor från Jemen.\n- Dhat Irq: För människor från Irak.\n\nAlla som passerar dessa gränser med avsikt att utföra Umrah måste vara i Ihram.",
+          "no": "Profeten (ﷺ) utpekte spesifikke grensepunkter (Miqat) hvor pilegrimer må gå inn i Ihram:\n\n- Dhul-Hulaifah (Abyar Ali): For de som kommer fra Medina.\n- Juhfah: For folk fra Levanten, Egypt og Marokko.\n- Qarn al-Manazil: For folk fra Najd.\n- Yalamlam: For folk fra Jemen.\n- Dhat Irq: For folk fra Irak.\n\nAlle som krysser disse grensene med hensikt å utføre Umrah, må være i Ihram.",
+          "fi": "Profeetta (ﷺ) nimesi tietyt rajapisteet (Miqat), joista pyhiinvaeltajien täytyy astua Ihramiin:\n\n- Dhul-Hulaifah (Abyar Ali): Medinaasta tuleville.\n- Juhfah: Levantista, Egyptistä ja Marokosta tuleville.\n- Qarn al-Manazil: Najdista tuleville.\n- Yalamlam: Jemenistä tuleville.\n- Dhat Irq: Irakista tuleville.\n\nJokaisen, joka ylittää nämä rajat aikomuksena tehdä Umrah, on oltava Ihram-tilassa.",
+          "ps": "پیغمبر (ﷺ) ځانګړي د میقات نقطې وټاکلې چې له هغې ځایه حاجیان باید احرام وتړي:\n\n- ذو الحلیفة (ابیار علي): د هغو کسانو لپاره چې له مدینې راځي.\n- جحفه: د شام، مصر او مراکش خلکو لپاره.\n- قرن المنازل: د نجد خلکو لپاره.\n- یلملم: د یمن خلکو لپاره.\n- ذات عرق: د عراق خلکو لپاره.\n\nهر څوک چې د عمرې نیت سره دغه حدود واوړي، باید د احرام په حالت کې وي.",
+          "id": "Nabi (ﷺ) menetapkan titik batas tertentu (Miqat) dari mana jamaah haji dan umrah harus masuk ke dalam Ihram:\n\n- Dzul-Hulaifah (Abyar Ali): Bagi mereka yang datang dari Madinah.\n- Juhfah: Bagi orang dari Syam, Mesir, dan Maroko.\n- Qarn al-Manazil: Bagi orang dari Najd.\n- Yalamlam: Bagi orang dari Yaman.\n- Dzat Irq: Bagi orang dari Irak.\n\nSiapa pun yang melewati batas ini dengan niat Umrah harus berada dalam keadaan Ihram.",
+          "tr": "Peygamber (ﷺ), hacıların ihrama girmesi gereken belirli sınır noktalarını (Mikat) tayin etmiştir:\n\n- Zül-Huleyfe (Abyar Ali): Medine’den gelenler için.\n- Cuhfe: Şam, Mısır ve Fas’tan gelenler için.\n- Karnül-Menazil: Necid’den gelenler için.\n- Yelemlem: Yemen’den gelenler için.\n- Zât-ı Irk: Irak’tan gelenler için.\n\nUmre niyetiyle bu sınırları geçen herkesin ihrama girmesi farzdır.",
+          "bn": "নবী (ﷺ) নির্দিষ্ট সীমানা (মীকাত) নির্ধারণ করেছিলেন যেখান থেকে হজযাত্রীদের ইহরাম বাঁধতে হবে:\n\n- যুল-হুলাইফা (আবয়ার আলী): মদীনা থেকে আগতদের জন্য।\n- জুহফা: লেভান্ট, মিশর এবং মরক্কোর লোকদের জন্য।\n- কার্ন আল-মানাজিল: নজদের লোকদের জন্য।\n- ইয়ালামলাম: ইয়েমেনের লোকদের জন্য।\n- যাত ইরক: ইরাকের লোকদের জন্য।\n\nউমরাহ করার উদ্দেশ্যে যে কেউ এই সীমানা অতিক্রম করবে তাকে অবশ্যই ইহরাম অবস্থায় থাকতে হবে।",
+          "so": "Nebigu (ﷺ) wuxuu u cayimay xuduudo gaar ah (Miqaat) oo xujaydu ay tahay inay ka soo galaan Ixraam:\n\n-Dhul-Xulaifa (Abyar Ali): Kuwa ka imaanaya Madiina. Ciraaq.\n\nQof kasta oo ka gudba xuduudahan oo damacsan inuu cumraysto waa inuu ku jiraa xaalad Ixraam ah."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "6. The Four Rituals of Umrah",
+          "ar": "6. مناسك العمرة الأربعة",
+          "ur": "6. عمرہ کے چار مناسک",
+          "de": "6. Die vier Rituale der Umrah",
+          "fr": "6. Les quatre rituels de l'Omra",
+          "nl": "6. De vier rituelen van Umrah",
+          "es": "6. Los cuatro rituales de la Umrah",
+          "sv": "6. De fyra ritualerna av Umrah",
+          "no": "6. De fire ritualene av Umrah",
+          "fi": "6. Umran neljä rituaalia",
+          "ps": "6. د عمرې څلور مناسک",
+          "id": "6. Empat Ritual Umrah",
+          "tr": "6. Umrenin Dört Ritüeli",
+          "bn": "৬. ওমরাহর চারটি আনুষ্ঠানিকতা",
+          "so": "6. Afarta Cibaado ee Cumrada"
+        },
+
+        "content": {
+          "en": "Umrah consists of four main rituals:\n\nA. Ihram -- Entering the Sacred State\n- Perform Ghusl (ritual purification).\n- Wear Ihram clothing (two white unstitched sheets for men; modest clothing for women).\n- Make the intention (Niyyah) for Umrah.\n- Recite the Talbiyah.\n\nB. Tawaf -- Circling the Kaaba\n- Begin at the Black Stone (Hajar al-Aswad).\n- Circle the Kaaba seven times counterclockwise.\n- Pray two Rak'ahs behind Maqam Ibrahim if possible.\n- Drink Zamzam water.\n\nC. Sa'i -- Walking Between Safa and Marwah\n- Begin at Safa, facing the Kaaba, making dua.\n- Walk seven times between Safa and Marwah.\n\nD. Halq/Taqsir -- Shaving or Trimming the Hair\n- Men: Preferably shave (Halq) or trim (Taqsir).\n- Women: Trim fingertip-length from all hair.",
+          "ar": "تتكون العمرة من أربعة مناسك رئيسية:\n\nأ. الإحرام -- الدخول في الحالة المقدسة\n- الاغتسال (الغسل).\n- ارتداء ملابس الإحرام (قطعتان أبيضان غير مخيطتين للرجال؛ ملابس محتشمة للنساء).\n- نية العمرة.\n- التلبية.\n\nب. الطواف -- الدوران حول الكعبة\n- البدء عند الحجر الأسود.\n- الطواف حول الكعبة سبعة أشواط عكس اتجاه عقارب الساعة.\n- صلاة ركعتين خلف مقام إبراهيم إذا أمكن.\n- شرب ماء زمزم.\n\nج. السعي -- المشي بين الصفا والمروة\n- البدء من الصفا، مواجهاً الكعبة، والدعاء.\n- المشي سبع مرات بين الصفا والمروة.\n\nد. الحلق أو التقصير -- حلق الشعر أو تقصيره\n- الرجال: يفضل الحلق أو التقصير.\n- النساء: تقصير قدر أنملة من جميع الشعر.",
+          "ur": "عمرہ کے چار اہم مناسک ہیں:\n\nا. احرام -- مقدس حالت میں داخل ہونا\n- غسل کریں۔\n- احرام کے کپڑے پہنیں (مردوں کے لیے دو سفید بغیر سیے ہوئے کپڑے؛ عورتوں کے لیے پردے کے کپڑے)۔\n- عمرہ کی نیت کریں۔\n- تلبیہ پڑھیں۔\n\nب. طواف -- کعبہ کے گرد چکر لگانا\n- حجر اسود سے شروع کریں۔\n- کعبہ کے گرد سات چکر الٹے ہاتھ کی سمت لگائیں۔\n- اگر ممکن ہو تو مقام ابراہیم کے پیچھے دو رکعات پڑھیں۔\n- زم زم کا پانی پیئیں۔\n\nج. سعی -- صفا اور مروہ کے درمیان چلنا\n- صفا سے شروع کریں، کعبہ کی طرف منہ کر کے دعا مانگیں۔\n- صفا اور مروہ کے درمیان سات بار چلیں۔\n\nد. حلق یا تقصیر -- بال منڈوانا یا کتروانا\n- مرد: ترجیحاً منڈوائیں (حلق) یا کتروائیں (تقصیر)۔\n- عورتیں: تمام بالوں سے ایک پور کے برابر کتروائیں۔",
+          "de": "Die Umrah besteht aus vier Haupt-Ritualen:\n\nA. Ihram -- Eintritt in den heiligen Zustand\n- Ghusl (rituelle Reinigung) vollziehen.\n- Ihram-Kleidung anlegen (zwei weiße, ungenähte Tücher für Männer; schlichte Kleidung für Frauen).\n- Die Absicht (Niyyah) für Umrah fassen.\n- Die Talbiyah rezitieren.\n\nB. Tawaf -- Die Kaaba umrunden\n- Am Schwarzen Stein (Hajar al-Aswad) beginnen.\n- Die Kaaba siebenmal gegen den Uhrzeigersinn umrunden.\n- Zwei Rakʿah hinter Maqam Ibrahim verrichten, wenn möglich.\n- Zamzam-Wasser trinken.\n\nC. Sa'i -- Zwischen Safa und Marwah gehen\n- Am Safa beginnen, zur Kaaba gewandt, Bittgebet sprechen.\n- Siebenmal zwischen Safa und Marwah gehen.\n\nD. Halq/Taqsir -- Rasieren oder Schneiden der Haare\n- Männer: Vorzugsweise rasieren (Halq) oder kürzen (Taqsir).\n- Frauen: Fingernagelbreite von allen Haaren kürzen.",
+          "fr": "L'Omra se compose de quatre rituels principaux :\n\nA. Ihram -- Entrer en état sacré\n- Effectuer le ghusl (purification rituelle).\n- Porter les vêtements de l'Ihram (deux draps blancs non cousus pour les hommes ; vêtements modestes pour les femmes).\n- Formuler l'intention (niyyah) pour l'Omra.\n- Réciter la talbiyah.\n\nB. Tawaf -- Faire le tour de la Kaaba\n- Commencer à la Pierre Noire (Hajar al-Aswad).\n- Faire sept tours autour de la Kaaba dans le sens antihoraire.\n- Prier deux rakʿah derrière Maqam Ibrahim si possible.\n- Boire de l'eau de Zamzam.\n\nC. Sa'i -- Aller entre Safa et Marwah\n- Commencer à Safa, face à la Kaaba, en faisant une douʿa.\n- Parcourir sept fois entre Safa et Marwah.\n\nD. Halq/Taqsir -- Rasage ou coupe des cheveux\n- Hommes : de préférence se raser (halq) ou couper (taqsir).\n- Femmes : couper la longueur d'un ongle de tous les cheveux.",
+          "nl": "De Umrah bestaat uit vier hoofdrituelen:\n\nA. Ihram -- De heilige staat binnengaan\n- Verricht ghusl (rituele reiniging).\n- Draag de ihram-kleding (twee witte, ongestikte doeken voor mannen; bescheiden kleding voor vrouwen).\n- Maak de intentie (niyyah) voor Umrah.\n- Reciteer de talbiyah.\n\nB. Tawaf -- Rondgang om de Kaaba\n- Begin bij de Zwarte Steen (Hajar al-Aswad).\n- Loop zeven keer tegen de klok in rond de Kaaba.\n- Bid twee rakʿah achter Maqam Ibrahim indien mogelijk.\n- Drink Zamzam-water.\n\nC. Sa'i -- Lopen tussen Safa en Marwah\n- Begin bij Safa, met het gezicht naar de Kaaba, en verricht een doea.\n- Loop zeven keer tussen Safa en Marwah.\n\nD. Halq/Taqsir -- Scheren of knippen van het haar\n- Mannen: bij voorkeur scheren (halq) of knippen (taqsir).\n- Vrouwen: vingertoplengte van al het haar afknippen.",
+          "es": "La Umrah consta de cuatro rituales principales:\n\nA. Ihram -- Entrar en el estado sagrado\n- Realizar ghusl (purificación ritual).\n- Vestir ropa de ihram (dos piezas de tela blanca sin coser para los hombres; ropa modesta para las mujeres).\n- Hacer la intención (niyyah) de la Umrah.\n- Recitar la talbiyah.\n\nB. Tawaf -- Circunvalar la Kaaba\n- Comenzar en la Piedra Negra (Hajar al-Aswad).\n- Dar siete vueltas a la Kaaba en sentido antihorario.\n- Rezar dos rakʿah detrás de Maqam Ibrahim si es posible.\n- Beber agua de Zamzam.\n\nC. Sa'i -- Caminar entre Safa y Marwah\n- Comenzar en Safa, mirando hacia la Kaaba y haciendo una duʿa.\n- Caminar siete veces entre Safa y Marwah.\n\nD. Halq/Taqsir -- Afeitarse o recortar el cabello\n- Hombres: preferiblemente afeitarse (halq) o recortar (taqsir).\n- Mujeres: cortar la punta de todos los cabellos.",
+          "ps": "عمره څلور اصلي مناسک لري:\n\nالف. احرام -- د مقدس حالت نيت\n- غسل وکړئ.\n- د احرام کالي واغوندئ (د نارينه‌وو لپاره دوه سپين نه ګنډل شوي ټوکر؛ د ښځو لپاره باحيا کالي).\n- د عمرې نيت وکړئ.\n- تلبیه ووایئ.\n\nب. طواف -- د کعبې شاوخوا ګرځېدل\n- د حجر اسود څخه پیل وکړئ.\n- کعبه اوه ځله د ساعت په ضد لوري کې تاو کړئ.\n- که ممکن وي د مقام ابراهيم تر شا دوه رکعته لمونځ وکړئ.\n- د زمزم اوبه وڅښئ.\n\nج. سعی -- د صفا او مروې ترمنځ تلل\n- د صفا نه پیل وکړئ، د کعبې پر لور دعا وکړئ.\n- اوه ځله د صفا او مروې ترمنځ تګ وکړئ.\n\nد. حلق يا تقصیر -- وېښتان خرییل يا کټ کول\n- نارينه: غوره ده چې سر خرییل (حلق) يا کټ کړي (تقصیر).\n- ښځې: د ټولو وېښتانو لږ تر لږه د ګوتې سر په اندازه کټ کړي.",
+          "id": "Umrah terdiri dari empat ritual utama:\n\nA. Ihram -- Memasuki keadaan suci\n- Melakukan ghusl (penyucian ritual).\n- Memakai pakaian ihram (dua kain putih tanpa jahitan untuk pria; pakaian sopan untuk wanita).\n- Niat (niyyah) untuk umrah.\n- Membaca talbiyah.\n\nB. Tawaf -- Mengelilingi Ka'bah\n- Dimulai dari Hajar Aswad.\n- Mengelilingi Ka'bah tujuh kali berlawanan arah jarum jam.\n- Shalat dua rakaat di belakang Maqam Ibrahim jika memungkinkan.\n- Minum air Zamzam.\n\nC. Sa'i -- Berjalan antara Safa dan Marwah\n- Dimulai di Safa, menghadap Ka'bah sambil berdoa.\n- Berjalan tujuh kali antara Safa dan Marwah.\n\nD. Halq/Taqsir -- Mencukur atau memendekkan rambut\n- Laki-laki: lebih utama mencukur (halq) atau memendekkan (taqsir).\n- Perempuan: memotong seujung jari dari seluruh rambut.",
+          "tr": "Umre dört ana ritüelden oluşur:\n\nA. İhram -- Kutsal hâle giriş\n- Gusül abdesti alın.\n- İhram kıyafeti giyin (erkekler için iki beyaz dikişsiz örtü; kadınlar için mütevazı kıyafetler).\n- Umre için niyet edin.\n- Telbiye okuyun.\n\nB. Tavaf -- Kâbe’yi tavaf etmek\n- Hacerülesved’den başlayın.\n- Kâbe’nin etrafında yedi kez saat yönünün tersine dönün.\n- Mümkünse Makam-ı İbrahim’in arkasında iki rekât namaz kılın.\n- Zemzem suyu için.\n\nC. Sa’y -- Safa ile Merve arasında yürümek\n- Safa’dan başlayın, Kâbe’ye dönerek dua edin.\n- Safa ile Merve arasında yedi kez gidip gelin.\n\nD. Halq/Taksir -- Saçları tıraş etmek veya kısaltmak\n- Erkekler: tercihen tıraş (halq) olun veya kısaltın (taksir).\n- Kadınlar: tüm saçlardan bir parmak ucu kadar kesin.",
+          "bn": "ওমরাহ চারটি প্রধান আচার-অনুষ্ঠানের অন্তর্ভুক্ত:\n\nক. ইহরাম -- পবিত্র স্থানে প্রবেশ করা\n- গোসল (পবিত্রতা) করা।\n- ইহরামের পোশাক পরিধান করা (পুরুষদের জন্য দুটি সাদা সেলাইবিহীন চাদর; মহিলাদের জন্য শালীন পোশাক)।\n- ওমরাহর নিয়ত (নিয়ত) করা।\n- তালবিয়া পাঠ করা।\n\nখ. তাওয়াফ -- কাবা প্রদক্ষিণ করা\n- কালো পাথর (হাজরে আসওয়াদ) থেকে শুরু করা।\n- ঘড়ির কাঁটার বিপরীতে সাতবার কাবা প্রদক্ষিণ করা।\n- সম্ভব হলে মাকামে ইব্রাহিমের পিছনে দুই রাকাত নামাজ পড়া।\n- জমজমের পানি পান করা।\n\nগ. সা'ঈ -- সাফা ও মারওয়ার মধ্যে হাঁটা\n- সাফা থেকে শুরু করে কাবার দিকে মুখ করে দু'আ করা।\n- সাফা ও মারওয়ার মধ্যে সাতবার হাঁটা।\n\nঘ. হাল্ক/তাকসির -- চুল কামানো বা ছাঁটাই করা\n- পুরুষদের: কামানো (হাল্ক) বা ছাঁটাই করা (তাকসির) পছন্দনীয়।\n- মহিলারা: সমস্ত চুল থেকে আঙুলের ডগা পর্যন্ত দৈর্ঘ্য ছাঁটাই করুন।",
+          "so": "Cumradu waxay ka kooban tahay afar arrimood oo waaweyn:\n\nA. Ixraam -- Gelida Dawladda Xurmada leh\n- Samee Gusl (daahirin).\n- Xidho dharka Ixraamka (laba go' oo cad oo aan tolnayn oo ragga ah; dharka suubban ee haweenka). Tawaaf -- Ku Wareega Kacbada\n- Ka Bilow Dhagaxa Madow (Xajarul-Aswad)\n- Kacbada Todoba Jeer Saacado dhan ah u Wareeg. Sacii -- Socodka u dhexeeya Safa iyo Marwah\n- Ka bilow Safa, adigoo u jeeda Kacbada, adoo samaynaya duco.\n- Todoba jeer ku lugee Safa iyo Marwah dhexdooda. Halq/Taqsiir -- Timaha oo la xiiro ama la jaro\n- Ragga: si fiican u xiir (Halq) ama gooya (Taqsiir)."
+        }
+
+      }
+    ],
+    "expandable_sections": [
+      {
+        "section_title": {
+          "en": "Fidyah (Compensation for Mistakes)",
+          "ar": "الفدية (تعويض عن الأخطاء)",
+          "ur": "فدیہ (غلطیوں کی تلافی)",
+          "de": "Fidyah (Ausgleich für Fehler)",
+          "fr": "Fidyah (Compensation pour les erreurs)",
+          "nl": "Fidyah (Compensatie voor fouten)",
+          "es": "Fidyah (Compensación por errores)",
+          "sv": "Fidyah (Kompensation för misstag)",
+          "no": "Fidyah (Kompensasjon for feil)",
+          "fi": "Fidyah (Hyvitys virheistä)",
+          "ps": "فدیہ (د خطاګانو جبران)",
+          "id": "Fidyah (Kompensasi atas kesalahan)",
+          "tr": "Fidye (Hatalar için Telafi)",
+          "bn": "ফিদিয়া (ভুলের ক্ষতিপূরণ)",
+          "so": "Fidyah (Magta khaladaadka)"
+        },
+
+        "content": {
+          "en": "If a pilgrim violates Ihram rules, expiation (fidyah) is required. This may involve:\n- Slaughtering a sheep.\n- Fasting three days.\n- Feeding six poor people.\n\nThe type of fidyah depends on the violation. This ensures the sanctity of Umrah is preserved.",
+          "ar": "إذا انتهك الحاج قواعد الإحرام، فإنه يتطلب كفارة (فدية). قد يشمل ذلك:\n- ذبح شاة.\n- صيام ثلاثة أيام.\n- إطعام ستة فقراء.\n\nنوع الفدية يعتمد على المخالفة. هذا يضمن الحفاظ على قدسية العمرة.",
+          "ur": "اگر کوئی حاجی احرام کے قواعد توڑتا ہے تو کفارہ (فدیہ) ضروری ہے۔ اس میں شامل ہو سکتا ہے:\n- ایک بکری ذبح کرنا۔\n- تین دن کے روزے رکھنا۔\n- چھ غریب لوگوں کو کھانا کھلانا۔\n\nفدیہ کی قسم خلاف ورزی پر منحصر ہے۔ یہ عمرہ کی تقدس کو برقرار رکھنے کو یقینی بناتا ہے۔",
+          "de": "Wenn ein Pilger die Regeln des Ihram verletzt, ist eine Sühne (Fidyah) erforderlich. Diese kann beinhalten:\n- Das Schlachten eines Schafes.\n- Drei Tage fasten.\n- Sechs arme Menschen speisen.\n\nDie Art der Fidyah hängt vom Verstoß ab. Dies stellt sicher, dass die Heiligkeit der Umrah gewahrt bleibt.",
+          "fr": "Si un pèlerin viole les règles de l'Ihram, une expiation (fidyah) est requise. Cela peut impliquer :\n- Sacrifier un mouton.\n- Jeûner trois jours.\n- Nourrir six pauvres.\n\nLe type de fidyah dépend de la violation. Cela garantit la préservation de la sainteté de l'Omra.",
+          "nl": "Als een pelgrim de regels van de Ihram overtreedt, is boetedoening (fidyah) vereist. Dit kan inhouden:\n- Het slachten van een schaap.\n- Drie dagen vasten.\n- Zes armen voeden.\n\nHet type fidyah hangt af van de overtreding. Dit waarborgt de heiligheid van de Umrah.",
+          "es": "Si un peregrino viola las reglas del Ihram, se requiere expiación (fidyah). Esto puede implicar:\n- Sacrificar una oveja.\n- Ayunar tres días.\n- Alimentar a seis personas pobres.\n\nEl tipo de fidyah depende de la violación. Esto garantiza la preservación de la santidad de la Umrah.",
+          "sv": "Om en pilgrim bryter mot Ihram-regler krävs försoning (fidyah). Detta kan innebära:\n- Att slakta ett får.\n- Att fasta i tre dagar.\n- Att ge mat till sex fattiga personer.\n\nTypen av fidyah beror på överträdelsen. Detta säkerställer att Umrahs helighet bevaras.",
+          "no": "Hvis en pilegrim bryter Ihram-reglene, kreves soning (fidyah). Dette kan innebære:\n- Slakte et får.\n- Faste i tre dager.\n- Mate seks fattige mennesker.\n\nTypen fidyah avhenger av overtredelsen. Dette sikrer at Umrahs hellighet opprettholdes.",
+          "fi": "Jos pyhiinvaeltaja rikkoo Ihram-sääntöjä, vaaditaan hyvitys (fidyah). Tämä voi sisältää:\n- Lampaan teurastamisen.\n- Kolmen päivän paaston.\n- Kuuden köyhän ruokkimisen.\n\nFidyahin tyyppi riippuu rikkomuksesta. Tämä varmistaa, että Umran pyhyys säilyy.",
+          "ps": "که یو حاجي د احرام قواعد مات کړي، نو فدیه لازمه ده. دا کولی شي پدې کې شامل وي:\n- د یوې پسې قرباني کول.\n- درې ورځې روژه نیول.\n- شپږ غریبانو ته خواړه ورکول.\n\nد فدیې ډول د سرغړونې پورې اړه لري. دا د عمرې سپیڅلتیا ساتي.",
+          "id": "Jika seorang jamaah melanggar aturan Ihram, maka fidyah (tebusan) diperlukan. Ini dapat berupa:\n- Menyembelih seekor domba.\n- Berpuasa tiga hari.\n- Memberi makan enam orang miskin.\n\nJenis fidyah tergantung pada pelanggaran. Ini memastikan kesucian Umrah tetap terjaga.",
+          "tr": "Bir hacı adayı ihram kurallarını ihlal ederse, kefaret (fidye) gerekir. Bu şunları içerebilir:\n- Bir koyun kesmek.\n- Üç gün oruç tutmak.\n- Altı yoksulu doyurmak.\n\nFidyenin türü ihlale bağlıdır. Bu, Umre’nin kutsallığının korunmasını sağlar.",
+          "bn": "যদি কোন হাজী ইহরামের নিয়ম লঙ্ঘন করে, তাহলে কাফফারা (ফিদিয়া) দিতে হবে। এর মধ্যে অন্তর্ভুক্ত থাকতে পারে:\n- একটি ভেড়া জবাই করা।\n- তিন দিন রোজা রাখা।\n- ছয়জন মিসকীনকে খাওয়ানো।\n\nফিদিয়ার ধরণ লঙ্ঘনের উপর নির্ভর করে। এটি ওমরাহর পবিত্রতা রক্ষা নিশ্চিত করে।",
+          "so": "Haddii uu xaajigu ku xad-gudbo axkaamta Ixraamka, kafaaraggud (fidyah) ayaa loo baahan yahay. Waxaa laga yaabaa in ay ka mid noqoto:\n- Lax oo la qalo.\n- Saddex maalmood oo la soomo.\n- Quudinta lix miskiin ah. Tani waxay xaqiijinaysaa in la ilaaliyo xurmada Cumrada."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Differences Between Umrah and Hajj",
+          "ar": "الفرق بين العمرة والحج",
+          "ur": "عمرہ اور حج کے درمیان فرق",
+          "de": "Unterschiede zwischen Umrah und Hajj",
+          "fr": "Différences entre l'Omra et le Hajj",
+          "nl": "Verschillen tussen Umrah en Hadj",
+          "es": "Diferencias entre la Umrah y el Hayy",
+          "sv": "Skillnader mellan Umrah och Hajj",
+          "no": "Forskjeller mellom Umrah og Hajj",
+          "fi": "Erot Umran ja Hadjin välillä",
+          "ps": "د عمرې او حج تر منځ توپيرونه",
+          "id": "Perbedaan antara Umrah dan Haji",
+          "tr": "Umre ile Hac Arasındaki Farklar",
+          "bn": "ওমরাহ এবং হজের মধ্যে পার্থক্য",
+          "so": "Farqiga U Dhaxeeya Cumrada iyo Xajka"
+        },
+
+        "content": {
+          "en": "Aspect | Umrah | Hajj\nObligation | Sunnah (recommended) | Fard (obligatory once in lifetime)\nTime | Any time of the year | Specific days of Dhul-Hijjah\nDuration | Can be completed in hours | 5–6 days\nRituals | Ihram, Tawaf, Sa'i, Halq | Includes Wuquf at Arafat, Muzdalifah",
+          "ar": "الجانب | العمرة | الحج\nالالتزام | سنة (مستحبة) | فرض (واجب مرة واحدة في العمر)\nالوقت | في أي وقت من السنة | أيام محددة من ذو الحجة\nالمدة | يمكن إكمالها في ساعات | ٥-٦ أيام\nالشعائر | الإحرام، الطواف، السعي، الحلق | يشمل الوقوف بعرفة والمزدلفة",
+          "ur": "پہلو | عمرہ | حج\nفرضیت | سنت (مستحب) | فرض (زندگی میں ایک بار واجب)\nوقت | سال کے کسی بھی وقت | ذوالحجہ کے مخصوص ایام\nمدت | چند گھنٹوں میں مکمل ہوسکتا ہے | ۵-۶ دن\nرسومات | احرام، طواف، سعی، حلق | عرفات اور مزدلفہ میں وقوف شامل ہے",
+          "de": "Aspekt | Umrah | Hadsch\nVerpflichtung | Sunna (empfohlen) | Farz (einmal im Leben verpflichtend)\nZeit | Jederzeit im Jahr | Bestimmte Tage im Dhul-Hidscha\nDauer | Kann in Stunden abgeschlossen werden | 5–6 Tage\nRituale | Ihram, Tawaf, Sa'i, Halq | Beinhaltet Wuquf in Arafat, Muzdalifah",
+          "fr": "Aspect | Omra | Hajj\nObligation | Sunna (recommandée) | Farz (obligatoire une fois dans la vie)\nTemps | À tout moment de l'année | Jours spécifiques de Dhul-Hijjah\nDurée | Peut être accompli en quelques heures | 5–6 jours\nRituels | Ihram, Tawaf, Sa'i, Halq | Comprend le Wuquf à Arafat et Muzdalifah",
+          "nl": "Aspect | Umrah | Hadj\nVerplichting | Soenna (aanbevolen) | Farz (eenmaal in het leven verplicht)\nTijd | Elk moment van het jaar | Specifieke dagen in Dhul-Hijjah\nDuur | Kan in enkele uren voltooid worden | 5–6 dagen\nRituelen | Ihram, Tawaf, Sa'i, Halq | Inclusief Wuquf bij Arafat en Muzdalifah",
+          "es": "Aspecto | Umrah | Hayy\nObligación | Sunna (recomendada) | Farz (obligatoria una vez en la vida)\nTiempo | En cualquier momento del año | Días específicos de Dhul-Hiyyah\nDuración | Puede completarse en horas | 5–6 días\nRituales | Ihram, Tawaf, Sa'i, Halq | Incluye Wuquf en Arafat y Muzdalifah",
+          "sv": "Aspekt | Umrah | Hajj\nPlikt | Sunna (rekommenderad) | Farz (obligatorisk en gång i livet)\nTid | När som helst på året | Specifika dagar i Dhul-Hijjah\nVaraktighet | Kan fullbordas på timmar | 5–6 dagar\nRiter | Ihram, Tawaf, Sa'i, Halq | Inkluderar Wuquf vid Arafat och Muzdalifah",
+          "no": "Aspekt | Umrah | Hajj\nPlikt | Sunna (anbefalt) | Farz (obligatorisk én gang i livet)\nTid | Når som helst på året | Spesifikke dager i Dhul-Hijjah\nVarighet | Kan fullføres på timer | 5–6 dager\nRitualer | Ihram, Tawaf, Sa'i, Halq | Inkluderer Wuquf ved Arafat og Muzdalifah",
+          "fi": "Näkökohta | Umrah | Hajj\nVelvollisuus | Sunna (suositeltu) | Farz (pakollinen kerran elämässä)\nAika | Milloin tahansa vuoden aikana | Tietyt päivät Dhul-Hijjahissa\nKesto | Voidaan suorittaa tunneissa | 5–6 päivää\nRiitit | Ihram, Tawaf, Sa'i, Halq | Sisältää Wuqufin Arafatissa ja Muzdalifahissa",
+          "ps": " اړخ | عمره | حج\nوجوب | سنت (مستحب) | فرض (په ټول ژوند کې یو ځل)\nوخت | د کال په هر وخت کې | د ذوالحجې ځانګړي ورځې\nموده | په ساعتونو کې بشپړېږي | ۵–۶ ورځې\nمناسک | احرام، طواف، سعي، حلق | د عرفات او مزدلفې وقوف پکې شامل دی",
+          "id": "Aspek | Umrah | Haji\nKewajiban | Sunnah (dianjurkan) | Fardhu (wajib sekali seumur hidup)\nWaktu | Kapan saja sepanjang tahun | Hari-hari tertentu di bulan Dzulhijjah\nDurasi | Dapat diselesaikan dalam hitungan jam | 5–6 hari\nRitual | Ihram, Tawaf, Sa'i, Halq | Termasuk Wuquf di Arafah dan Muzdalifah",
+          "tr": "Aspekt | Umre | Hac\nHüküm | Sünnet (önerilen) | Farz (hayatta bir kez farz)\nZaman | Yılın herhangi bir zamanı | Zilhicce ayının belirli günleri\nSüre | Saatler içinde tamamlanabilir | 5–6 gün\nRitüeller | İhram, Tavaf, Sa'y, Halq | Arafat ve Müzdelife'de vakfe dahildir",
+          "bn": "দিক | ওমরাহ | হজ্জ\nফরজ | সুন্নাত (প্রস্তাবিত) | ফরজ (জীবনে একবার বাধ্যতামূলক)\nসময় | বছরের যেকোনো সময় | যিলহজ্জের নির্দিষ্ট দিন\nসময়কাল | কয়েক ঘন্টার মধ্যে সম্পন্ন করা যায় | ৫-৬ দিন\nআচার অনুষ্ঠান | ইহরাম, তাওয়াফ, সা'ই, হাল্ক | আরাফাত, মুজদালিফায় ওকুফ অন্তর্ভুক্ত",
+          "so": "Dhanka | Cumrada | Xajka\nWaajibkii | Sunnah (lagu taliyay) | Fard (wajib ah hal mar noloshaada)\nWaqtiga | Waqti kasta oo sanadka ah | Maalmo cayiman oo Dul-Xijjah\nMudda | Waxa lagu dhamayn karaa saacado | 5–6 maalmood\nCabadaha | Ixraam, Tawaaf, Sacii, Halq | Waxaa ku jira Wuquf ee Carafaat, Muzdalifah"
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Performing Umrah on Behalf of Others",
+          "ar": "أداء العمرة نيابة عن الآخرين",
+          "ur": "دوسروں کی طرف سے عمرہ ادا کرنا",
+          "de": "Umrah im Namen anderer verrichten",
+          "fr": "Accomplir l'Omra au nom des autres",
+          "nl": "Umrah uitvoeren namens anderen",
+          "es": "Realizar la Umrah en nombre de otros",
+          "sv": "Utföra Umrah för andras räkning",
+          "no": "Utføre Umrah på vegne av andre",
+          "fi": "Umrahin suorittaminen toisten puolesta",
+          "ps": "د نورو په استازیتوب عمره ترسره کول",
+          "id": "Melaksanakan Umrah atas nama orang lain",
+          "tr": "Başkasının yerine Umre yapmak",
+          "bn": "অন্যের পক্ষ থেকে ওমরাহ পালন",
+          "so": "Ku-gudashada Cumrada Dadka kale"
+        },
+
+        "content": {
+          "en": "It is permissible to perform Umrah on behalf of:\n- A deceased Muslim relative.\n- A living Muslim who is physically unable to perform it (elderly, chronically ill).\n\nOne condition: the person performing must have already completed their own Umrah.",
+          "ar": "يجوز أداء العمرة نيابة عن:\n- قريب مسلم متوفى.\n- مسلم حي غير قادر جسدياً على أدائها (كبير السن، مريض مزمن).\n\nالشرط: يجب أن يكون من يؤديها قد أكمل عمرته الخاصة مسبقاً.",
+          "ur": "یہ جائز ہے کہ کسی کی طرف سے عمرہ ادا کیا جائے:\n- مرحوم مسلمان رشتہ دار کی طرف سے۔\n- زندہ مسلمان جو جسمانی طور پر ادا کرنے سے قاصر ہو (بوڑھا یا دائمی بیمار)۔\n\nشرط: عمرہ کرنے والا پہلے اپنا عمرہ مکمل کر چکا ہو۔",
+          "de": "Es ist erlaubt, die Umrah stellvertretend zu verrichten für:\n- Einen verstorbenen muslimischen Verwandten.\n- Einen lebenden Muslim, der körperlich nicht in der Lage ist (alt, chronisch krank).\n\nBedingung: Die Person, die die Umrah verrichtet, muss zuvor ihre eigene Umrah abgeschlossen haben.",
+          "fr": "Il est permis d’accomplir l’Omra au nom de :\n- Un parent musulman décédé.\n- Un musulman vivant physiquement incapable de l’accomplir (âgé, malade chronique).\n\nCondition : La personne qui l’accomplit doit avoir déjà effectué sa propre Omra.",
+          "nl": "Het is toegestaan Umrah te verrichten namens:\n- Een overleden moslim familielid.\n- Een levende moslim die fysiek niet in staat is (oud, chronisch ziek).\n\nVoorwaarde: Degene die de Umrah uitvoert, moet zijn eigen Umrah al hebben verricht.",
+          "es": "Es permisible realizar la Umrah en nombre de:\n- Un familiar musulmán fallecido.\n- Un musulmán vivo que sea físicamente incapaz de hacerlo (anciano, enfermo crónico).\n\nCondición: La persona que la realice debe haber completado previamente su propia Umrah.",
+          "sv": "Det är tillåtet att utföra Umrah för:\n- En avliden muslimsk släkting.\n- En levande muslim som är fysiskt oförmögen (äldre, kroniskt sjuk).\n\nVillkor: Personen som utför den måste redan ha fullgjort sin egen Umrah.",
+          "no": "Det er tillatt å utføre Umrah på vegne av:\n- En avdød muslimsk slektning.\n- En levende muslim som fysisk ikke er i stand til det (eldre, kronisk syk).\n\nBetingelse: Personen som utfører den må allerede ha fullført sin egen Umrah.",
+          "fi": "On sallittua suorittaa Umrah toisen puolesta:\n- Vainaan muslimisukulaisen puolesta.\n- Elävän muslimin puolesta, joka ei fyysisesti pysty siihen (vanhus, kroonisesti sairas).\n\nEhto: Suorittajan täytyy olla ensin suorittanut oman Umrahinsa.",
+          "ps": "د نورو په استازیتوب عمره کول جايز دي:\n- د يو مړ شوي مسلمان خپلوان لپاره.\n- د يو ژوندی مسلمان لپاره چې فزيکي توان نه لري (زوی، مزمن ناروغ).\n\nشرط: هغه څوک چې عمره کوي، بايد خپله عمره مخکې بشپړه کړې وي.",
+          "id": "Diperbolehkan melaksanakan Umrah atas nama:\n- Seorang kerabat Muslim yang telah meninggal.\n- Seorang Muslim yang masih hidup tetapi secara fisik tidak mampu melakukannya (lansia, sakit kronis).\n\nSyarat: Orang yang melaksanakan harus sudah menyelesaikan Umrahnya sendiri terlebih dahulu.",
+          "tr": "Umre başkası adına yapılabilir:\n- Vefat etmiş bir Müslüman akraba için.\n- Yaşayan ama fiziken yapamayacak durumda olan bir Müslüman için (yaşlı, kronik hasta).\n\nŞart: Umreyi yapan kişi önceden kendi Umresini tamamlamış olmalıdır.",
+          "bn": "নিম্নলিখিত ব্যক্তির পক্ষ থেকে ওমরাহ করা জায়েজ:\n- মৃত মুসলিম আত্মীয়।\n- জীবিত মুসলিম যিনি শারীরিকভাবে এটি করতে অক্ষম (বৃদ্ধ, দীর্ঘস্থায়ী অসুস্থ)।\n\nএকটি শর্ত: যিনি ওমরাহ পালন করছেন তাকে অবশ্যই ইতিমধ্যেই তাদের নিজস্ব ওমরাহ সম্পন্ন করতে হবে।",
+          "so": "Way bannaan tahay in loo cumraysto:\n-Qabkii muslimka ahaa ee dhintay.\n- Muslim nool oo jidh ahaan aan awoodin inuu guto (waayeel, jirran)\n\nHal shardi: qofka gudanaya waa inuu hore u dhammaystay cumrooyinkiisa."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Women-Specific Rulings",
+          "ar": "أحكام خاصة بالنساء",
+          "ur": "خواتین سے متعلق احکام",
+          "de": "Frauenbezogene Vorschriften",
+          "fr": "Règles spécifiques aux femmes",
+          "nl": "Vrouwen-specifieke voorschriften",
+          "es": "Normas específicas para mujeres",
+          "sv": "Särskilda regler för kvinnor",
+          "no": "Kvinnerelaterte regler",
+          "fi": "Naisten erityissäännöt",
+          "ps": "د ښځو ځانګړي احکام",
+          "id": "Hukum Khusus bagi Perempuan",
+          "tr": "Kadınlara Özel Hükümler",
+          "bn": "নারী-নির্দিষ্ট বিধান",
+          "so": "Xeerarka Haweenka Gaarka ah"
+        },
+
+        "content": {
+          "en": "- Women may enter Ihram during menstruation but delay Tawaf until purification.\n- Women do not perform Idtiba' or Raml.\n- Women must cut a fingertip-length from all hair, not just a strand.\n- Women should not cover their faces in Ihram unless in the presence of non-Mahram men (in which case they may lower a covering without it touching the face).",
+          "ar": "- يجوز للمرأة أن تدخل في الإحرام أثناء الحيض ولكنها تؤخر الطواف حتى تطهر.\n- المرأة لا تؤدي الاضطباع أو الرمل.\n- يجب على المرأة أن تقص قدر أنملة من جميع شعرها، وليس مجرد خصلة واحدة.\n- لا يجوز للمرأة أن تغطي وجهها في الإحرام إلا إذا وُجد رجال غير محارم (وفي هذه الحالة يجوز لها إسدال غطاء دون أن يلمس الوجه).",
+          "ur": "- عورتیں حیض کی حالت میں احرام باندھ سکتی ہیں لیکن طواف کو پاک ہونے تک مؤخر کریں۔\n- عورتیں اضطباع یا رمل نہیں کرتیں۔\n- عورتوں کے لیے ضروری ہے کہ وہ تمام بالوں سے ایک انگلی کے پور کے برابر کاٹیں، صرف ایک بال نہیں۔\n- عورتیں احرام کی حالت میں چہرہ نہ ڈھانپیں سوائے غیر محرم مردوں کی موجودگی کے (اس صورت میں وہ پردہ نیچے کر سکتی ہیں بشرطیکہ چہرے کو نہ چھوئے)۔",
+          "de": "- Frauen dürfen während der Menstruation in den Ihram eintreten, müssen jedoch den Tawaf bis zur Reinigung verschieben.\n- Frauen führen weder Idtiba' noch Raml aus.\n- Frauen müssen eine Fingerkuppe Länge von allen Haaren schneiden, nicht nur eine Strähne.\n- Frauen sollen ihr Gesicht im Ihram nicht bedecken, außer in Gegenwart von Nicht-Mahram-Männern (dann dürfen sie einen Schleier herablassen, ohne das Gesicht zu berühren).",
+          "fr": "- Les femmes peuvent entrer en état d'Ihram pendant leurs menstruations mais doivent retarder le Tawaf jusqu'à purification.\n- Les femmes ne pratiquent pas l'Idtiba' ni le Raml.\n- Les femmes doivent couper la longueur d'une phalange de tous leurs cheveux, pas seulement une mèche.\n- Les femmes ne doivent pas couvrir leur visage en Ihram sauf en présence d'hommes non-Mahram (dans ce cas elles peuvent abaisser un voile sans toucher le visage).",
+          "nl": "- Vrouwen mogen de Ihram binnengaan tijdens de menstruatie maar stellen de Tawaf uit tot na de reiniging.\n- Vrouwen doen geen Idtiba' of Raml.\n- Vrouwen moeten van al het haar een vingertopje afknippen, niet slechts een pluk.\n- Vrouwen mogen hun gezicht in de Ihram niet bedekken, behalve in aanwezigheid van niet-Mahram mannen (dan mogen ze een bedekking laten zakken zonder dat het het gezicht raakt).",
+          "es": "- Las mujeres pueden entrar en Ihram durante la menstruación pero deben retrasar el Tawaf hasta la purificación.\n- Las mujeres no realizan Idtiba' ni Raml.\n- Las mujeres deben cortar un largo equivalente a la punta de un dedo de todo su cabello, no solo un mechón.\n- Las mujeres no deben cubrirse el rostro en Ihram salvo en presencia de hombres no-Mahram (en cuyo caso pueden bajar un velo sin que toque la cara).",
+          "sv": "- Kvinnor får gå in i Ihram under menstruation men skjuter upp Tawaf tills de renat sig.\n- Kvinnor utför inte Idtiba' eller Raml.\n- Kvinnor måste klippa en fingertopps längd från allt hår, inte bara en slinga.\n- Kvinnor bör inte täcka ansiktet i Ihram, utom i närvaro av icke-Mahram män (då får de sänka en slöja utan att den rör vid ansiktet).",
+          "no": "- Kvinner kan gå inn i Ihram under menstruasjon men må utsette Tawaf til de er rene.\n- Kvinner utfører ikke Idtiba' eller Raml.\n- Kvinner må klippe fingertupp-lengde fra alt hår, ikke bare en hårtust.\n- Kvinner skal ikke dekke ansiktet i Ihram, med mindre de er i nærvær av ikke-Mahram menn (da kan de senke et slør uten at det berører ansiktet).",
+          "fi": "- Naiset voivat astua Ihramiin kuukautisten aikana, mutta heidän on lykättävä Tawafia kunnes he ovat puhtaita.\n- Naiset eivät suorita Idtiba' tai Raml.\n- Naiset leikkaavat sormenpään verran kaikista hiuksistaan, eivät vain yhdestä suortuvasta.\n- Naiset eivät saa peittää kasvojaan Ihramissa, paitsi ei-Mahram miesten läsnä ollessa (silloin he voivat laskea hunnun kasvojen eteen koskematta siihen).",
+          "ps": "- ښځې کولای شي د حیض پر مهال احرام وتړي خو طواف دې تر پاکوالي پورې وځنډوي.\n- ښځې اضطباع او رمل نه ترسره کوي.\n- ښځې باید د ټولو ویښتو څخه د ګوتې د پورې په اندازه لنډ کړي، نه یوازې یوه رشته.\n- ښځې باید د احرام په حالت کې مخ پټ نه کړي، مګر د نامحرم سړو په حضور کې (چې په هغه حالت کې کولای شي پرده ښکته کړي بې له دې چې مخ ته ورسیږي).",
+          "id": "- Wanita boleh masuk ke dalam Ihram saat menstruasi tetapi menunda Tawaf hingga suci.\n- Wanita tidak melakukan Idtiba' atau Raml.\n- Wanita harus memotong sepanjang ujung jari dari semua rambutnya, bukan hanya sehelai.\n- Wanita tidak boleh menutupi wajahnya dalam Ihram kecuali di hadapan laki-laki non-Mahram (dalam hal ini boleh menurunkan penutup tanpa menyentuh wajah).",
+          "tr": "- Kadınlar hayız halinde iken ihrama girebilir ancak tavafı temizlikten sonraya bırakırlar.\n- Kadınlar Idtiba' veya Reml yapmazlar.\n- Kadınlar tüm saçlarından bir parmak ucu kadar kesmelidir, sadece bir tutam değil.\n- Kadınlar ihramda yüzlerini örtmemelidir, ancak yabancı erkeklerin yanında (bu durumda yüzüne değmeden örtüyü indirebilirler).",
+          "bn": "- মহিলারা ঋতুস্রাবের সময় ইহরাম বাঁধতে পারেন কিন্তু পবিত্রতা অর্জন না হওয়া পর্যন্ত তাওয়াফ বিলম্বিত করতে পারেন।\n- মহিলারা ইদতিবা বা রমল করেন না।\n- মহিলাদের অবশ্যই সমস্ত চুল থেকে আঙুলের ডগা পর্যন্ত ছেঁটে ফেলতে হবে, কেবল একটি চুল নয়।\n- অ-মাহরাম পুরুষদের উপস্থিতি ছাড়া মহিলাদের ইহরাম অবস্থায় তাদের মুখ ঢেকে রাখা উচিত নয় (যে ক্ষেত্রে তারা মুখ স্পর্শ না করে একটি আবরণ নামিয়ে দিতে পারেন)।",
+          "so": "- Dumarku waxay gali karaan ixraamka xilliga caadada, laakiin waxay dib u dhigaan tawaafadda ilaa laga daahirinayo.\n- Dumarku ma Idbaab iyo Raml toona.\n- Dumarku waa inay timaha oo dhan ka jaraan caarad ka mid ah timaha oo dhan, ma aha inay xidhaan oo keliya."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Etiquettes and Sunnahs of Umrah",
+          "ar": "آداب وسنن العمرة",
+          "ur": "عمرہ کے آداب اور سنتیں",
+          "de": "Etikette und Sunan der Umrah",
+          "fr": "Étiquettes et Sunna de l'Omra",
+          "nl": "Etiquettes en Soennah van de Umrah",
+          "es": "Etiquetas y Sunna de la Umrah",
+          "sv": "Etiketter och Sunna för Umrah",
+          "no": "Etikette og Sunna for Umrah",
+          "fi": "Umran etiketit ja sunnat",
+          "ps": "د عمرې آداب او سنتونه",
+          "id": "Adab dan Sunnah Umrah",
+          "tr": "Umre’nin Âdâb ve Sünnetleri",
+          "bn": "ওমরার আদব ও সুন্নাত",
+          "so": "Aadaabta iyo sunnada Cumrada"
+        },
+
+        "content": {
+          "en": "- Maintain patience and good manners.\n- Increase dhikr and dua throughout.\n- Follow Sunnah practices such as kissing the Black Stone if possible, praying at Hijr Ismail, and drinking Zamzam while sitting.\n- Focus on worship and avoid distractions.",
+          "ar": "- التحلي بالصبر وحسن الخلق.\n- الإكثار من الذكر والدعاء في جميع الأوقات.\n- اتباع السنن مثل تقبيل الحجر الأسود إن أمكن، والصلاة في حجر إسماعيل، وشرب ماء زمزم جلوساً.\n- التركيز على العبادة وتجنب الملهيات.",
+          "ur": "- صبر اور اچھے اخلاق اپنائیں۔\n- ہر وقت ذکر اور دعا میں اضافہ کریں۔\n- سنت پر عمل کریں جیسے اگر ممکن ہو تو حجرِ اسود کو بوسہ دینا، حجرِ اسماعیل میں نماز پڑھنا، اور بیٹھ کر زم زم پینا۔\n- عبادت پر توجہ مرکوز رکھیں اور غیر ضروری مشغولیات سے بچیں۔",
+          "de": "- Bewahre Geduld und gute Manieren.\n- Erhöhe das Dhikr und die Bittgebete während der gesamten Zeit.\n- Befolge die Sunna, wie z. B. den Schwarzen Stein zu küssen, wenn möglich, im Hijr Ismail zu beten und Zamzam sitzend zu trinken.\n- Konzentriere dich auf die Anbetung und vermeide Ablenkungen.",
+          "fr": "- Faire preuve de patience et de bonnes manières.\n- Multiplier le dhikr et les invocations.\n- Suivre les pratiques de la Sunna, comme embrasser la Pierre Noire si possible, prier au Hijr Ismaïl et boire de l’eau de Zamzam en étant assis.\n- Se concentrer sur l’adoration et éviter les distractions.",
+          "nl": "- Blijf geduldig en beleefd.\n- Verhoog dhikr en doa tijdens de gehele Umrah.\n- Volg de soenna, zoals het kussen van de Zwarte Steen indien mogelijk, bidden bij Hijr Ismail en zittend Zamzam drinken.\n- Richt je op aanbidding en vermijd afleidingen.",
+          "es": "- Mantener la paciencia y las buenas maneras.\n- Aumentar el dhikr y las súplicas durante todo el tiempo.\n- Seguir las prácticas de la Sunna, como besar la Piedra Negra si es posible, rezar en el Hijr Ismail y beber agua de Zamzam sentado.\n- Centrarse en la adoración y evitar distracciones.",
+          "sv": "- Visa tålamod och gott uppförande.\n- Öka dhikr och dua under hela tiden.\n- Följ Sunna, som att kyssa den Svarta Stenen om möjligt, be vid Hijr Ismail och dricka Zamzam sittande.\n- Fokusera på dyrkan och undvik distraktioner.",
+          "no": "- Vis tålmodighet og gode manerer.\n- Øk dhikr og dua gjennom hele ritualet.\n- Følg sunna-praksiser som å kysse den svarte steinen hvis mulig, be ved Hijr Ismail og drikke Zamzam sittende.\n- Fokuser på tilbedelse og unngå distraksjoner.",
+          "fi": "- Ole kärsivällinen ja käyttäydy hyvin.\n- Lisää dhikriä ja duaa koko ajan.\n- Noudata sunnan käytäntöjä, kuten Mustan kiven suuteleminen, jos mahdollista, rukoileminen Hijr Ismailissa ja Zamzam-veden juominen istuen.\n- Keskity palvontaan ja vältä häiriötekijöitä.",
+          "ps": "- صبر او ښه اخلاق وساتئ.\n- په دوامداره توګه ذکر او دعا زیات کړئ.\n- د سنتو پیروي وکړئ لکه که ممکنه وي د حجر الاسود ښکلول، په حجر اسماعیل کې لمونځ کول، او د زمزم اوبه ناست څښل.\n- په عبادت تمرکز وکړئ او له حواس‌پراکندۍ څخه ډډه وکړئ.",
+          "id": "- Bersabar dan menjaga akhlak yang baik.\n- Perbanyak dzikir dan doa sepanjang waktu.\n- Ikuti sunnah, seperti mencium Hajar Aswad jika memungkinkan, shalat di Hijr Ismail, dan minum air Zamzam sambil duduk.\n- Fokus pada ibadah dan hindari gangguan.",
+          "tr": "- Sabırlı olun ve güzel ahlakı koruyun.\n- Sürekli zikir ve dua edin.\n- Sünnetleri uygulayın; mümkünse Hacerü’l-Esved’i öpmek, Hicr-i İsmail’de namaz kılmak ve Zemzem’i oturarak içmek.\n- İbadete yoğunlaşın ve dikkati dağıtan şeylerden kaçının.",
+          "bn": "- ধৈর্য এবং সদাচার বজায় রাখুন।\n- সর্বত্র যিকির এবং দুআ বৃদ্ধি করুন।\n- সম্ভব হলে কালো পাথর চুম্বন করা, হিজর ইসমাইলের কাছে নামাজ পড়া এবং বসে জমজম পান করার মতো সুন্নাত অনুশীলন অনুসরণ করুন।\n- ইবাদতে মনোনিবেশ করুন এবং বিক্ষেপ এড়িয়ে চলুন।",
+          "so": "- Samirka iyo dhaqanka suuban.\n- badiya dikriga iyo ducada intaba.\n- Raac dhaqamada sunnada ah sida dhunkashada dhagaxa madow haddii ay suuro gal tahay, ku tukada hijriga Ismaaciil, cabbida Zamzam adigoo fadhiya."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Historical and Spiritual Context",
+          "ar": "السياق التاريخي والروحي",
+          "ur": "تاریخی اور روحانی پس منظر",
+          "de": "Historischer und spiritueller Kontext",
+          "fr": "Contexte historique et spirituel",
+          "nl": "Historische en spirituele context",
+          "es": "Contexto histórico y espiritual",
+          "sv": "Historisk och andlig kontext",
+          "no": "Historisk og åndelig kontekst",
+          "fi": "Historiallinen ja hengellinen konteksti",
+          "ps": "تاريخي او روحاني بستر",
+          "id": "Konteks historis dan spiritual",
+          "tr": "Tarihî ve manevi bağlam",
+          "bn": "ঐতিহাসিক এবং আধ্যাত্মিক প্রেক্ষাপট",
+          "so": "Macnaha Taariikheed iyo Ruuxa"
+        },
+
+        "content": {
+          "en": "- The Prophet Muhammad (ﷺ) performed four Umrahs during his lifetime.\n- The Treaty of Hudaybiyyah (6 AH) delayed Umrah, but Allah later granted victory, showing the deep historical roots of this act.\n- Umrah symbolizes humility, unity of the Ummah, and remembrance of the sacrifices of Hajar (RA) and Prophet Ibrahim (AS).",
+          "ar": "- النبي محمد (ﷺ) أدى أربع عمرات خلال حياته.\n- صلح الحديبية (6 هـ) أجّل العمرة، ولكن الله منح النصر لاحقاً، مما يوضح الجذور التاريخية العميقة لهذا العمل.\n- ترمز العمرة إلى التواضع، ووحدة الأمة، وتذكر تضحيات هاجر (رضي الله عنها) وإبراهيم (عليه السلام).",
+          "ur": "- نبی محمد (ﷺ) نے اپنی زندگی میں چار عمرے ادا کیے۔\n- صلح حدیبیہ (6 ہجری) نے عمرہ کو مؤخر کیا، لیکن اللہ نے بعد میں فتح عطا کی، جو اس عمل کی گہری تاریخی جڑوں کو ظاہر کرتا ہے۔\n- عمرہ عاجزی، امت کی وحدت، اور ہاجرہ (رضی اللہ عنہا) اور ابراہیم (علیہ السلام) کی قربانیوں کی یاد دلاتا ہے۔",
+          "de": "- Der Prophet Muhammad (ﷺ) vollzog vier Umrah während seines Lebens.\n- Der Vertrag von Hudaybiyyah (6 n.H.) verzögerte die Umrah, aber Allah gewährte später den Sieg, was die tiefen historischen Wurzeln dieser Handlung zeigt.\n- Die Umrah symbolisiert Demut, die Einheit der Ummah und das Gedenken an die Opfer von Hadschar (r.a.) und Propheten Ibrahim (a.s.).",
+          "fr": "- Le Prophète Muhammad (ﷺ) a accompli quatre Omras durant sa vie.\n- Le traité de Hudaybiyyah (6 H) a retardé l’Omra, mais Allah a ensuite accordé la victoire, montrant les racines historiques profondes de cet acte.\n- L’Omra symbolise l’humilité, l’unité de la communauté et le souvenir des sacrifices de Hajar (r.a.) et du Prophète Ibrahim (a.s.).",
+          "nl": "- De Profeet Mohammed (ﷺ) verrichtte vier Umrah tijdens zijn leven.\n- Het Verdrag van Hudaybiyyah (6 AH) stelde de Umrah uit, maar Allah schonk later de overwinning, wat de diepe historische wortels van deze daad toont.\n- De Umrah symboliseert nederigheid, de eenheid van de Ummah en de herinnering aan de offers van Hajar (r.a.) en Profeet Ibrahim (a.s.).",
+          "es": "- El Profeta Muhammad (ﷺ) realizó cuatro Umrah en su vida.\n- El Tratado de Hudaybiyyah (6 H) retrasó la Umrah, pero Alá concedió después la victoria, mostrando las profundas raíces históricas de este acto.\n- La Umrah simboliza la humildad, la unidad de la Ummah y el recuerdo de los sacrificios de Hajar (r.a.) y el Profeta Ibrahim (a.s.).",
+          "sv": "- Profeten Muhammad (ﷺ) utförde fyra Umrah under sin livstid.\n- Fördraget vid Hudaybiyyah (6 AH) försenade Umrah, men Allah gav senare seger, vilket visar de djupa historiska rötterna till denna handling.\n- Umrah symboliserar ödmjukhet, Ummahns enhet och minnet av Hajar (r.a.) och profeten Ibrahims (a.s.) uppoffringar.",
+          "no": "- Profeten Muhammad (ﷺ) utførte fire Umrah i løpet av sitt liv.\n- Hudaybiyyah-traktaten (6 AH) utsatte Umrah, men Allah ga senere seier, noe som viser de dype historiske røttene til denne handlingen.\n- Umrah symboliserer ydmykhet, enheten i Ummah og minnet om ofrene til Hajar (r.a.) og profeten Ibrahim (a.s.).",
+          "fi": "- Profeetta Muhammad (ﷺ) suoritti neljä Umraa elinaikanaan.\n- Hudaybiyyahin sopimus (6 AH) viivästytti Umraa, mutta Allah antoi myöhemmin voiton, mikä osoittaa tämän teon syvät historialliset juuret.\n- Umra symboloi nöyryyttä, Umman yhtenäisyyttä ja Hajar (r.a.) sekä profeetta Ibrahimin (a.s.) uhrausten muistamista.",
+          "ps": "- پیغمبر محمد (ﷺ) د خپل ژوند په ترڅ کې څلور عمرې ترسره کړې.\n- د حدیبیې تړون (۶ هـ) عمره وځنډوله، خو الله وروسته بریا ورکړه، چې د دې عمل ژور تاریخي ریښې ښیي.\n- عمره عاجزي، د امت یووالی، او د هاجر (ر.ع.) او پیغمبر ابراهیم (ع.س.) د قربانیو یادونې ته اشاره کوي.",
+          "id": "- Nabi Muhammad (ﷺ) melaksanakan empat Umrah sepanjang hidupnya.\n- Perjanjian Hudaibiyah (6 H) menunda Umrah, tetapi Allah kemudian memberikan kemenangan, menunjukkan akar sejarah yang dalam dari ibadah ini.\n- Umrah melambangkan kerendahan hati, persatuan umat, dan mengenang pengorbanan Hajar (r.a.) serta Nabi Ibrahim (a.s.).",
+          "tr": "- Peygamber Muhammed (ﷺ) hayatı boyunca dört Umre yaptı.\n- Hudeybiye Antlaşması (6 H) Umre’yi geciktirdi, fakat Allah daha sonra zafer verdi, bu da bu ibadetin derin tarihî köklerini gösterir.\n- Umre tevazuyu, ümmetin birliğini ve Hacer (r.a.) ile Peygamber İbrahim’in (a.s.) fedakârlıklarını hatırlatır.",
+          "bn": "- নবী মুহাম্মদ (ﷺ) তাঁর জীবদ্দশায় চারটি ওমরাহ পালন করেছিলেন।\n- হুদায়বিয়ার সন্ধি (৬ হিজরী) ওমরাহ বিলম্বিত করেছিল, কিন্তু পরে আল্লাহ বিজয় দান করেছিলেন, যা এই কাজের গভীর ঐতিহাসিক শিকড় প্রদর্শন করে।\n- ওমরাহ বিনয়, উম্মাহর ঐক্য এবং হাজেরা (রা.) এবং হযরত ইব্রাহিম (আ.)-এর ত্যাগের স্মরণের প্রতীক।",
+          "so": "- Nebi Muxammad (scw) intii uu noolaa afar cumro ayuu soo maray\n- Heshiiskii Xudeybiyah (6 hijriyada) ayaa dib u dhigay cumrada, balse Alle markii dambe wuu helay guul, taasoo tusinaysa xididdada taariikhiga ah ee falkaas."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "Post-Umrah Etiquettes",
+          "ar": "آداب ما بعد العمرة",
+          "ur": "عمرہ کے بعد کے آداب",
+          "de": "Etikette nach der Umrah",
+          "fr": "Étiquettes après l'Omra",
+          "nl": "Etiquettes na de Umrah",
+          "es": "Etiquetas después de la Umrah",
+          "sv": "Etikett efter Umrah",
+          "no": "Etikette etter Umrah",
+          "fi": "Umran jälkeiset etiketit",
+          "ps": "د عمرې وروسته آداب",
+          "id": "Adab setelah Umrah",
+          "tr": "Umre Sonrası Âdâb",
+          "bn": "ওমরাহ-পরবর্তী শিষ্টাচার",
+          "so": "Cumrada ka dib"
+        },
+
+        "content": {
+          "en": "- Continue praying in Masjid al-Haram (each prayer = 100,000 rewards).\n- Perform voluntary Tawaf as much as possible.\n- Engage in charity and service to fellow pilgrims.\n- Make abundant dua before leaving Makkah.",
+          "ar": "- الاستمرار في الصلاة في المسجد الحرام (كل صلاة = 100,000 أجر).\n- أداء الطواف التطوعي قدر الإمكان.\n- الانخراط في الصدقة وخدمة الحجاج الآخرين.\n- الإكثار من الدعاء قبل مغادرة مكة.",
+          "ur": "- مسجد الحرام میں نماز پڑھنا جاری رکھیں (ہر نماز = 100,000 ثواب)۔\n- جتنا ممکن ہو نفلی طواف ادا کریں۔\n- صدقہ اور دیگر حجاج کی خدمت میں مشغول ہوں۔\n- مکہ چھوڑنے سے پہلے کثرت سے دعا کریں۔",
+          "de": "- Bete weiterhin in der Masjid al-Haram (jedes Gebet = 100.000 Belohnungen).\n- Führe so viel wie möglich freiwillige Tawaf durch.\n- Engagiere dich in Wohltätigkeit und im Dienst für andere Pilger.\n- Sprich viele Bittgebete, bevor du Mekka verlässt.",
+          "fr": "- Continuez à prier dans la Masjid al-Haram (chaque prière = 100 000 récompenses).\n- Effectuez autant que possible des Tawaf volontaires.\n- Participez à la charité et au service des autres pèlerins.\n- Faites de nombreuses invocations avant de quitter La Mecque.",
+          "nl": "- Blijf bidden in de Masjid al-Haram (elk gebed = 100.000 beloningen).\n- Doe zoveel mogelijk vrijwillige Tawaf.\n- Neem deel aan liefdadigheid en help andere pelgrims.\n- Doe veel smeekbeden voordat je Mekka verlaat.",
+          "es": "- Continúe rezando en la Mezquita Sagrada (cada oración = 100,000 recompensas).\n- Realice tantos Tawaf voluntarios como sea posible.\n- Participe en obras de caridad y servicio a otros peregrinos.\n- Haga abundantes súplicas antes de salir de La Meca.",
+          "sv": "- Fortsätt be i Masjid al-Haram (varje bön = 100 000 belöningar).\n- Utför frivillig Tawaf så mycket som möjligt.\n- Delta i välgörenhet och hjälp andra pilgrimer.\n- Gör rikliga böner innan du lämnar Mekka.",
+          "no": "- Fortsett å be i Masjid al-Haram (hver bønn = 100 000 belønninger).\n- Utfør frivillig Tawaf så mye som mulig.\n- Delta i veldedighet og tjeneste for andre pilegrimer.\n- Be mange bønner før du forlater Mekka.",
+          "fi": "- Jatka rukouksia Masjid al-Haramissa (jokainen rukous = 100 000 palkintoa).\n- Suorita mahdollisimman paljon vapaaehtoista Tawafia.\n- Osallistu hyväntekeväisyyteen ja palvele muita pyhiinvaeltajia.\n- Tee runsaasti rukouksia ennen kuin lähdet Mekasta.",
+          "ps": "- په مسجد الحرام کې لمونځونه جاري وساتئ (هر لمونځ = 100,000 ثواب).\n- تر وسه پورې نفلي طواف وکړئ.\n- په خیرات او د نورو حاجیانو په خدمت کې برخه واخلئ.\n- د مکې پرېښودو مخکې ډېر دعاوې وکړئ.",
+          "id": "- Teruslah shalat di Masjid al-Haram (setiap shalat = 100.000 pahala).\n- Lakukan tawaf sunnah sebanyak mungkin.\n- Berbuat amal sedekah dan melayani jamaah lain.\n- Perbanyak doa sebelum meninggalkan Mekkah.",
+          "tr": "- Mescid-i Haram’da namaz kılmaya devam edin (her namaz = 100.000 sevap).\n- Mümkün olduğunca çok nafile tavaf yapın.\n- Sadaka verin ve diğer hacılara hizmet edin.\n- Mekke’den ayrılmadan önce bolca dua edin.",
+          "bn": "- মসজিদুল হারামে নামাজ পড়া চালিয়ে যান (প্রতিটি নামাজ = ১০০,০০০ সওয়াব)।\n- যতটা সম্ভব স্বেচ্ছায় তাওয়াফ করুন।\n- সহযাত্রীদের দান এবং সেবায় নিয়োজিত থাকুন।\n- মক্কা ত্যাগ করার আগে প্রচুর দুআ করুন।",
+          "so": "- Sii wad ku tukashada Masjid al-Xaram (Salaado kasta = 100,000 ajri)\n- Samee Tawaf mutadawac ah intii suurtagal ah."
+        }
+
+      },
+      {
+        "section_title": {
+          "en": "The Spiritual Impact of Umrah",
+          "ar": "الأثر الروحي للعمرة",
+          "ur": "عمرہ کا روحانی اثر",
+          "de": "Die spirituelle Wirkung der Umrah",
+          "fr": "L'impact spirituel de l'Omra",
+          "nl": "De spirituele impact van de Umrah",
+          "es": "El impacto espiritual de la Umrah",
+          "sv": "Den andliga påverkan av Umrah",
+          "no": "Den åndelige virkningen av Umrah",
+          "fi": "Umrahin hengellinen vaikutus",
+          "ps": "د عمرې روحي اغېز",
+          "id": "Dampak spiritual Umrah",
+          "tr": "Umre'nin Manevi Etkisi",
+          "bn": "ওমরার আধ্যাত্মিক প্রভাব",
+          "so": "Saamaynta Ruuxa ee Cumrada"
+        },
+
+        "content": {
+          "en": "Umrah is not just a physical journey but a transformative experience:\n- Purification of the soul.\n- Renewal of faith.\n- Strengthening bonds of unity among Muslims worldwide.\n\nUmrah is a blessed act of worship that brings immense rewards and spiritual renewal. By understanding its types, rituals, virtues, prohibitions, compensations, and etiquettes, pilgrims can ensure their journey is complete and accepted by Allah (SWT). May Allah grant every Muslim the opportunity to perform Umrah and Hajj and accept their deeds. Ameen.",
+          "ar": "العمرة ليست مجرد رحلة جسدية بل تجربة تحويلية:\n- تطهير النفس.\n- تجديد الإيمان.\n- تعزيز روابط الوحدة بين المسلمين في جميع أنحاء العالم.\n\nالعمرة عبادة مباركة تجلب أجراً عظيماً وتجديداً روحياً. بفهم أنواعها وشعائرها وفضائلها ومحظوراتها وكفاراتها وآدابها، يضمن الحاج أن تكون رحلته كاملة ومقبولة عند الله (سبحانه وتعالى). اللهم ارزق كل مسلم فرصة أداء العمرة والحج وتقبل أعمالهم. آمين.",
+          "ur": "عمرہ صرف ایک جسمانی سفر نہیں بلکہ ایک تبدیلی کا تجربہ ہے:\n- روح کی پاکیزگی۔\n- ایمان کی تجدید۔\n- دنیا بھر کے مسلمانوں میں وحدت کو مضبوط کرنا۔\n\nعمرہ ایک بابرکت عبادت ہے جو بے شمار ثواب اور روحانی تازگی کا باعث بنتی ہے۔ اس کی اقسام، رسومات، فضائل، ممانعتیں، کفارات اور آداب کو سمجھ کر حاجی اپنی عبادت کو مکمل اور اللہ (SWT) کے ہاں مقبول بنا سکتا ہے۔ اللہ ہر مسلمان کو عمرہ اور حج کی سعادت نصیب فرمائے اور ان کے اعمال قبول فرمائے۔ آمین۔",
+          "de": "Die Umrah ist nicht nur eine körperliche Reise, sondern eine transformative Erfahrung:\n- Reinigung der Seele.\n- Erneuerung des Glaubens.\n- Stärkung der Einheit unter den Muslimen weltweit.\n\nDie Umrah ist ein gesegneter Gottesdienst, der großen Lohn und spirituelle Erneuerung bringt. Durch das Verständnis ihrer Arten, Rituale, Tugenden, Verbote, Sühnen und Etiketten können Pilger sicherstellen, dass ihre Reise vollständig und von Allah (s.w.t.) angenommen wird. Möge Allah jedem Muslim die Möglichkeit geben, Umrah und Hadsch zu verrichten und ihre Taten anzunehmen. Amin.",
+          "fr": "L'Omra n'est pas seulement un voyage physique mais une expérience transformatrice :\n- Purification de l'âme.\n- Renouvellement de la foi.\n- Renforcement des liens d'unité entre les musulmans du monde entier.\n\nL'Omra est un acte d'adoration béni qui apporte d'immenses récompenses et un renouveau spirituel. En comprenant ses types, ses rituels, ses vertus, ses interdits, ses compensations et ses étiquettes, les pèlerins peuvent s'assurer que leur voyage est complet et accepté par Allah (s.w.t.). Qu'Allah accorde à chaque musulman l'opportunité d'accomplir l'Omra et le Hajj et accepte leurs actes. Amine.",
+          "nl": "De Umrah is niet alleen een fysieke reis maar een transformerende ervaring:\n- Zuivering van de ziel.\n- Vernieuwing van het geloof.\n- Versterking van de eenheid onder moslims wereldwijd.\n\nDe Umrah is een gezegende daad van aanbidding die enorme beloningen en spirituele vernieuwing brengt. Door de soorten, rituelen, deugden, verboden, vergoedingen en etiquette te begrijpen, kunnen pelgrims ervoor zorgen dat hun reis volledig en door Allah (s.w.t.) aanvaard is. Moge Allah elke moslim de gelegenheid geven Umrah en Hadj te verrichten en hun daden te accepteren. Ameen.",
+          "es": "La Umrah no es solo un viaje físico, sino una experiencia transformadora:\n- Purificación del alma.\n- Renovación de la fe.\n- Fortalecimiento de los lazos de unidad entre los musulmanes en todo el mundo.\n\nLa Umrah es un acto de adoración bendecido que trae inmensas recompensas y renovación espiritual. Al comprender sus tipos, rituales, virtudes, prohibiciones, compensaciones y etiquetas, los peregrinos pueden asegurarse de que su viaje sea completo y aceptado por Alá (s.w.t.). Que Alá conceda a cada musulmán la oportunidad de realizar la Umrah y el Hayy y acepte sus obras. Amín.",
+          "sv": "Umrah är inte bara en fysisk resa utan en transformerande upplevelse:\n- Själens rening.\n- Förnyelse av tron.\n- Stärkande av enheten bland muslimer världen över.\n\nUmrah är en välsignad handling av tillbedjan som ger enorma belöningar och andlig förnyelse. Genom att förstå dess typer, ritualer, dygder, förbud, kompensationer och etikett kan pilgrimer säkerställa att deras resa är fullständig och accepterad av Allah (s.w.t.). Må Allah ge varje muslim möjligheten att utföra Umrah och Hajj och acceptera deras handlingar. Ameen.",
+          "no": "Umrah er ikke bare en fysisk reise, men en transformerende opplevelse:\n- Renselse av sjelen.\n- Fornyelse av troen.\n- Styrking av enheten blant muslimer over hele verden.\n\nUmrah er en velsignet handling av tilbedelse som gir enorme belønninger og åndelig fornyelse. Ved å forstå dens typer, ritualer, dyder, forbud, kompensasjoner og etikette kan pilegrimer sikre at reisen deres er fullstendig og akseptert av Allah (s.w.t.). Må Allah gi hver muslim muligheten til å utføre Umrah og Hajj og akseptere deres gjerninger. Ameen.",
+          "fi": "Umrah ei ole vain fyysinen matka, vaan muuttava kokemus:\n- Sielun puhdistaminen.\n- Uskon uudistaminen.\n- Muslimien välisen ykseyden vahvistaminen maailmanlaajuisesti.\n\nUmrah on siunattu palvonnan teko, joka tuo valtavia palkintoja ja hengellistä uudistumista. Ymmärtämällä sen tyypit, rituaalit, hyveet, kiellot, hyvitykset ja etiketit voivat pyhiinvaeltajat varmistaa, että heidän matkansa on täydellinen ja Allahin (s.w.t.) hyväksymä. Suokoon Allah jokaiselle muslimille mahdollisuuden suorittaa Umrah ja Hajj ja hyväksyä heidän tekonsa. Ameen.",
+          "ps": "عمره يوازې يو فزيکي سفر نه دی، بلکې يو بدلوونکی روحاني تجربه ده:\n- د روح پاکوالی.\n- د ايمان نوي کول.\n- د مسلمانانو تر منځ د يووالي د اړيکو پياوړتيا په ټوله نړۍ کې.\n\nعمره يوه مبارکه عبادت ده چې ستر ثوابونه او روحاني نوي کول راوړي. د دې د ډولونو، مناسکو، فضيلتونو، منع شويو کارونو، فديې او آدابو په پوهېدو سره، حاجيان کولی شي ډاډ ترلاسه کړي چې د دوی سفر بشپړ او د الله (س.و.ت.) له خوا منل شوی دی. الله دې هر مسلمان ته د عمرې او حج د ادا کولو توفيق ورکړي او د دوی اعمال ومني. آمين.",
+          "id": "Umrah bukan hanya perjalanan fisik tetapi pengalaman yang transformatif:\n- Penyucian jiwa.\n- Pembaruan iman.\n- Memperkuat ikatan persatuan di antara umat Islam di seluruh dunia.\n\nUmrah adalah ibadah yang diberkahi yang membawa pahala besar dan pembaruan spiritual. Dengan memahami jenis, ritual, keutamaan, larangan, fidyah, dan adab-adabnya, jamaah dapat memastikan perjalanan mereka sempurna dan diterima oleh Allah (s.w.t.). Semoga Allah memberikan setiap Muslim kesempatan untuk melaksanakan Umrah dan Haji serta menerima amal mereka. Aamiin.",
+          "tr": "Umre sadece fiziksel bir yolculuk değil, aynı zamanda dönüştürücü bir tecrübedir:\n- Nefsin arınması.\n- İmanın yenilenmesi.\n- Dünya genelindeki Müslümanlar arasında birlik bağlarının güçlendirilmesi.\n\nUmre, büyük sevaplar ve manevi yenilenme getiren mübarek bir ibadettir. Çeşitlerini, ritüellerini, faziletlerini, yasaklarını, fidyelerini ve adabını anlamak suretiyle hacılar, yolculuklarının eksiksiz ve Allah (c.c.) katında kabul edilmiş olmasını sağlayabilirler. Allah her Müslümana Umre ve Hac yapma fırsatı versin ve amellerini kabul etsin. Amin.",
+          "bn": "ওমরাহ কেবল একটি শারীরিক ভ্রমণ নয় বরং একটি রূপান্তরমূলক অভিজ্ঞতা:\n- আত্মার পবিত্রতা।\n- ঈমানের নবায়ন।\n- বিশ্বব্যাপী মুসলমানদের মধ্যে ঐক্যের বন্ধনকে শক্তিশালী করা।\n\nওমরাহ একটি বরকতময় ইবাদত যা প্রচুর পুরষ্কার এবং আধ্যাত্মিক নবায়ন নিয়ে আসে। এর প্রকারভেদ, আচার-অনুষ্ঠান, ফজিলত, নিষেধাজ্ঞা, ক্ষতিপূরণ এবং শিষ্টাচার বোঝার মাধ্যমে, হজযাত্রীরা নিশ্চিত করতে পারেন যে তাদের যাত্রা সম্পূর্ণ এবং আল্লাহ (সুবহানাহু ওয়া তায়ালা) কর্তৃক গৃহীত হয়েছে। আল্লাহ প্রতিটি মুসলিমকে ওমরাহ এবং হজ্জ করার এবং তাদের আমলগুলি কবুল করার সুযোগ দিন। আমিন।",
+          "so": "Cumradu maaha safar jireed oo kaliya ee waa khibrad isbedelaysa:\n- Nafta oo la nadiifiyo.\n- Cusboonaysiinta iimaanka.\n-Xoojinta isku xidhka midnimada muslimiinta caalamka. Marka la fahmo noocyada, cibaadada, fadliga, xaaraanta, magta, iyo aadaabta, xujaydu waxay xaqiijin karaan in socdaalkoodu yahay mid dhammaystiran oo Alle SWT aqbalayo. Qof kasta oo Muslim ah Allah ha siiyo fursad uu ku soo guto cumrada iyo xajka oo uu ka aqbalo camalkooda. Aamiin."
+        }
+
+      }
+    ]
+  }
+}
