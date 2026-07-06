@@ -68,7 +68,7 @@ void main() async {
   } catch (e, stack) {
     FirebaseCrashlytics.instance.recordError(e, stack, fatal: false);
   }
-
+ 
   //Get.put(PrayerController());
   final savedLanguage = await LocaleManager.loadLocale();
   final startLocale =
