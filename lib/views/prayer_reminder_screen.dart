@@ -329,7 +329,7 @@ class PrayerReminderScreen extends StatelessWidget {
               Switch(
                 value: isEnabled.value,
                 onChanged: (value) => onToggle(),
-                activeColor: AppColors.appbarText,
+                activeThumbColor: AppColors.appbarText,
                 activeTrackColor: AppColors.appbarText.withValues(alpha: 0.3),
                 inactiveThumbColor: AppColors.greyTextThemed(context),
                 inactiveTrackColor: AppColors.greyBorderThemed(context),

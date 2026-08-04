@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 import 'package:easy_localization/easy_localization.dart' as easy;
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -126,10 +127,11 @@ class _DiscountPaywallDialogState extends State<DiscountPaywallDialog> {
                         const SizedBox(height: 20),
                       ]),
                     ),
-                    _PurchaseButton(onTap: () {
-                      Navigator.of(context).pop();
-                      Get.to(() => const PremiumScreen());
-                    }),
+                    if (Platform.isAndroid)
+                      _PurchaseButton(onTap: () {
+                        Navigator.of(context).pop();
+                        Get.to(() => const PremiumScreen());
+                      }),
                     const SizedBox(height: 12),
                     _UrgencyRow(mm: _mm, ss: _ss),
                     const SizedBox(height: 4),

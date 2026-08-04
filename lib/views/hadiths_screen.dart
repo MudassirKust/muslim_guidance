@@ -30,12 +30,13 @@ class _HadithsScreenState extends State<HadithsScreen> {
           title: Row(
             children: [
               ButtonAnimationWidget(
-                              child: SvgPicture.asset(
-                AppImages.backIcon,
-                height: 24,
-                width: 24,
-                colorFilter: ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
-              ),
+                child: SvgPicture.asset(
+                  AppImages.backIcon,
+                  height: 24,
+                  width: 24,
+                  colorFilter:
+                      ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
+                ),
                 onTap: () => Get.back(),
               ),
               const SizedBox(width: 12),
@@ -161,18 +162,14 @@ class _HadithsScreenState extends State<HadithsScreen> {
                   Row(
                     //mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      _buildHadithCard(
-                          7,
-                          easy.tr('hadithonfiqh'), () {
+                      _buildHadithCard(7, easy.tr('hadithonfiqh'), () {
                         Get.to(() =>
                             HadithsDetail(tag: 7, bookId: 'hadith_on_fiqh'));
                       }),
                       const SizedBox(
                         width: 15,
                       ),
-                      _buildHadithCard(
-                          8,
-                          easy.tr('marriage'), () {
+                      _buildHadithCard(8, easy.tr('marriage'), () {
                         Get.to(() => HadithsDetail(
                             tag: 8, bookId: 'hadith_on_marriage'));
                       }),
@@ -184,18 +181,14 @@ class _HadithsScreenState extends State<HadithsScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      _buildHadithCard(
-                          9,
-                          easy.tr('gabriel'), () {
+                      _buildHadithCard(9, easy.tr('gabriel'), () {
                         Get.to(() =>
                             HadithsDetail(tag: 9, bookId: 'hadith_of_gabriel'));
                       }),
                       const SizedBox(
                         width: 15,
                       ),
-                      _buildHadithCard(
-                          10,
-                          easy.tr('hadithdua'), () {
+                      _buildHadithCard(10, easy.tr('hadithdua'), () {
                         Get.to(() =>
                             HadithsDetail(tag: 10, bookId: 'hadith_on_dua'));
                       }),
@@ -207,18 +200,14 @@ class _HadithsScreenState extends State<HadithsScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      _buildHadithCard(
-                          11,
-                          easy.tr('hadith_on_charity'), () {
+                      _buildHadithCard(11, easy.tr('hadith_on_charity'), () {
                         Get.to(() => HadithsDetail(
                             tag: 11, bookId: 'hadith_on_charity'));
                       }),
                       const SizedBox(
                         width: 15,
                       ),
-                      _buildHadithCard(
-                          12,
-                          easy.tr('hadith_on_polygamy'), () {
+                      _buildHadithCard(12, easy.tr('hadith_on_polygamy'), () {
                         Get.to(() => HadithsDetail(
                             tag: 12, bookId: 'hadith_on_polygamy'));
                       }),
@@ -230,18 +219,14 @@ class _HadithsScreenState extends State<HadithsScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      _buildHadithCard(
-                          13,
-                          easy.tr('hadith_on_herafter'), () {
+                      _buildHadithCard(13, easy.tr('hadith_on_herafter'), () {
                         Get.to(() => HadithsDetail(
                             tag: 13, bookId: 'hadith_on_herafter'));
                       }),
                       const SizedBox(
                         width: 15,
                       ),
-                      _buildHadithCard(
-                          14,
-                          easy.tr('hadith_on_sincerity'), () {
+                      _buildHadithCard(14, easy.tr('hadith_on_sincerity'), () {
                         Get.to(() => HadithsDetail(
                             tag: 14, bookId: 'hadith_on_sincerity'));
                       }),
@@ -365,7 +350,6 @@ class _HadithsScreenState extends State<HadithsScreen> {
                 ],
               ),
             ),
-
             Positioned(
               top: 3.5,
               left: 3.5,
@@ -375,7 +359,6 @@ class _HadithsScreenState extends State<HadithsScreen> {
                 width: 24,
               ),
             ),
-
             Positioned(
               bottom: 3.5,
               right: 3.5,
@@ -391,6 +374,7 @@ class _HadithsScreenState extends State<HadithsScreen> {
     );
   }
 
+  // ignore: non_constant_identifier_names
   Widget HadithCard(
       int tag, String title, String subtitle, VoidCallback onTap) {
     return Expanded(
@@ -435,7 +419,6 @@ class _HadithsScreenState extends State<HadithsScreen> {
                 ],
               ),
             ),
-
             Positioned(
               top: 3.5,
               left: 3.5,
@@ -445,7 +428,6 @@ class _HadithsScreenState extends State<HadithsScreen> {
                 width: 24,
               ),
             ),
-
             Positioned(
               bottom: 3.5,
               right: 3.5,

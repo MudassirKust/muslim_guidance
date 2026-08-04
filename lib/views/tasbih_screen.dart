@@ -331,6 +331,7 @@ class TasbihScreen extends StatelessWidget {
                     AnimatedContainer(
                       duration: const Duration(milliseconds: 300),
                       transform: controller.isVibrating.value
+                          // ignore: deprecated_member_use
                           ? (Matrix4.identity()..scale(1.15))
                           : Matrix4.identity(),
                       child: Container(

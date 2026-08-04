@@ -12,7 +12,8 @@ import 'widgets/animated_button.dart';
 class RamadanScreen extends StatelessWidget {
   RamadanScreen({super.key});
 
-  final RamadanController controller = Get.put(RamadanController(), permanent: true);
+  final RamadanController controller =
+      Get.put(RamadanController(), permanent: true);
 
   @override
   Widget build(BuildContext context) {
@@ -31,7 +32,8 @@ class RamadanScreen extends StatelessWidget {
                 AppImages.backIcon,
                 height: 24,
                 width: 24,
-                colorFilter: ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
+                colorFilter:
+                    ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
               ),
               onTap: () => Get.back(),
             ),
@@ -67,8 +69,10 @@ class RamadanScreen extends StatelessWidget {
       body: Obx(() {
         final lang = controller.getLanguageKey();
 
-        if (controller.regularSections.isEmpty && controller.expandableSections.isEmpty) {
-          return Center(child: CircularProgressIndicator(color: AppColors.appbarText));
+        if (controller.regularSections.isEmpty &&
+            controller.expandableSections.isEmpty) {
+          return Center(
+              child: CircularProgressIndicator(color: AppColors.appbarText));
         }
 
         return SingleChildScrollView(
@@ -79,9 +83,12 @@ class RamadanScreen extends StatelessWidget {
               children: [
                 // Regular Sections
                 ...controller.regularSections.map((section) {
-                  final title = section.sectionTitle[lang] ?? section.sectionTitle['en'] ?? '';
-                  final content = section.content[lang] ?? section.content['en'] ?? '';
-                  
+                  final title = section.sectionTitle[lang] ??
+                      section.sectionTitle['en'] ??
+                      '';
+                  final content =
+                      section.content[lang] ?? section.content['en'] ?? '';
+
                   return AnimationConfiguration.staggeredList(
                     position: controller.regularSections.indexOf(section),
                     duration: const Duration(milliseconds: 500),
@@ -107,12 +114,12 @@ class RamadanScreen extends StatelessWidget {
                       ),
                     ),
                   );
-                }).toList(),
-                
+                }),
+
                 // Read More Button for Additional Content
                 if (controller.expandableSections.isNotEmpty) ...[
                   const SizedBox(height: 30),
-                  Container(
+                  SizedBox(
                     width: double.infinity,
                     child: ElevatedButton(
                       onPressed: () => controller.toggleAllSections(),
@@ -129,12 +136,16 @@ class RamadanScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Icon(
-                            controller.isAllExpanded.value ? Icons.expand_less : Icons.expand_more,
+                            controller.isAllExpanded.value
+                                ? Icons.expand_less
+                                : Icons.expand_more,
                             size: 20,
                           ),
                           const SizedBox(width: 8),
                           Text(
-                            controller.isAllExpanded.value ? easy.tr('show_less') : easy.tr('read_more'),
+                            controller.isAllExpanded.value
+                                ? easy.tr('show_less')
+                                : easy.tr('read_more'),
                             style: GoogleFonts.poppins(
                               fontSize: 16,
                               fontWeight: FontWeight.w600,
@@ -146,13 +157,16 @@ class RamadanScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 20),
                 ],
-                
+
                 // All Expandable Content (shown when expanded)
                 if (controller.isAllExpanded.value) ...[
                   ...controller.expandableSections.map((section) {
-                    final title = section.sectionTitle[lang] ?? section.sectionTitle['en'] ?? '';
-                    final content = section.content[lang] ?? section.content['en'] ?? '';
-                    
+                    final title = section.sectionTitle[lang] ??
+                        section.sectionTitle['en'] ??
+                        '';
+                    final content =
+                        section.content[lang] ?? section.content['en'] ?? '';
+
                     return AnimationConfiguration.staggeredList(
                       position: controller.expandableSections.indexOf(section),
                       duration: const Duration(milliseconds: 300),
@@ -167,7 +181,8 @@ class RamadanScreen extends StatelessWidget {
                               borderRadius: BorderRadius.circular(15),
                               boxShadow: [
                                 BoxShadow(
-                                  color: AppColors.greyBorderThemed(context).withOpacity(0.1),
+                                  color: AppColors.greyBorderThemed(context)
+                                      .withValues(alpha: 0.1),
                                   spreadRadius: 1,
                                   blurRadius: 8,
                                   offset: const Offset(0, 3),
@@ -193,7 +208,7 @@ class RamadanScreen extends StatelessWidget {
                         ),
                       ),
                     );
-                  }).toList(),
+                  }),
                 ],
               ],
             ),
@@ -206,33 +221,33 @@ class RamadanScreen extends StatelessWidget {
   Widget _buildFormattedContent(BuildContext context, String content) {
     final lines = content.split('\n');
     final widgets = <Widget>[];
-    
+
     for (int i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
-      
+
       if (line.isEmpty) {
         widgets.add(const SizedBox(height: 8));
         continue;
       }
-      
+
       // Check if this is a table row (contains |)
       if (line.contains('|')) {
         widgets.add(_buildTableRow(context, line));
         continue;
       }
-      
+
       // Check if this is a bullet point
       if (line.startsWith('- ')) {
         widgets.add(_buildBulletPoint(context, line.substring(2)));
         continue;
       }
-      
+
       // Check if this is a numbered item (A., B., C., etc.)
       if (RegExp(r'^[A-Z]\.\s').hasMatch(line)) {
         widgets.add(_buildNumberedItem(context, line));
         continue;
       }
-      
+
       // Regular text
       widgets.add(
         Text(
@@ -245,12 +260,12 @@ class RamadanScreen extends StatelessWidget {
           ),
         ),
       );
-      
+
       if (i < lines.length - 1) {
         widgets.add(const SizedBox(height: 4));
       }
     }
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: widgets,
@@ -258,28 +273,35 @@ class RamadanScreen extends StatelessWidget {
   }
 
   Widget _buildTableRow(BuildContext context, String line) {
-    final cells = line.split('|').map((cell) => cell.trim()).where((cell) => cell.isNotEmpty).toList();
-    
+    final cells = line
+        .split('|')
+        .map((cell) => cell.trim())
+        .where((cell) => cell.isNotEmpty)
+        .toList();
+
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 2),
       padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 12),
       decoration: BoxDecoration(
-        color: AppColors.greyTextThemed(context).withOpacity(0.05),
+        color: AppColors.greyTextThemed(context).withValues(alpha: 0.05),
         borderRadius: BorderRadius.circular(6),
-        border: Border.all(color: AppColors.greyTextThemed(context).withOpacity(0.1)),
+        border: Border.all(
+            color: AppColors.greyTextThemed(context).withValues(alpha: 0.1)),
       ),
       child: Row(
-        children: cells.map((cell) => Expanded(
-          child: Text(
-            cell,
-            style: GoogleFonts.poppins(
-              fontSize: 13,
-              fontWeight: FontWeight.w500,
-              color: AppColors.greyTextThemed(context),
-            ),
-            textAlign: TextAlign.center,
-          ),
-        )).toList(),
+        children: cells
+            .map((cell) => Expanded(
+                  child: Text(
+                    cell,
+                    style: GoogleFonts.poppins(
+                      fontSize: 13,
+                      fontWeight: FontWeight.w500,
+                      color: AppColors.greyTextThemed(context),
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ))
+            .toList(),
       ),
     );
   }
@@ -318,10 +340,10 @@ class RamadanScreen extends StatelessWidget {
   Widget _buildNumberedItem(BuildContext context, String line) {
     final parts = line.split('. ');
     if (parts.length < 2) return Text(line);
-    
+
     final number = parts[0];
     final text = parts.sublist(1).join('. ');
-    
+
     return Padding(
       padding: const EdgeInsets.only(left: 16, top: 4, bottom: 4),
       child: Row(
@@ -354,4 +376,3 @@ class RamadanScreen extends StatelessWidget {
     );
   }
 }
-

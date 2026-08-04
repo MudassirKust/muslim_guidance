@@ -15,7 +15,8 @@ class JuzDetailScreen extends StatelessWidget {
 
   const JuzDetailScreen({super.key, required this.juzNumber});
 
-  void _showLanguageSelector(BuildContext context, JuzDetailController controller) {
+  void _showLanguageSelector(
+      BuildContext context, JuzDetailController controller) {
     showModalBottomSheet(
       context: context,
       backgroundColor: AppColors.bgColorThemed(context),
@@ -58,7 +59,8 @@ class JuzDetailScreen extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.fromLTRB(16, 10, 16, 10),
                         child: ElevatedButton.icon(
-                          icon: const Icon(Icons.play_circle_outline, color: Colors.white),
+                          icon: const Icon(Icons.play_circle_outline,
+                              color: Colors.white),
                           label: Text(
                             'Watch Ad to Unlock All Translations for 24h',
                             style: GoogleFonts.poppins(
@@ -80,7 +82,9 @@ class JuzDetailScreen extends StatelessWidget {
                           },
                         ),
                       ),
-                      Divider(color: AppColors.greyBorderThemed(context), height: 1),
+                      Divider(
+                          color: AppColors.greyBorderThemed(context),
+                          height: 1),
                     ],
                   );
                 }),
@@ -105,14 +109,17 @@ class JuzDetailScreen extends StatelessWidget {
                             label,
                             style: GoogleFonts.poppins(
                               fontSize: 15,
-                              fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
+                              fontWeight: isSelected
+                                  ? FontWeight.w600
+                                  : FontWeight.normal,
                               color: isSelected
                                   ? AppColors.appbarText
                                   : AppColors.blackTextThemed(context),
                             ),
                           ),
                           trailing: isSelected
-                              ? Icon(Icons.check, color: AppColors.appbarText, size: 18)
+                              ? Icon(Icons.check,
+                                  color: AppColors.appbarText, size: 18)
                               : null,
                         );
                       },
@@ -127,14 +134,16 @@ class JuzDetailScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildSurahSeparator(BuildContext context, SurahSeparatorMarker marker) {
+  Widget _buildSurahSeparator(
+      BuildContext context, SurahSeparatorMarker marker) {
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 6, horizontal: 4),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
       decoration: BoxDecoration(
         color: AppColors.containerColorThemed(context),
         borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: AppColors.appbarText.withValues(alpha: 0.3), width: 1),
+        border: Border.all(
+            color: AppColors.appbarText.withValues(alpha: 0.3), width: 1),
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -251,11 +260,14 @@ class JuzDetailScreen extends StatelessWidget {
                           Obx(() {
                             final hasAccess = controller.shouldLoadTranslation;
                             return GestureDetector(
-                              onTap: () => _showLanguageSelector(context, controller),
+                              onTap: () =>
+                                  _showLanguageSelector(context, controller),
                               child: Container(
-                                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                                padding: const EdgeInsets.symmetric(
+                                    horizontal: 10, vertical: 6),
                                 decoration: BoxDecoration(
-                                  border: Border.all(color: AppColors.appbarText, width: 1),
+                                  border: Border.all(
+                                      color: AppColors.appbarText, width: 1),
                                   borderRadius: BorderRadius.circular(20),
                                 ),
                                 child: Row(
@@ -272,7 +284,9 @@ class JuzDetailScreen extends StatelessWidget {
                                         ),
                                       )
                                     else
-                                      Icon(Icons.lock, color: AppColors.appbarText, size: 14),
+                                      Icon(Icons.lock,
+                                          color: AppColors.appbarText,
+                                          size: 14),
                                     const SizedBox(width: 2),
                                     Icon(Icons.arrow_drop_down,
                                         color: AppColors.appbarText, size: 16),
@@ -286,7 +300,9 @@ class JuzDetailScreen extends StatelessWidget {
 
                       // Watch ad banner
                       Obx(() {
-                        if (controller.shouldLoadTranslation) return const SizedBox.shrink();
+                        if (controller.shouldLoadTranslation) {
+                          return const SizedBox.shrink();
+                        }
                         return Padding(
                           padding: const EdgeInsets.only(top: 10),
                           child: ElevatedButton.icon(
@@ -318,12 +334,15 @@ class JuzDetailScreen extends StatelessWidget {
                           final items = controller.listItems;
                           return Container(
                             decoration: BoxDecoration(
-                              borderRadius: const BorderRadius.all(Radius.circular(15)),
+                              borderRadius:
+                                  const BorderRadius.all(Radius.circular(15)),
                               border: Border.all(
-                                  color: AppColors.greyBorderThemed(context), width: 1),
+                                  color: AppColors.greyBorderThemed(context),
+                                  width: 1),
                             ),
                             child: ScrollablePositionedList.builder(
-                              itemScrollController: controller.itemScrollController,
+                              itemScrollController:
+                                  controller.itemScrollController,
                               itemCount: items.length,
                               itemBuilder: (context, index) {
                                 final item = items[index];
@@ -333,7 +352,8 @@ class JuzDetailScreen extends StatelessWidget {
                                     position: index,
                                     duration: const Duration(milliseconds: 50),
                                     child: FadeInAnimation(
-                                      child: _buildSurahSeparator(context, item),
+                                      child:
+                                          _buildSurahSeparator(context, item),
                                     ),
                                   );
                                 }
@@ -349,64 +369,85 @@ class JuzDetailScreen extends StatelessWidget {
                                     verticalOffset: 50.0,
                                     child: FadeInAnimation(
                                       child: Obx(() {
-                                        final isCurrent =
-                                            controller.currentlyPlayingIndex.value == verseIndex;
+                                        final isCurrent = controller
+                                                .currentlyPlayingIndex.value ==
+                                            verseIndex;
 
                                         return Container(
                                           padding: const EdgeInsets.all(8),
                                           decoration: BoxDecoration(
                                             color: isCurrent
-                                                ? AppColors.containerColor(context)
+                                                ? AppColors.containerColor(
+                                                    context)
                                                 : AppColors.bgColor(context),
-                                            borderRadius: BorderRadius.circular(15),
+                                            borderRadius:
+                                                BorderRadius.circular(15),
                                             border: isCurrent
                                                 ? Border.all(
-                                                    color: AppColors.appbarText, width: 1)
-                                                : Border.all(color: Colors.transparent),
+                                                    color: AppColors.appbarText,
+                                                    width: 1)
+                                                : Border.all(
+                                                    color: Colors.transparent),
                                           ),
                                           child: Column(
-                                            mainAxisAlignment: MainAxisAlignment.center,
-                                            crossAxisAlignment: CrossAxisAlignment.end,
+                                            mainAxisAlignment:
+                                                MainAxisAlignment.center,
+                                            crossAxisAlignment:
+                                                CrossAxisAlignment.end,
                                             children: [
                                               Row(
                                                 mainAxisAlignment:
-                                                    MainAxisAlignment.spaceBetween,
-                                                crossAxisAlignment: CrossAxisAlignment.center,
+                                                    MainAxisAlignment
+                                                        .spaceBetween,
+                                                crossAxisAlignment:
+                                                    CrossAxisAlignment.center,
                                                 children: [
                                                   // Verse badge showing surah:ayah
                                                   Container(
-                                                    padding: const EdgeInsets.symmetric(
-                                                        horizontal: 8, vertical: 4),
+                                                    padding: const EdgeInsets
+                                                        .symmetric(
+                                                        horizontal: 8,
+                                                        vertical: 4),
                                                     decoration: BoxDecoration(
                                                       color: isCurrent
                                                           ? Colors.transparent
-                                                          : const Color(0xffF8F3E1),
+                                                          : const Color(
+                                                              0xffF8F3E1),
                                                       borderRadius:
-                                                          BorderRadius.circular(100),
+                                                          BorderRadius.circular(
+                                                              100),
                                                     ),
                                                     child: Text(
                                                       '${verse.surahNumber}:${verse.numberInSurah}',
                                                       style: TextStyle(
-                                                        fontWeight: FontWeight.bold,
+                                                        fontWeight:
+                                                            FontWeight.bold,
                                                         fontSize: 13,
                                                         color: isCurrent
-                                                            ? AppColors.greenTeal
-                                                            : AppColors.darkMintGreen,
+                                                            ? AppColors
+                                                                .greenTeal
+                                                            : AppColors
+                                                                .darkMintGreen,
                                                       ),
                                                     ),
                                                   ),
                                                   // Play/pause button
                                                   Obx(() {
                                                     final isCurrentVerse =
-                                                        controller.currentlyPlayingIndex
+                                                        controller
+                                                                .currentlyPlayingIndex
                                                                 .value ==
                                                             verseIndex;
                                                     final isPlayingVerse =
-                                                        controller.isPlaying.value &&
+                                                        controller.isPlaying
+                                                                .value &&
                                                             isCurrentVerse;
                                                     final isLoadingVerse =
-                                                        controller.isAudioLoading.value &&
-                                                            controller.audioLoadingIndex
+                                                        controller
+                                                                .isAudioLoading
+                                                                .value &&
+                                                            controller
+                                                                    .audioLoadingIndex
                                                                     .value ==
                                                                 verseIndex;
 
@@ -414,16 +455,21 @@ class JuzDetailScreen extends StatelessWidget {
                                                       return SizedBox(
                                                         height: 16,
                                                         width: 16,
-                                                        child: CircularProgressIndicator(
+                                                        child:
+                                                            CircularProgressIndicator(
                                                           strokeWidth: 2,
-                                                          color: AppColors.appbarText,
+                                                          color: AppColors
+                                                              .appbarText,
                                                         ),
                                                       );
                                                     }
 
                                                     final isAnotherVerseLoading =
-                                                        controller.isAudioLoading.value &&
-                                                            controller.audioLoadingIndex
+                                                        controller
+                                                                .isAudioLoading
+                                                                .value &&
+                                                            controller
+                                                                    .audioLoadingIndex
                                                                     .value !=
                                                                 verseIndex;
 
@@ -431,18 +477,27 @@ class JuzDetailScreen extends StatelessWidget {
                                                         isCurrentVerse) {
                                                       return SvgPicture.asset(
                                                         AppImages.play,
-                                                        color: AppColors.buttonColor,
+                                                        colorFilter:
+                                                            ColorFilter.mode(
+                                                          AppColors.buttonColor,
+                                                          BlendMode.srcIn,
+                                                        ),
                                                       );
                                                     }
 
                                                     return InkWell(
                                                       onTap: () => controller
-                                                          .togglePlayPause(verseIndex),
+                                                          .togglePlayPause(
+                                                              verseIndex),
                                                       child: SvgPicture.asset(
                                                         isPlayingVerse
                                                             ? AppImages.pause
                                                             : AppImages.play,
-                                                        color: AppColors.buttonColor,
+                                                        colorFilter:
+                                                            ColorFilter.mode(
+                                                          AppColors.buttonColor,
+                                                          BlendMode.srcIn,
+                                                        ),
                                                       ),
                                                     );
                                                   }),
@@ -457,28 +512,40 @@ class JuzDetailScreen extends StatelessWidget {
                                                   fontWeight: isCurrent
                                                       ? FontWeight.bold
                                                       : FontWeight.normal,
-                                                  color: AppColors.blackText(context),
+                                                  color: AppColors.blackText(
+                                                      context),
                                                 ),
                                               ),
-                                              if (controller.isTranslationVisible.value &&
-                                                  controller.shouldLoadTranslation &&
+                                              if (controller
+                                                      .isTranslationVisible
+                                                      .value &&
+                                                  controller
+                                                      .shouldLoadTranslation &&
                                                   verse.translation.isNotEmpty)
                                                 Padding(
-                                                  padding: const EdgeInsets.only(top: 4),
+                                                  padding:
+                                                      const EdgeInsets.only(
+                                                          top: 4),
                                                   child: SizedBox(
                                                     width: double.infinity,
                                                     child: Directionality(
-                                                      textDirection: QuranEditions.isRtlEdition(
-                                                              controller.selectedEdition.value)
+                                                      textDirection: QuranEditions
+                                                              .isRtlEdition(
+                                                                  controller
+                                                                      .selectedEdition
+                                                                      .value)
                                                           ? TextDirection.rtl
                                                           : TextDirection.ltr,
                                                       child: Text(
                                                         verse.translation,
-                                                        textAlign: TextAlign.start,
-                                                        style: GoogleFonts.poppins(
+                                                        textAlign:
+                                                            TextAlign.start,
+                                                        style:
+                                                            GoogleFonts.poppins(
                                                           fontSize: 14,
-                                                          color: AppColors.greyTextThemed(
-                                                              context),
+                                                          color: AppColors
+                                                              .greyTextThemed(
+                                                                  context),
                                                         ),
                                                       ),
                                                     ),
@@ -505,9 +572,10 @@ class JuzDetailScreen extends StatelessWidget {
                       // Bottom controls bar (no download button)
                       Obx(() {
                         return Container(
-                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                          padding:
-                              const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                          margin: const EdgeInsets.symmetric(
+                              horizontal: 16, vertical: 8),
+                          padding: const EdgeInsets.symmetric(
+                              horizontal: 16, vertical: 12),
                           decoration: BoxDecoration(
                             color: AppColors.containerColorThemed(context),
                             borderRadius: BorderRadius.circular(12),
@@ -523,13 +591,17 @@ class JuzDetailScreen extends StatelessWidget {
                                 },
                                 child: SvgPicture.asset(
                                   AppImages.previous,
-                                  color: controller.currentlyPlayingIndex.value <= 0
-                                      ? AppColors.greyText(context)
-                                      : AppColors.iconColor(context),
+                                  colorFilter: ColorFilter.mode(
+                                    controller.currentlyPlayingIndex.value <= 0
+                                        ? AppColors.greyText(context)
+                                        : AppColors.iconColor(context),
+                                    BlendMode.srcIn,
+                                  ),
                                 ),
                               ),
                               Obx(() {
-                                final isLoading = controller.isAudioLoading.value;
+                                final isLoading =
+                                    controller.isAudioLoading.value;
                                 final isPlaying = controller.isPlaying.value;
 
                                 if (isLoading) {
@@ -546,8 +618,13 @@ class JuzDetailScreen extends StatelessWidget {
                                 return InkWell(
                                   onTap: () => controller.toggleTopPlayPause(),
                                   child: SvgPicture.asset(
-                                    isPlaying ? AppImages.pause : AppImages.play,
-                                    color: AppColors.iconColorThemed(context),
+                                    isPlaying
+                                        ? AppImages.pause
+                                        : AppImages.play,
+                                    colorFilter: ColorFilter.mode(
+                                      AppColors.iconColorThemed(context),
+                                      BlendMode.srcIn,
+                                    ),
                                   ),
                                 );
                               }),
@@ -558,19 +635,24 @@ class JuzDetailScreen extends StatelessWidget {
                                       ? null
                                       : controller.playNextVerse();
                                 },
-                                child: SvgPicture.asset(
-                                  AppImages.next,
-                                  color: controller.currentlyPlayingIndex.value >=
-                                          controller.verses.length - 1
-                                      ? AppColors.greyText(context)
-                                      : AppColors.iconColor(context),
-                                ),
+                                child: SvgPicture.asset(AppImages.next,
+                                    colorFilter: ColorFilter.mode(
+                                      controller.currentlyPlayingIndex.value >=
+                                              controller.verses.length - 1
+                                          ? AppColors.greyText(context)
+                                          : AppColors.iconColor(context),
+                                      BlendMode.srcIn,
+                                    )),
                               ),
                               InkWell(
                                 onTap: () => controller.toggleMute(),
                                 child: SvgPicture.asset(
                                   AppImages.speaker,
-                                  color: AppColors.iconColorThemed(context),
+                                  colorFilter: ColorFilter.mode(
+                                    AppColors.iconColorThemed(context),
+                                    BlendMode.srcIn,
+                                  ),
+                                  // color: AppColors.iconColorThemed(context),
                                 ),
                               ),
                             ],

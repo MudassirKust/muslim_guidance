@@ -35,7 +35,8 @@ class FaqScreen extends StatelessWidget {
                 AppImages.backIcon,
                 height: 24,
                 width: 24,
-                colorFilter: ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
+                colorFilter:
+                    ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
               ),
               onTap: () => Get.back(),
             ),
@@ -134,16 +135,23 @@ class FaqScreen extends StatelessWidget {
                                     decoration: BoxDecoration(
                                       color: isSelected
                                           ? AppColors.buttonColor
-                                          : AppColors.containerColorThemed(context),
+                                          : AppColors.containerColorThemed(
+                                              context),
                                       borderRadius: BorderRadius.circular(10),
                                     ),
                                     child: SvgPicture.asset(
                                       category.iconPath,
                                       height: 28,
                                       width: 28,
-                                      color: isSelected
-                                          ? AppColors.buttonText
-                                          : AppColors.buttonColor,
+                                      colorFilter: ColorFilter.mode(
+                                        isSelected
+                                            ? AppColors.buttonText
+                                            : AppColors.buttonColor,
+                                        BlendMode.srcIn,
+                                      ),
+                                      // color: isSelected
+                                      //     ? AppColors.buttonText
+                                      //     : AppColors.buttonColor,
                                     ),
                                   ),
                                 ),
@@ -205,7 +213,8 @@ class FaqScreen extends StatelessWidget {
                                     collapsedShape: RoundedRectangleBorder(
                                       borderRadius: BorderRadius.circular(10),
                                     ),
-                                    backgroundColor: AppColors.containerColorThemed(context),
+                                    backgroundColor:
+                                        AppColors.containerColorThemed(context),
                                     onExpansionChanged: (value) => controller
                                         .toggleExpansion(index, value),
                                     title: Text(
@@ -221,7 +230,8 @@ class FaqScreen extends StatelessWidget {
                                       child: Icon(
                                         isExpanded ? Icons.remove : Icons.add,
                                         key: ValueKey(isExpanded),
-                                        color: AppColors.blackTextThemed(context),
+                                        color:
+                                            AppColors.blackTextThemed(context),
                                       ),
                                     ),
                                     children: [
@@ -236,7 +246,8 @@ class FaqScreen extends StatelessWidget {
                                           style: GoogleFonts.poppins(
                                             fontSize: 12,
                                             fontWeight: FontWeight.w400,
-                                            color: AppColors.greyTextThemed(context),
+                                            color: AppColors.greyTextThemed(
+                                                context),
                                           ),
                                           textAlign: TextAlign.left,
                                         ),
@@ -254,7 +265,8 @@ class FaqScreen extends StatelessWidget {
                                               faq.source!,
                                               style: TextStyle(
                                                 fontSize: 12,
-                                                color: AppColors.greyTextThemed(context),
+                                                color: AppColors.greyTextThemed(
+                                                    context),
                                                 fontWeight: FontWeight.w400,
                                                 fontStyle: FontStyle.italic,
                                               ),

@@ -9,7 +9,7 @@ import 'ruqiyah_info_screen.dart';
 class RuqiyahScreen extends StatelessWidget {
   final controller = Get.put(RuqiyahController());
 
-  RuqiyahScreen({Key? key}) : super(key: key);
+  RuqiyahScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -25,7 +25,8 @@ class RuqiyahScreen extends StatelessWidget {
           children: [
             Expanded(
               child: SingleChildScrollView(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -92,29 +93,34 @@ class RuqiyahScreen extends StatelessWidget {
                 ),
               ),
               Obx(() => ElevatedButton.icon(
-                onPressed: () {
-                  if (controller.isPlayAllMode.value) {
-                    controller.stopPlayAll();
-                  } else {
-                    controller.startPlayAll();
-                  }
-                },
-                icon: Icon(
-                  controller.isPlayAllMode.value ? Icons.stop : Icons.play_arrow,
-                  size: 20,
-                ),
-                label: Text(
-                  controller.isPlayAllMode.value ? easy.tr('stop_all') : easy.tr('play_all'),
-                  style: GoogleFonts.poppins(fontSize: 14),
-                ),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: controller.isPlayAllMode.value
-                      ? AppColors.wrongOption
-                      : AppColors.appbarText,
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                ),
-              )),
+                    onPressed: () {
+                      if (controller.isPlayAllMode.value) {
+                        controller.stopPlayAll();
+                      } else {
+                        controller.startPlayAll();
+                      }
+                    },
+                    icon: Icon(
+                      controller.isPlayAllMode.value
+                          ? Icons.stop
+                          : Icons.play_arrow,
+                      size: 20,
+                    ),
+                    label: Text(
+                      controller.isPlayAllMode.value
+                          ? easy.tr('stop_all')
+                          : easy.tr('play_all'),
+                      style: GoogleFonts.poppins(fontSize: 14),
+                    ),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: controller.isPlayAllMode.value
+                          ? AppColors.wrongOption
+                          : AppColors.appbarText,
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 16, vertical: 8),
+                    ),
+                  )),
             ],
           ),
           Obx(() {
@@ -123,7 +129,8 @@ class RuqiyahScreen extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 12),
                 child: Row(
                   children: [
-                    Icon(Icons.playlist_play, color: AppColors.appbarText, size: 20),
+                    Icon(Icons.playlist_play,
+                        color: AppColors.appbarText, size: 20),
                     const SizedBox(width: 8),
                     Expanded(
                       child: Text(
@@ -147,32 +154,38 @@ class RuqiyahScreen extends StatelessWidget {
 
   Widget _buildAudioList() {
     return Obx(() => ListView.separated(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
-      itemCount: controller.audios.length,
-      separatorBuilder: (context, index) => const SizedBox(height: 12),
-      itemBuilder: (context, index) {
-        final audio = controller.audios[index];
-        return _buildAudioCard(context, audio, index);
-      },
-    ));
+          shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
+          itemCount: controller.audios.length,
+          separatorBuilder: (context, index) => const SizedBox(height: 12),
+          itemBuilder: (context, index) {
+            final audio = controller.audios[index];
+            return _buildAudioCard(context, audio, index);
+          },
+        ));
   }
 
   Widget _buildAudioCard(BuildContext context, audio, int index) {
     return Obx(() {
-      final isPlaying = controller.currentlyPlayingIndex.value == index && controller.isPlaying.value;
+      final isPlaying = controller.currentlyPlayingIndex.value == index &&
+          controller.isPlaying.value;
       final isLoading = controller.audioLoadingIndex.value == index;
       final isDownloaded = controller.downloadStatus[audio.id] ?? false;
       final isDownloading = controller.isDownloading[audio.id] ?? false;
-      final downloadProgressValue = controller.downloadProgress[audio.id] ?? 0.0;
+      final downloadProgressValue =
+          controller.downloadProgress[audio.id] ?? 0.0;
 
       return Container(
         padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
-          color: isPlaying ? AppColors.containerColorThemed(context) : AppColors.containerColorThemed(context),
+          color: isPlaying
+              ? AppColors.containerColorThemed(context)
+              : AppColors.containerColorThemed(context),
           borderRadius: BorderRadius.circular(10),
           border: Border.all(
-            color: isPlaying ? AppColors.appbarText : AppColors.greyBorderThemed(context),
+            color: isPlaying
+                ? AppColors.appbarText
+                : AppColors.greyBorderThemed(context),
             width: isPlaying ? 2 : 1,
           ),
         ),
@@ -211,7 +224,9 @@ class RuqiyahScreen extends StatelessWidget {
                 const SizedBox(width: 12),
                 // Play/Pause button
                 IconButton(
-                  onPressed: isLoading ? null : () => controller.togglePlayPause(index),
+                  onPressed: isLoading
+                      ? null
+                      : () => controller.togglePlayPause(index),
                   icon: isLoading
                       ? const SizedBox(
                           width: 24,
@@ -219,7 +234,9 @@ class RuqiyahScreen extends StatelessWidget {
                           child: CircularProgressIndicator(strokeWidth: 2),
                         )
                       : Icon(
-                          isPlaying ? Icons.pause_circle_filled : Icons.play_circle_filled,
+                          isPlaying
+                              ? Icons.pause_circle_filled
+                              : Icons.play_circle_filled,
                           size: 40,
                           color: AppColors.appbarText,
                         ),
@@ -276,8 +293,10 @@ class RuqiyahScreen extends StatelessWidget {
                             const SizedBox(height: 4),
                             LinearProgressIndicator(
                               value: downloadProgressValue,
-                              backgroundColor: AppColors.greyBorderThemed(context),
-                              valueColor: const AlwaysStoppedAnimation<Color>(AppColors.appbarText),
+                              backgroundColor:
+                                  AppColors.greyBorderThemed(context),
+                              valueColor: const AlwaysStoppedAnimation<Color>(
+                                  AppColors.appbarText),
                             ),
                           ],
                         )
@@ -292,16 +311,22 @@ class RuqiyahScreen extends StatelessWidget {
                           icon: Icon(
                             isDownloaded ? Icons.check_circle : Icons.download,
                             size: 18,
-                            color: isDownloaded ? AppColors.correctOption : AppColors.appbarText,
+                            color: isDownloaded
+                                ? AppColors.correctOption
+                                : AppColors.appbarText,
                           ),
                           label: Text(
                             isDownloaded ? 'Downloaded' : 'Download',
                             style: GoogleFonts.poppins(fontSize: 12),
                           ),
                           style: OutlinedButton.styleFrom(
-                            foregroundColor: isDownloaded ? AppColors.correctOption : AppColors.appbarText,
+                            foregroundColor: isDownloaded
+                                ? AppColors.correctOption
+                                : AppColors.appbarText,
                             side: BorderSide(
-                              color: isDownloaded ? AppColors.correctOption : AppColors.appbarText,
+                              color: isDownloaded
+                                  ? AppColors.correctOption
+                                  : AppColors.appbarText,
                             ),
                           ),
                         ),
@@ -318,7 +343,8 @@ class RuqiyahScreen extends StatelessWidget {
                     LinearProgressIndicator(
                       value: controller.currentProgress.value,
                       backgroundColor: AppColors.greyBorderThemed(context),
-                      valueColor: const AlwaysStoppedAnimation<Color>(AppColors.appbarText),
+                      valueColor: const AlwaysStoppedAnimation<Color>(
+                          AppColors.appbarText),
                     ),
                     const SizedBox(height: 4),
                     Row(
@@ -376,10 +402,14 @@ class RuqiyahScreen extends StatelessWidget {
                   width: 36,
                   height: 36,
                   decoration: BoxDecoration(
-                    color: isSelected ? AppColors.appbarText : AppColors.containerColorThemed(context),
+                    color: isSelected
+                        ? AppColors.appbarText
+                        : AppColors.containerColorThemed(context),
                     borderRadius: BorderRadius.circular(18),
                     border: Border.all(
-                      color: isSelected ? AppColors.appbarText : AppColors.greyBorderThemed(context),
+                      color: isSelected
+                          ? AppColors.appbarText
+                          : AppColors.greyBorderThemed(context),
                       width: 1.5,
                     ),
                   ),
@@ -387,7 +417,9 @@ class RuqiyahScreen extends StatelessWidget {
                     child: Text(
                       '$count',
                       style: GoogleFonts.poppins(
-                        color: isSelected ? Colors.white : AppColors.blackTextThemed(context),
+                        color: isSelected
+                            ? Colors.white
+                            : AppColors.blackTextThemed(context),
                         fontWeight: FontWeight.w600,
                         fontSize: 14,
                       ),
@@ -445,7 +477,8 @@ class RuqiyahScreen extends StatelessWidget {
               iconSize: 36,
             ),
             IconButton(
-              onPressed: controller.currentlyPlayingIndex.value < controller.audios.length - 1
+              onPressed: controller.currentlyPlayingIndex.value <
+                      controller.audios.length - 1
                   ? () => controller.playNext()
                   : null,
               icon: const Icon(Icons.skip_next, color: Colors.white),

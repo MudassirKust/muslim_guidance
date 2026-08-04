@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:geolocator/geolocator.dart';
@@ -44,7 +46,7 @@ class _NavScreenState extends State<NavScreen> {
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       final shown = await LocaleManager.isPaywallShown();
       final subCtrl = Get.find<SubscriptionController>();
-      if (!shown && !subCtrl.isPremium) {
+      if (!shown && !subCtrl.isPremium && Platform.isAndroid) {
         await LocaleManager.savePaywallShown();
         if (mounted) {
           showDialog(

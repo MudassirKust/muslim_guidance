@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
@@ -48,47 +50,48 @@ class _ShowHomeNativeAdWidgetState extends State<ShowHomeNativeAdWidget> {
           // clipBehavior: Clip.none,
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
-            Obx(() {
-              if (!controller.isAdReady.value && !controller.isAdShow.value) {
-                return const SizedBox.shrink();
-              }
-              return Row(
-                mainAxisAlignment: MainAxisAlignment.end,
-                children: [
-                  GestureDetector(
-                    onTap: () {
-                      debugPrint("button clicked");
-                      if (authController.isSignedIn) {
-                        Get.to(() => const PremiumScreen());
-                      } else {
-                        Get.to(() => const SignInScreen());
-                      }
-                    },
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.end,
-                      children: [
-                        Container(
-                          height: 22,
-                          width: 22,
-                          decoration: BoxDecoration(
-                            color: Colors.red.shade600,
-                            borderRadius: const BorderRadius.only(
-                              topLeft: Radius.circular(4),
-                              topRight: Radius.circular(4),
+            if (Platform.isAndroid)
+              Obx(() {
+                if (!controller.isAdReady.value && !controller.isAdShow.value) {
+                  return const SizedBox.shrink();
+                }
+                return Row(
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: [
+                    GestureDetector(
+                      onTap: () {
+                        debugPrint("button clicked");
+                        if (authController.isSignedIn) {
+                          Get.to(() => const PremiumScreen());
+                        } else {
+                          Get.to(() => const SignInScreen());
+                        }
+                      },
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.end,
+                        children: [
+                          Container(
+                            height: 22,
+                            width: 22,
+                            decoration: BoxDecoration(
+                              color: Colors.red.shade600,
+                              borderRadius: const BorderRadius.only(
+                                topLeft: Radius.circular(4),
+                                topRight: Radius.circular(4),
+                              ),
+                            ),
+                            child: const Icon(
+                              Icons.close,
+                              size: 14,
+                              color: Colors.white,
                             ),
                           ),
-                          child: const Icon(
-                            Icons.close,
-                            size: 14,
-                            color: Colors.white,
-                          ),
-                        ),
-                      ],
+                        ],
+                      ),
                     ),
-                  ),
-                ],
-              );
-            }),
+                  ],
+                );
+              }),
 
             /// AD AREA — full height, no top padding
             SizedBox(

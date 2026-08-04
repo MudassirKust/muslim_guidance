@@ -208,9 +208,15 @@ class SettingsScreen extends StatelessWidget {
                       rippleColor: Colors.grey,
                       borderRadius: radius,
                       onTap: () {
-                        Share.share(
-                          subject: '',
-                          'Checkout this Muslim Guidance App: https://play.google.com/store/apps/details?id=com.muslimguidance',
+                        // Share.share(
+                        //   subject: '',
+                        //   'Checkout this Muslim Guidance App: https://play.google.com/store/apps/details?id=com.muslimguidance',
+                        // );
+                        SharePlus.instance.share(
+                          ShareParams(
+                            text:
+                                'Checkout this Muslim Guidance App: https://play.google.com/store/apps/details?id=com.muslimguidance',
+                          ),
                         );
                       },
                       child: Padding(

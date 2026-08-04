@@ -7,7 +7,6 @@ import 'package:intl/intl.dart';
 // Import your controllers here
 import 'qibla_controller.dart';
 import 'auth_controller.dart';
-import 'package:islamlearning/services/app_review_service.dart';
 import 'package:islamlearning/services/ad_service.dart';
 import 'package:islamlearning/services/local_manager.dart';
 import 'package:islamlearning/views/premium_screen.dart';
@@ -34,9 +33,9 @@ class NavController extends GetxController {
       _maybePresentPremiumScreen();
     });
 
-    AppReviewService.scheduleReviewIfNeeded(
-      isOnHomeScreen: () => selectedNavIndex.value == 0,
-    );
+    // AppReviewService.scheduleReviewIfNeeded(
+    //   isOnHomeScreen: () => selectedNavIndex.value == 0,
+    // );
   }
 
   Future<void> _maybePresentPremiumScreen() async {

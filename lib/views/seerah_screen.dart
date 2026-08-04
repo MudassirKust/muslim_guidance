@@ -29,13 +29,13 @@ class SeerahScreen extends StatelessWidget {
         title: Row(
           children: [
             ButtonAnimationWidget(
-              child:
-                  SvgPicture.asset(
-                    AppImages.backIcon, 
-                    height: 24, 
-                    width: 24,
-                    colorFilter: ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
-                  ),
+              child: SvgPicture.asset(
+                AppImages.backIcon,
+                height: 24,
+                width: 24,
+                colorFilter:
+                    ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
+              ),
               onTap: () => Get.back(),
             ),
             const SizedBox(width: 12),
@@ -75,7 +75,8 @@ class SeerahScreen extends StatelessWidget {
         final lang = controller.getLanguageKey();
 
         if (controller.sections.isEmpty) {
-          return Center(child: CircularProgressIndicator(color: AppColors.appbarText));
+          return Center(
+              child: CircularProgressIndicator(color: AppColors.appbarText));
         }
 
         return SingleChildScrollView(
@@ -121,12 +122,12 @@ class SeerahScreen extends StatelessWidget {
                           const SizedBox(height: 15),
                         ],
                       );
-                    }).toList(),
-                    
+                    }),
+
                     // Read More Button for Additional Content
                     if (controller.expandableSections.isNotEmpty) ...[
                       const SizedBox(height: 30),
-                      Container(
+                      SizedBox(
                         width: double.infinity,
                         child: ElevatedButton(
                           onPressed: () => controller.toggleAllSections(),
@@ -143,12 +144,16 @@ class SeerahScreen extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Icon(
-                                controller.isAllExpanded.value ? Icons.expand_less : Icons.expand_more,
+                                controller.isAllExpanded.value
+                                    ? Icons.expand_less
+                                    : Icons.expand_more,
                                 size: 20,
                               ),
                               const SizedBox(width: 8),
                               Text(
-                                controller.isAllExpanded.value ? easy.tr('show_less') : easy.tr('read_more'),
+                                controller.isAllExpanded.value
+                                    ? easy.tr('show_less')
+                                    : easy.tr('read_more'),
                                 style: GoogleFonts.poppins(
                                   fontSize: 16,
                                   fontWeight: FontWeight.w600,
@@ -160,15 +165,16 @@ class SeerahScreen extends StatelessWidget {
                       ),
                       const SizedBox(height: 20),
                     ],
-                    
+
                     // All Expandable Content (shown when expanded)
                     if (controller.isAllExpanded.value) ...[
                       ...controller.expandableSections.map((section) {
                         final title = section.sectionTitle[lang] ?? '';
                         final content = section.content[lang] ?? '';
-                        
+
                         return AnimationConfiguration.staggeredList(
-                          position: controller.expandableSections.indexOf(section),
+                          position:
+                              controller.expandableSections.indexOf(section),
                           duration: const Duration(milliseconds: 300),
                           child: SlideAnimation(
                             verticalOffset: 20.0,
@@ -177,11 +183,13 @@ class SeerahScreen extends StatelessWidget {
                                 margin: const EdgeInsets.only(bottom: 20),
                                 padding: const EdgeInsets.all(20),
                                 decoration: BoxDecoration(
-                                  color: AppColors.containerColorThemed(context),
+                                  color:
+                                      AppColors.containerColorThemed(context),
                                   borderRadius: BorderRadius.circular(15),
                                   boxShadow: [
                                     BoxShadow(
-                                      color: AppColors.greyBorderThemed(context).withValues(alpha: 0.1),
+                                      color: AppColors.greyBorderThemed(context)
+                                          .withValues(alpha: 0.1),
                                       spreadRadius: 1,
                                       blurRadius: 8,
                                       offset: const Offset(0, 3),
@@ -205,12 +213,14 @@ class SeerahScreen extends StatelessWidget {
                                         content,
                                         normalStyle: GoogleFonts.poppins(
                                           fontSize: 14,
-                                          color: AppColors.greyTextThemed(context),
+                                          color:
+                                              AppColors.greyTextThemed(context),
                                         ),
                                         boldStyle: GoogleFonts.poppins(
                                           fontSize: 14,
                                           fontWeight: FontWeight.w500,
-                                          color: AppColors.blackTextThemed(context),
+                                          color: AppColors.blackTextThemed(
+                                              context),
                                         ),
                                       ),
                                     ),
@@ -220,7 +230,7 @@ class SeerahScreen extends StatelessWidget {
                             ),
                           ),
                         );
-                      }).toList(),
+                      }),
                     ],
                   ],
                 ),
@@ -231,7 +241,8 @@ class SeerahScreen extends StatelessWidget {
   }
 }
 
-TextSpan parseBoldText(String text, {TextStyle? normalStyle, TextStyle? boldStyle}) {
+TextSpan parseBoldText(String text,
+    {TextStyle? normalStyle, TextStyle? boldStyle}) {
   final spans = <TextSpan>[];
   final regex = RegExp(r'\*\*(.*?)\*\*'); // matches **bold text**
   int lastMatchEnd = 0;

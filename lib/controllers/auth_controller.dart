@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
@@ -68,11 +70,15 @@ class AuthController extends GetxController {
   /// Firestore write was fixed.
   Future<void> _syncSubscriptionIfNeeded() async {
     final subController = Get.find<SubscriptionController>();
-    if (!subController.isPremium) return; // RC says no premium — nothing to sync
-    if (subscription.value != null) return; // Firestore already has a record — skip
-
+    if (!subController.isPremium) {
+      return; // RC says no premium — nothing to sync
+    }
+    if (subscription.value != null) {
+      return; // Firestore already has a record — skip
+    }
     // Derive plan from RC active subscriptions
-    final activeSubs = subController.customerInfo.value?.activeSubscriptions ?? [];
+    final activeSubs =
+        subController.customerInfo.value?.activeSubscriptions ?? [];
     final plan = activeSubs.any((id) => id.toLowerCase().contains('yearly'))
         ? 'yearly'
         : 'monthly';
@@ -101,7 +107,10 @@ class AuthController extends GetxController {
       isActive: true,
     );
 
-    await _firestore.collection('users').doc(user.uid).set(newSub.toFirestore());
+    await _firestore
+        .collection('users')
+        .doc(user.uid)
+        .set(newSub.toFirestore());
     subscription.value = newSub;
   }
 
@@ -133,7 +142,7 @@ class AuthController extends GetxController {
         _identifyInRevenueCat(uid),
       ]);
 
-      if (isPremium) {
+      if (isPremium || Platform.isIOS) {
         Get.off(() => NavScreen());
       } else {
         Get.off(() => const PremiumScreen());

@@ -202,10 +202,15 @@ class _QiblaScreenState extends State<QiblaScreen> {
                                   )
                                 ],
                               ),
-                              SvgPicture.asset(AppImages.arrowQibla,
-                                  color: controller.isAlignedWithQibla
+                              SvgPicture.asset(
+                                AppImages.arrowQibla,
+                                colorFilter: ColorFilter.mode(
+                                  controller.isAlignedWithQibla
                                       ? AppColors.greenNeedle
-                                      : AppColors.greyNeedleThemed(context)),
+                                      : AppColors.greyNeedleThemed(context),
+                                  BlendMode.srcIn,
+                                ),
+                              ),
                               // Icon(
                               //   Icons.arrow_drop_down,
                               //   color: controller.isAlignedWithQibla ? AppColors.greenNeedle : AppColors.greyNeedle ,

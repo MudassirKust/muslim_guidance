@@ -243,6 +243,7 @@ class RevertScreen extends StatelessWidget {
           mode: LaunchMode.externalApplication,
         );
       } else {
+        if(!context.mounted)return;
         Get.snackbar(
           'Error',
           'Could not open YouTube video',
@@ -253,6 +254,7 @@ class RevertScreen extends StatelessWidget {
         );
       }
     } catch (e) {
+      if(!context.mounted)return;
       Get.snackbar(
         'Error',
         'Failed to open YouTube: ${e.toString()}',

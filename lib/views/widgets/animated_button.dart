@@ -10,6 +10,7 @@ class ButtonAnimationWidget extends StatefulWidget {
   });
 
   @override
+  // ignore: library_private_types_in_public_api
   _ButtonAnimationWidgetState createState() => _ButtonAnimationWidgetState();
 }
 

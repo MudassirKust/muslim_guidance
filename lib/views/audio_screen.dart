@@ -56,6 +56,7 @@ class _AudioScreenState extends State<AudioScreen>
       Get.to(() => SurahDetailScreen(surahNumber: surahNumber))
           ?.then((_) => controller.refreshLastRead());
     } else {
+      if (!context.mounted) return;
       Get.snackbar(
         'Surah Not Downloaded',
         'This Surah is not available offline. Please connect to internet and download this Surah to make it available when offline.',

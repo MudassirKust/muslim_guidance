@@ -5,7 +5,7 @@ import 'package:easy_localization/easy_localization.dart' as easy;
 import 'constants/appcolors.dart';
 
 class RuqiyahInfoScreen extends StatelessWidget {
-  const RuqiyahInfoScreen({Key? key}) : super(key: key);
+  const RuqiyahInfoScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -58,7 +58,8 @@ class RuqiyahInfoScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildSection(BuildContext context, {required String title, required String content}) {
+  Widget _buildSection(BuildContext context,
+      {required String title, required String content}) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -83,7 +84,9 @@ class RuqiyahInfoScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildComprehensiveGuidelines(BuildContext context, ) {
+  Widget _buildComprehensiveGuidelines(
+    BuildContext context,
+  ) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -318,14 +321,16 @@ class RuqiyahInfoScreen extends StatelessWidget {
       decoration: BoxDecoration(
         color: AppColors.wrongOption.withValues(alpha: 0.1),
         borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: AppColors.wrongOption.withValues(alpha: 0.3), width: 2),
+        border: Border.all(
+            color: AppColors.wrongOption.withValues(alpha: 0.3), width: 2),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Row(
             children: [
-              Icon(Icons.warning_amber_rounded, color: AppColors.wrongOption, size: 24),
+              Icon(Icons.warning_amber_rounded,
+                  color: AppColors.wrongOption, size: 24),
               const SizedBox(width: 8),
               Expanded(
                 child: Text(
@@ -414,7 +419,8 @@ class RuqiyahInfoScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildWarningPoint(BuildContext context, String title, String content) {
+  Widget _buildWarningPoint(
+      BuildContext context, String title, String content) {
     return Container(
       padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
@@ -503,13 +509,15 @@ class RuqiyahInfoScreen extends StatelessWidget {
           _buildAilmentItem(context, 'المس', easy.tr('possession')),
           _buildAilmentItem(context, 'الحسد', easy.tr('jealousy')),
           _buildAilmentItem(context, 'سحر المحبة', easy.tr('love_magic')),
-          _buildAilmentItem(context, 'الأمراض النفسية والجسدية', easy.tr('overall_healing')),
+          _buildAilmentItem(
+              context, 'الأمراض النفسية والجسدية', easy.tr('overall_healing')),
         ],
       ),
     );
   }
 
-  Widget _buildAilmentItem(BuildContext context, String arabic, String english) {
+  Widget _buildAilmentItem(
+      BuildContext context, String arabic, String english) {
     return Padding(
       padding: const EdgeInsets.only(bottom: 12),
       child: Row(
@@ -551,7 +559,9 @@ class RuqiyahInfoScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildRecitersSection(BuildContext context, ) {
+  Widget _buildRecitersSection(
+    BuildContext context,
+  ) {
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
@@ -596,9 +606,9 @@ class RuqiyahInfoScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                _buildReciterName(context,'Sheikh Abdirahman Abdullahi Hashi'),
+                _buildReciterName(context, 'Sheikh Abdirahman Abdullahi Hashi'),
                 const SizedBox(height: 8),
-                _buildReciterName(context,'Sheikh Muse Dhaqane Ahmed'),
+                _buildReciterName(context, 'Sheikh Muse Dhaqane Ahmed'),
               ],
             ),
           ),
@@ -632,14 +642,16 @@ class RuqiyahInfoScreen extends StatelessWidget {
       decoration: BoxDecoration(
         color: AppColors.wrongOption.withValues(alpha: 0.1),
         borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: AppColors.wrongOption.withValues(alpha: 0.3), width: 2),
+        border: Border.all(
+            color: AppColors.wrongOption.withValues(alpha: 0.3), width: 2),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Row(
             children: [
-              Icon(Icons.warning_amber_rounded, color: AppColors.wrongOption, size: 24),
+              Icon(Icons.warning_amber_rounded,
+                  color: AppColors.wrongOption, size: 24),
               const SizedBox(width: 8),
               Text(
                 easy.tr('ruqiyah_disclaimer_title'),
@@ -670,10 +682,14 @@ class RuqiyahInfoScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                _buildDisclaimerPoint(context, easy.tr('ruqiyah_disclaimer_point_1')),
-                _buildDisclaimerPoint(context,easy.tr('ruqiyah_disclaimer_point_2')),
-                _buildDisclaimerPoint(context, easy.tr('ruqiyah_disclaimer_point_3')),
-                _buildDisclaimerPoint(context, easy.tr('ruqiyah_disclaimer_point_4')),
+                _buildDisclaimerPoint(
+                    context, easy.tr('ruqiyah_disclaimer_point_1')),
+                _buildDisclaimerPoint(
+                    context, easy.tr('ruqiyah_disclaimer_point_2')),
+                _buildDisclaimerPoint(
+                    context, easy.tr('ruqiyah_disclaimer_point_3')),
+                _buildDisclaimerPoint(
+                    context, easy.tr('ruqiyah_disclaimer_point_4')),
               ],
             ),
           ),

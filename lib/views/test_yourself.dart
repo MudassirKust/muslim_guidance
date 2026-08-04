@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -34,10 +36,12 @@ class TestYourself extends StatelessWidget {
                     AppImages.backIcon,
                     height: 24,
                     width: 24,
-                    colorFilter: ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
+                    colorFilter:
+                        ColorFilter.mode(AppColors.whiteText, BlendMode.srcIn),
                   ),
                   onTap: () {
-                    final isPremium = Get.find<SubscriptionController>().isPremium;
+                    final isPremium =
+                        Get.find<SubscriptionController>().isPremium;
                     if (isPremium &&
                         !controller.showCategorySelector.value &&
                         controller.questions.isNotEmpty) {
@@ -85,7 +89,8 @@ class TestYourself extends StatelessWidget {
                     return _buildCategorySelector(context, controller);
                   }
 
-                  if (controller.isLoading.value || controller.questions.isEmpty) {
+                  if (controller.isLoading.value ||
+                      controller.questions.isEmpty) {
                     return Center(
                         child: CircularProgressIndicator(
                       color: AppColors.appbarText,
@@ -167,9 +172,10 @@ class TestYourself extends StatelessWidget {
               return Padding(
                 padding: const EdgeInsets.fromLTRB(24, 12, 24, 28),
                 child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                   decoration: BoxDecoration(
-                    color: AppColors.greyBar(context).withValues(alpha:  0.3),
+                    color: AppColors.greyBar(context).withValues(alpha: 0.3),
                     borderRadius: BorderRadius.circular(8),
                   ),
                   child: Text(
@@ -188,7 +194,8 @@ class TestYourself extends StatelessWidget {
         ));
   }
 
-  Widget _buildCategorySelector(BuildContext context, QuizController controller) {
+  Widget _buildCategorySelector(
+      BuildContext context, QuizController controller) {
     final categories = [
       (
         category: QuizCategory.normal,
@@ -261,7 +268,8 @@ class TestYourself extends StatelessWidget {
                             padding: const EdgeInsets.symmetric(
                                 horizontal: 20, vertical: 18),
                             decoration: BoxDecoration(
-                              color: AppColors.greyBar(context).withValues(alpha:  0.3),
+                              color: AppColors.greyBar(context)
+                                  .withValues(alpha: 0.3),
                               borderRadius: BorderRadius.circular(12),
                               border: Border.all(
                                 color: AppColors.greyOption,
@@ -274,7 +282,8 @@ class TestYourself extends StatelessWidget {
                                   width: 48,
                                   height: 48,
                                   decoration: BoxDecoration(
-                                    color: AppColors.appbarText.withValues(alpha:  0.12),
+                                    color: AppColors.appbarText
+                                        .withValues(alpha: 0.12),
                                     borderRadius: BorderRadius.circular(12),
                                   ),
                                   child: Icon(
@@ -286,14 +295,16 @@ class TestYourself extends StatelessWidget {
                                 const SizedBox(width: 16),
                                 Expanded(
                                   child: Column(
-                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    crossAxisAlignment:
+                                        CrossAxisAlignment.start,
                                     children: [
                                       Text(
                                         item.title,
                                         style: GoogleFonts.poppins(
                                           fontWeight: FontWeight.w600,
                                           fontSize: 15,
-                                          color: AppColors.blackTextThemed(context),
+                                          color: AppColors.blackTextThemed(
+                                              context),
                                         ),
                                       ),
                                       const SizedBox(height: 2),
@@ -302,7 +313,8 @@ class TestYourself extends StatelessWidget {
                                         style: GoogleFonts.poppins(
                                           fontWeight: FontWeight.w400,
                                           fontSize: 12,
-                                          color: AppColors.greyTextThemed(context),
+                                          color:
+                                              AppColors.greyTextThemed(context),
                                         ),
                                       ),
                                     ],
@@ -366,17 +378,18 @@ class TestYourself extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 24),
-                _QuizPrimaryButton(
-                  label: 'Upgrade to Premium',
-                  onTap: () async {
-                    await Get.to(() => const PremiumScreen());
-                    // After returning from premium screen, check if now premium
-                    final sub = Get.find<SubscriptionController>();
-                    if (sub.isPremium) {
-                      await controller.continueToNextLevel();
-                    }
-                  },
-                ),
+                if (Platform.isAndroid)
+                  _QuizPrimaryButton(
+                    label: 'Upgrade to Premium',
+                    onTap: () async {
+                      await Get.to(() => const PremiumScreen());
+                      // After returning from premium screen, check if now premium
+                      final sub = Get.find<SubscriptionController>();
+                      if (sub.isPremium) {
+                        await controller.continueToNextLevel();
+                      }
+                    },
+                  ),
                 const SizedBox(height: 12),
                 _QuizOutlineButton(
                   label: easy.tr('try_again'),
@@ -471,9 +484,10 @@ class TestYourself extends StatelessWidget {
                   ),
                 const SizedBox(height: 24),
                 _QuizPrimaryButton(
-                  label: controller.completedLevel.value < controller.totalLevels
-                      ? easy.tr('continue')
-                      : easy.tr('try_again'),
+                  label:
+                      controller.completedLevel.value < controller.totalLevels
+                          ? easy.tr('continue')
+                          : easy.tr('try_again'),
                   onTap: () async {
                     await controller.continueToNextLevel();
                   },

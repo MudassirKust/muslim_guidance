@@ -140,6 +140,7 @@ class SurahDetailScreen extends StatelessWidget {
         .isSurahDownloaded(controller.surahNumber);
 
     if (isDownloaded) {
+      if (!context.mounted) return;
       // Show delete confirmation
       showDialog(
         context: context,
@@ -219,6 +220,7 @@ class SurahDetailScreen extends StatelessWidget {
       // Show download confirmation
       final estimatedSize =
           await controller.storageService.getEstimatedSize(controller.verses);
+      if (!context.mounted) return;
       showDialog(
         context: context,
         builder: (context) => AlertDialog(
@@ -427,8 +429,9 @@ class SurahDetailScreen extends StatelessWidget {
                         ],
                       ),
                       Obx(() {
-                        if (controller.shouldLoadTranslation)
+                        if (controller.shouldLoadTranslation) {
                           return const SizedBox.shrink();
+                        }
                         return Padding(
                           padding: const EdgeInsets.only(top: 10),
                           child: ElevatedButton.icon(
@@ -595,8 +598,13 @@ class SurahDetailScreen extends StatelessWidget {
                                                           return SvgPicture
                                                               .asset(
                                                             AppImages.play,
-                                                            color: AppColors
-                                                                .buttonColor,
+                                                            colorFilter:
+                                                                ColorFilter
+                                                                    .mode(
+                                                              AppColors
+                                                                  .buttonColor,
+                                                              BlendMode.srcIn,
+                                                            ),
                                                           );
                                                         }
 
@@ -611,8 +619,13 @@ class SurahDetailScreen extends StatelessWidget {
                                                                     .pause
                                                                 : AppImages
                                                                     .play,
-                                                            color: AppColors
-                                                                .buttonColor,
+                                                            colorFilter:
+                                                                ColorFilter
+                                                                    .mode(
+                                                              AppColors
+                                                                  .buttonColor,
+                                                              BlendMode.srcIn,
+                                                            ),
                                                           ),
                                                         );
                                                       }),
@@ -710,11 +723,13 @@ class SurahDetailScreen extends StatelessWidget {
                                   },
                                   child: SvgPicture.asset(
                                     AppImages.previous,
-                                    color: controller
-                                                .currentlyPlayingIndex.value <=
-                                            0
-                                        ? AppColors.greyText(context)
-                                        : AppColors.iconColor(context),
+                                    colorFilter: ColorFilter.mode(
+                                      controller.currentlyPlayingIndex.value <=
+                                              0
+                                          ? AppColors.greyText(context)
+                                          : AppColors.iconColor(context),
+                                      BlendMode.srcIn,
+                                    ),
                                   )),
                               Obx(() {
                                 final isLoading =
@@ -740,7 +755,11 @@ class SurahDetailScreen extends StatelessWidget {
                                     isPlaying
                                         ? AppImages.pause
                                         : AppImages.play,
-                                    color: AppColors.iconColorThemed(context),
+                                    // color: AppColors.iconColorThemed(context),
+                                    colorFilter: ColorFilter.mode(
+                                      AppColors.iconColorThemed(context),
+                                      BlendMode.srcIn,
+                                    ),
                                   ),
                                 );
                               }),
@@ -753,11 +772,18 @@ class SurahDetailScreen extends StatelessWidget {
                                   },
                                   child: SvgPicture.asset(
                                     AppImages.next,
-                                    color: controller
-                                                .currentlyPlayingIndex.value >=
-                                            controller.verses.length - 1
-                                        ? AppColors.greyText(context)
-                                        : AppColors.iconColor(context),
+                                    colorFilter: ColorFilter.mode(
+                                      controller.currentlyPlayingIndex.value >=
+                                              controller.verses.length - 1
+                                          ? AppColors.greyText(context)
+                                          : AppColors.iconColor(context),
+                                      BlendMode.srcIn,
+                                    ),
+                                    // color: controller
+                                    //             .currentlyPlayingIndex.value >=
+                                    //         controller.verses.length - 1
+                                    //     ? AppColors.greyText(context)
+                                    //     : AppColors.iconColor(context),
                                   )),
                               Obx(() {
                                 if (controller.isDownloading.value) {
@@ -793,9 +819,15 @@ class SurahDetailScreen extends StatelessWidget {
                                     controller.isOfflineMode.value
                                         ? AppImages.download
                                         : AppImages.download,
-                                    color: controller.isOfflineMode.value
-                                        ? Colors.green
-                                        : AppColors.iconColor(context),
+                                    // color: controller.isOfflineMode.value
+                                    //     ? Colors.green
+                                    //     : AppColors.iconColor(context),
+                                    colorFilter: ColorFilter.mode(
+                                      controller.isOfflineMode.value
+                                          ? Colors.green
+                                          : AppColors.iconColor(context),
+                                      BlendMode.srcIn,
+                                    ),
                                   ),
                                 );
                               }),
@@ -805,7 +837,11 @@ class SurahDetailScreen extends StatelessWidget {
                                   },
                                   child: SvgPicture.asset(
                                     AppImages.speaker,
-                                    color: AppColors.iconColorThemed(context),
+                                    colorFilter: ColorFilter.mode(
+                                      AppColors.iconColorThemed(context),
+                                      BlendMode.srcIn,
+                                    ),
+                                    // color: AppColors.iconColorThemed(context),
                                   )),
                             ],
                           ),

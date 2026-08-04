@@ -82,7 +82,9 @@ class PrayerTimesService {
     }
 
     return await Geolocator.getCurrentPosition(
-        desiredAccuracy: LocationAccuracy.high);
+      locationSettings: LocationSettings(accuracy: LocationAccuracy.high),
+      // desiredAccuracy: LocationAccuracy.high
+    );
   }
 
   Future<Map<String, String>> getPrayerTimesBasedOnLocation(

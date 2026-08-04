@@ -28,7 +28,7 @@ class PrayerStreakCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(24),
         boxShadow: [
           BoxShadow(
-            color: const Color(0xFF255B4E).withOpacity(0.35),
+            color: const Color(0xFF255B4E).withValues(alpha: 0.35),
             blurRadius: 24,
             offset: const Offset(0, 12),
           ),
@@ -246,7 +246,7 @@ class _GlowCircle extends StatelessWidget {
         shape: BoxShape.circle,
         boxShadow: [
           BoxShadow(
-            color: shadowColor.withOpacity(0.5),
+            color: shadowColor.withValues(alpha: 0.5),
             blurRadius: 10,
             offset: const Offset(0, 3),
           ),

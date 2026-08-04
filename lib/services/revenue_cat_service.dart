@@ -7,7 +7,7 @@ class RevenueCatService {
 
   static const String entitlementId = 'Muslim Guidance Pro';
 
-  static const String _apiKeyIos = 'test_RVWKspfyzeqZBLvSvQPfDLcMPZW';
+  static const String _apiKeyIos = 'appl_eSHQAiVuWwGXrGuLmFHTqfXdsAC';
   static const String _apiKeyAndroid = 'goog_dzWzgvywcVNQUaXLsQArHBAqziW';
 
   Future<void> initialize() async {
